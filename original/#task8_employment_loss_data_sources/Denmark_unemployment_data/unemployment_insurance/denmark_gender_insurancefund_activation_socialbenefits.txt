@@ -1,0 +1,93 @@
+age	type of benefits	region	sex	unemployment insurance fund	2018M01	2018M02	2018M03	2018M04	2018M05	2018M06	2018M07	2018M08	2018M09	2018M10	2018M11	2018M12	2019M01	2019M02	2019M03	2019M04	2019M05	2019M06	2019M07	2019M08	2019M09	2019M10	2019M11	2019M12	2020M01	2020M02	
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Akademikernes (fra 1. juli 2013 inkl. ingeniører)	51	46	43	39	35	36	32	37	42	45	43	37	34	44	41	38	41	43	33	37	39	40	43	48	37	39
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Byggefagenes a-kasse	5	7	7	12	9	6	3	4	6	8	6	4	4	6	8	11	8	9	6	5	5	6	7	8	5	3
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Børne- og Ungdomspædagoger (BUPL-A)	4	5	6	10	10	9	7	6	7	8	9	6	7	10	10	8	7	8	9	10	9	10	6	6	7	6
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Din Sundhedsfaglige A-kasse (DSA)	1	0	1	1	1	2	2	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	1
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Det Faglige Hus A-kasse	83	87	82	103	98	87	70	67	76	78	84	73	73	76	82	70	68	84	67	59	59	62	73	73	83	83
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	El-faget	3	4	5	3	3	4	4	3	6	3	1	3	3	5	2	2	1	1	1	2	2	3	3	3	3	4
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Fag og Arbejde (FOA)	18	18	10	16	14	14	9	12	11	10	10	11	10	12	15	12	16	16	13	14	11	10	13	16	11	10
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Faglig Fælles a-kasse (3F)	179	197	175	217	195	166	138	146	156	153	171	166	156	161	162	156	148	145	114	109	116	141	152	137	134	132
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	A-kassen Frie (fra 1. januar 2020 inkl. DANA)	4	3	1	1	3	5	2	1	2	2	5	7	6	6	9	6	4	3	2	3	5	5	6	5	10	11
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Funktionærer og Servicefag ( - dec. 2016)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Funktionærer og Tjenestemænd (FTF-A)	23	23	19	19	19	22	23	21	16	15	18	13	14	21	26	21	21	22	16	12	14	15	25	23	14	13
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Fødevareforbundet (NNF)	19	20	14	15	10	7	13	8	31	16	6	6	8	6	4	6	5	6	3	3	4	10	7	5	6	5
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Handels- og Kontorfunktionærer (HK)	40	40	30	50	54	51	39	36	37	34	43	40	35	36	42	46	36	42	36	41	43	44	48	47	40	38
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Journalistik, Kommunikation og Sprog	8	12	7	6	8	8	6	7	10	7	10	7	8	10	9	11	10	7	6	6	5	5	7	6	4	3
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Kristelig a-kasse	126	123	93	112	99	104	94	97	119	131	118	113	112	120	103	97	106	103	86	88	84	86	91	87	84	80
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Ledere	8	10	8	5	4	3	3	2	2	3	4	4	5	6	6	6	9	10	6	4	7	7	9	9	8	8
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Lærere (DLF-A)	4	4	6	5	7	7	4	5	5	6	11	8	7	6	5	7	10	9	5	6	8	7	7	8	6	7
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Magistre (MA)	20	20	11	17	18	22	17	12	18	18	16	12	12	15	12	17	16	18	12	18	17	23	20	13	14	15
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Metalarbejdere	39	39	31	40	39	32	20	22	26	31	33	31	26	25	25	29	22	25	24	21	21	25	35	31	25	23
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Min akasse (jan. 2017 - inkl. Funktionærer og Servicefag)	37	41	29	28	28	30	35	34	34	34	33	31	28	25	25	24	30	34	22	23	21	27	27	26	33	25
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Selvstændige (DANA) (- dec. 2019)	9	8	4	6	3	3	3	6	5	4	6	5	4	3	3	5	6	6	4	1	2	4	3	3	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Selvstændige Erhvervsdrivende (ASE)	44	49	52	53	61	58	42	42	51	44	48	58	47	42	41	32	33	41	29	28	33	33	41	39	42	42
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Socialpædagoger (SLA)	2	3	3	4	4	2	1	2	2	6	3	6	4	2	2	3	2	3	2	1	2	1	2	1	1	3
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Teknikere	8	7	5	5	5	5	4	6	4	5	4	2	2	3	5	3	3	3	2	1	1	3	5	6	5	4
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Økonomer (CA)	9	9	3	5	7	10	7	8	8	8	9	12	8	9	6	8	6	6	4	4	4	5	7	8	10	10
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Business ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Min akasse ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Akademikere (AAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Blik- og rør (-dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Erhvervssproglige (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Forsvarets a-kasse (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Frisører, Artister og Maritim (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Grafisk a-kasse (- dec. 1999)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Ingeniører (IAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	IT-faget og Merkonomer (PROSA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Journalister (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Kvindelige Arbejdere (KAD) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Malerfaget og Maritime (- dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Malersvende (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Maritim a-kasse (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Pædagogmedhjælpere (PMF-A) (- dec. 2005)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	RestaurationsBranchen (- jini 2006)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Specialarbejdere (SID) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Stats- og Teleansatte (STA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Træ-Industri-Byg (TIB) ( - dec. 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Men	Ikke forsikrede	6264	6570	5781	6318	6027	5895	4933	4694	4842	4707	4750	4341	3825	3984	4121	4088	3867	3900	3368	3249	3369	3402	3591	3364	2934	2955
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Akademikernes (fra 1. juli 2013 inkl. ingeniører)	22	20	20	22	25	25	20	21	25	28	32	23	25	28	27	20	23	23	17	21	20	26	31	24	14	15
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Byggefagenes a-kasse	4	5	5	3	2	3	4	6	4	1	2	3	4	5	6	6	3	6	5	3	2	2	2	1	1	2
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Børne- og Ungdomspædagoger (BUPL-A)	18	25	20	18	22	24	9	11	14	13	15	15	15	12	13	13	16	16	11	15	15	19	19	17	14	13
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Din Sundhedsfaglige A-kasse (DSA)	4	5	5	3	3	2	3	3	4	4	3	3	2	2	3	2	3	1	0	1	1	2	2	1	1	1
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Det Faglige Hus A-kasse	67	71	62	63	65	66	43	47	50	53	54	51	57	59	51	49	55	56	39	41	51	53	58	55	58	51
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	El-faget	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	1	1
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Fag og Arbejde (FOA)	58	54	40	57	51	55	42	44	52	57	58	52	46	57	47	43	46	45	33	34	40	44	45	33	32	34
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Faglig Fælles a-kasse (3F)	94	97	84	95	86	85	60	65	79	82	91	79	64	74	67	63	68	76	54	62	66	64	67	64	56	56
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	A-kassen Frie (fra 1. januar 2020 inkl. DANA)	3	4	4	6	5	5	4	6	5	4	3	4	4	5	2	1	3	4	5	5	4	4	2	2	5	6
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Funktionærer og Servicefag ( - dec. 2016)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Funktionærer og Tjenestemænd (FTF-A)	15	15	8	12	14	10	9	9	11	10	10	8	7	13	14	14	14	10	11	12	15	17	16	12	14	20
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Fødevareforbundet (NNF)	5	6	6	5	4	4	3	2	4	4	5	5	5	1	1	1	3	4	2	3	2	3	3	2	1	4
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Handels- og Kontorfunktionærer (HK)	101	102	81	95	93	93	74	81	82	89	85	73	68	65	69	66	51	60	57	48	57	62	71	62	55	49
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Journalistik, Kommunikation og Sprog	10	11	9	5	5	7	6	6	6	10	7	6	7	6	9	9	6	5	3	3	9	8	10	5	2	4
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Kristelig a-kasse	102	106	98	116	109	107	75	81	89	83	83	77	72	79	81	82	76	68	60	68	85	80	83	76	67	69
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Ledere	7	7	6	2	1	4	2	3	1	4	5	6	3	3	3	3	4	4	3	4	4	3	3	2	3	2
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Lærere (DLF-A)	5	4	5	3	8	6	2	1	4	4	5	2	2	5	5	3	3	4	3	6	5	4	5	4	4	3
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Magistre (MA)	19	19	19	20	20	20	15	13	15	22	21	17	18	19	23	27	25	24	16	16	19	18	27	22	22	20
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Metalarbejdere	2	2	3	4	3	5	3	3	2	1	0	0	0	0	1	1	1	2	1	1	1	1	2	1	1	1
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Min akasse (jan. 2017 - inkl. Funktionærer og Servicefag)	18	19	14	11	14	14	14	18	19	16	17	16	13	16	15	14	14	15	16	9	16	15	12	11	12	10
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Selvstændige (DANA) (- dec. 2019)	2	3	2	4	4	3	2	1	1	1	2	4	1	2	3	2	1	2	2	2	3	2	3	4	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Selvstændige Erhvervsdrivende (ASE)	36	30	25	32	34	34	35	37	36	36	36	34	28	25	37	32	26	28	18	24	18	23	26	23	16	17
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Socialpædagoger (SLA)	4	4	3	2	3	2	1	1	1	1	2	4	2	3	3	3	1	0	2	1	2	4	4	5	4	3
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Teknikere	4	5	4	8	9	9	6	8	8	10	10	9	5	8	7	7	8	7	6	5	5	7	8	5	3	3
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Økonomer (CA)	4	4	3	3	5	7	5	7	9	9	9	7	5	5	9	9	8	8	6	4	4	4	3	5	5	4
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Business ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Min akasse ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Akademikere (AAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Blik- og rør (-dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Erhvervssproglige (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Forsvarets a-kasse (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Frisører, Artister og Maritim (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Grafisk a-kasse (- dec. 1999)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Ingeniører (IAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	IT-faget og Merkonomer (PROSA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Journalister (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Kvindelige Arbejdere (KAD) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Malerfaget og Maritime (- dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Malersvende (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Maritim a-kasse (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Pædagogmedhjælpere (PMF-A) (- dec. 2005)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	RestaurationsBranchen (- jini 2006)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Specialarbejdere (SID) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Stats- og Teleansatte (STA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Træ-Industri-Byg (TIB) ( - dec. 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Age, total	Activation of persons on social assistance (prepared for employment)	All Denmark	Women	Ikke forsikrede	4167	4364	4029	4492	4388	4275	3374	3410	3725	3758	3879	3524	3145	3232	3361	3335	3344	3332	2609	2675	2969	3096	3257	2936	2571	2605

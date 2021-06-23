@@ -1,0 +1,349 @@
+sex	unemployment insurance fund	type of benefits	age	region	2018M01	2018M02	2018M03	2018M04	2018M05	2018M06	2018M07	2018M08	2018M09	2018M10	2018M11	2018M12	2019M01	2019M02	2019M03	2019M04	2019M05	2019M06	2019M07	2019M08	2019M09	2019M10	2019M11	2019M12	2020M01	2020M02	
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Region Hovedstaden	1464	1526	1422	1226	1080	1201	1484	1486	1231	1255	1131	1136	1264	1371	1276	1114	967	1204	1566	1508	1183	1147	1083	1035	1286	1408
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Byen København	675	730	682	584	539	647	855	840	643	641	553	546	633	694	651	578	491	653	919	864	639	599	551	506	658	739
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Copenhagen	577	635	579	503	462	550	736	726	545	551	464	455	537	597	556	493	418	562	786	752	561	526	483	433	576	647
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Frederiksberg	61	62	71	55	52	65	85	83	64	60	55	53	60	60	54	53	47	65	99	89	60	48	44	47	57	61
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Dragør	3	3	1	1	0	2	1	1	1	1	2	4	1	2	3	2	2	3	3	3	0	2	2	3	2	3
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Tårnby	34	31	31	25	25	30	33	30	33	29	32	34	35	36	38	31	25	23	31	20	18	23	22	23	23	28
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Københavns omegn	500	514	476	423	354	358	394	404	363	381	347	349	373	398	376	332	299	347	421	416	337	335	327	322	387	403
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Albertslund	35	34	30	30	29	27	26	29	24	28	26	25	32	27	25	30	27	31	40	37	27	25	27	27	35	37
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Ballerup	46	44	47	48	38	34	33	27	22	29	30	31	28	40	40	37	34	35	33	39	27	26	32	28	32	38
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Brøndby	44	46	38	35	33	32	33	37	32	37	35	29	31	38	41	32	29	31	40	39	34	33	26	33	36	37
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Gentofte	22	23	28	28	18	18	20	21	22	25	23	22	23	22	25	21	17	20	34	24	22	21	18	13	17	19
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Gladsaxe	61	64	52	44	36	37	42	41	35	38	35	29	32	37	29	22	17	23	32	27	23	24	17	18	24	26
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Glostrup	20	24	22	22	20	14	17	18	15	14	15	16	22	16	15	11	14	16	18	20	19	20	19	18	22	22
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Herlev	27	21	21	18	12	10	13	12	15	17	15	19	18	13	16	18	10	13	19	15	11	9	11	10	15	17
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Hvidovre	58	54	47	35	32	32	39	43	35	38	37	41	50	51	45	35	33	39	55	53	43	45	39	41	45	45
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Høje-Taastrup	61	65	61	57	45	50	57	57	51	49	41	50	47	53	42	43	41	47	49	50	47	41	43	41	48	49
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Ishøj	41	39	37	34	28	29	28	37	36	30	32	29	30	29	27	23	21	31	31	29	24	30	33	36	39	35
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Lyngby-Taarbæk	22	33	29	22	25	24	35	33	28	29	23	17	18	25	25	22	19	21	25	31	25	24	27	23	28	26
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Rødovre	47	51	46	36	27	35	38	35	34	35	28	34	32	34	35	30	30	29	36	40	25	26	22	18	28	31
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Vallensbæk	16	15	17	13	13	13	12	12	14	12	7	8	10	13	11	8	7	11	11	11	11	12	13	15	20	23
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Nordsjælland	259	259	246	204	175	182	212	226	207	211	204	209	221	243	225	189	164	189	207	213	189	188	181	181	212	242
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Allerød	11	10	9	4	4	6	6	7	9	8	8	10	7	8	9	7	6	3	5	8	7	7	6	5	6	8
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Egedal	19	21	23	17	16	14	21	19	13	15	13	14	15	12	13	17	18	18	21	19	16	17	13	10	10	19
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Fredensborg	25	23	20	16	14	13	21	17	20	21	18	16	16	23	24	16	14	19	27	28	24	21	15	14	19	22
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Frederikssund	30	27	31	28	25	23	20	29	28	36	28	29	24	28	27	22	18	24	18	16	14	16	19	22	25	30
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Furesø	18	17	20	17	13	13	19	24	20	14	15	12	12	12	8	10	8	11	10	9	10	14	16	15	12	9
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Gribskov	21	23	22	18	11	11	13	11	13	13	14	15	18	17	16	16	15	16	13	16	19	13	13	18	20	23
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Halsnæs	37	41	32	22	23	24	32	30	27	27	24	26	31	30	26	18	19	18	20	20	22	16	19	24	30	30
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Helsingør	43	39	37	33	34	38	30	34	31	30	40	45	47	48	47	41	34	37	40	40	31	33	35	33	40	49
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Hillerød	39	38	37	35	24	26	30	32	31	30	30	27	34	45	37	26	24	30	37	38	28	31	27	26	31	35
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Hørsholm	3	3	5	4	2	4	7	5	4	5	4	5	6	6	8	6	4	4	5	7	6	6	4	6	7	3
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Rudersdal	14	15	11	9	10	11	13	18	12	11	12	11	11	14	12	10	4	9	12	11	13	15	14	9	12	14
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Bornholm	31	23	19	15	12	14	22	16	18	22	27	32	38	37	25	15	13	15	18	16	18	25	25	26	29	24
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Bornholm	31	23	19	15	12	14	22	16	18	22	27	32	38	37	25	15	13	15	18	16	18	25	25	26	29	24
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Region Sjælland	800	798	790	650	559	546	607	657	601	632	607	639	746	745	699	606	519	547	642	628	559	574	558	574	690	758
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Østsjælland	202	201	206	185	154	150	178	185	169	168	160	167	186	203	197	177	151	165	202	188	160	176	164	153	181	188
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Greve	31	27	33	33	16	19	27	34	25	29	27	25	25	24	23	31	29	34	43	37	32	32	31	36	38	38
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Køge	63	64	66	64	59	60	64	61	54	57	53	57	66	60	57	41	32	40	47	41	39	50	43	38	46	47
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Lejre	12	10	13	15	14	9	12	11	13	10	12	14	11	14	15	13	11	9	7	11	12	8	10	12	15	16
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Roskilde	84	93	84	65	57	55	66	70	62	58	56	57	66	87	85	76	63	66	87	85	69	74	66	54	68	75
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Solrød	13	6	11	10	9	8	8	9	15	14	13	13	17	18	17	16	15	16	17	14	9	11	14	13	13	12
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Vest- og Sydsjælland	598	597	584	464	405	395	429	472	432	464	447	472	559	541	502	429	368	382	440	440	398	397	394	421	510	570
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Faxe	34	40	35	30	29	29	22	20	25	28	28	28	36	29	24	21	21	19	23	28	24	28	24	23	26	38
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Guldborgsund	57	53	49	47	42	46	49	53	47	51	48	47	61	60	63	54	47	50	58	48	58	57	50	53	67	78
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Holbæk	76	73	70	54	41	45	45	52	39	50	38	43	44	48	42	34	30	31	40	43	37	42	47	53	55	60
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Kalundborg	51	51	51	35	39	36	37	41	44	41	43	48	51	48	37	38	32	28	29	33	35	34	36	36	39	39
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Lolland	46	45	38	26	27	25	24	27	29	22	23	22	32	35	32	24	21	23	24	26	27	24	20	22	29	27
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Næstved	90	89	79	68	62	59	68	68	64	60	57	60	73	79	73	63	51	57	65	67	52	56	55	67	88	97
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Odsherred	28	27	36	27	19	17	14	21	22	26	29	31	35	31	24	25	22	25	25	21	20	18	22	23	26	31
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Ringsted	30	35	35	23	23	25	33	37	32	30	35	33	41	40	35	30	26	20	29	31	20	21	25	23	21	23
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Slagelse	98	98	105	90	67	64	79	81	69	89	86	87	96	87	90	76	56	70	83	78	64	67	61	70	92	105
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Sorø	27	24	23	19	18	17	13	20	19	19	17	24	30	28	27	23	21	20	18	19	19	16	17	17	22	24
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Stevns	20	19	20	15	12	11	13	18	16	20	17	19	24	22	20	15	15	11	13	15	17	14	14	10	13	12
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Vordingborg	41	43	43	29	26	23	31	34	26	28	26	29	36	35	35	26	27	27	33	31	25	20	23	23	32	37
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Region Syddanmark	1363	1348	1248	1056	923	945	1240	1210	989	988	934	964	1193	1244	1116	943	852	1008	1279	1226	979	960	899	951	1216	1241
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Fyn	596	633	575	482	421	452	613	602	466	455	437	439	566	591	532	451	421	509	663	635	483	447	411	423	553	586
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Assens	33	30	33	24	25	28	25	30	28	24	29	27	30	24	20	16	16	17	20	19	17	19	16	19	24	28
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Faaborg-Midtfyn	51	43	45	39	33	33	35	32	29	35	40	42	52	49	40	39	35	33	30	30	20	23	28	37	35	37
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Kerteminde	24	21	18	19	16	12	17	17	12	15	17	13	16	16	14	12	12	8	8	8	8	8	10	12	10	8
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Langeland	12	11	9	5	2	2	6	4	6	6	8	6	5	7	5	5	6	6	5	6	6	8	9	8	7	9
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Middelfart	27	26	23	20	14	13	19	15	17	17	16	16	23	21	20	18	17	19	25	26	26	23	16	17	19	18
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Nordfyns	29	26	28	19	20	14	19	17	14	16	13	14	17	21	25	20	14	18	17	16	17	18	16	20	23	25
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Nyborg	32	32	26	18	18	20	26	26	20	26	35	33	34	36	32	31	28	28	23	27	25	26	22	29	33	28
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Odense	334	389	345	298	255	293	420	414	304	281	243	252	342	372	335	267	249	339	490	458	321	284	257	246	353	387
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Svendborg	51	53	45	39	38	36	45	46	34	36	36	35	46	43	41	42	43	40	46	44	42	38	33	34	50	46
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Ærø	3	2	1	0	0	0	1	1	1	0	0	1	2	2	1	0	2	2	1	1	1	1	3	1	0	0
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Sydjylland	766	715	673	573	501	493	627	608	523	533	498	524	626	653	584	492	431	499	616	591	497	513	488	528	663	655
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Billund	19	19	24	24	20	22	21	14	16	17	15	15	20	13	11	10	6	8	7	8	11	14	15	15	18	19
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Esbjerg	163	156	130	103	86	103	149	134	117	114	98	104	132	133	119	98	81	112	157	140	106	111	103	105	147	142
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Fanø	0	1	1	1	1	1	1	2	1	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	2	1
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Fredericia	60	64	58	52	44	40	51	50	38	45	44	36	41	41	47	38	36	43	51	52	47	46	49	54	52	55
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Haderslev	73	56	50	38	39	39	47	45	45	42	46	45	55	65	56	45	46	37	38	33	26	28	29	34	44	40
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Kolding	105	97	106	93	83	75	98	101	67	78	73	70	86	97	96	88	77	81	104	99	80	79	71	79	98	96
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Sønderborg	61	59	57	54	40	47	65	56	52	47	43	48	49	51	46	41	32	42	59	49	45	55	49	47	57	57
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Tønder	32	33	30	28	19	20	22	27	22	25	21	27	37	34	31	22	21	23	31	37	27	20	22	29	37	36
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Varde	49	46	47	28	23	22	25	28	29	31	28	40	51	50	35	27	27	31	33	40	30	38	35	35	44	41
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Vejen	28	25	25	19	19	13	23	20	21	18	18	12	17	22	17	13	16	16	21	18	20	17	13	18	23	20
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Vejle	128	109	99	96	100	87	90	94	79	73	74	82	89	93	85	77	64	76	83	71	64	69	66	70	94	103
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Aabenraa	49	47	46	37	28	23	35	36	36	42	37	44	49	52	41	32	26	30	33	44	40	36	35	42	48	43
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Region Midtjylland	1568	1637	1520	1324	1162	1254	1660	1617	1243	1164	1125	1166	1446	1522	1384	1180	1080	1238	1561	1475	1157	1164	1058	1103	1366	1451
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Østjylland	1141	1206	1134	999	894	986	1306	1247	945	893	853	860	1070	1147	1045	910	823	956	1230	1131	876	877	775	820	1013	1106
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Favrskov	50	40	34	27	27	23	27	27	27	24	24	28	30	31	31	26	24	22	30	23	16	19	22	25	25	27
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Hedensted	28	25	26	26	25	20	22	27	29	26	28	31	33	30	26	28	24	23	28	22	19	19	20	21	26	33
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Horsens	113	130	143	130	109	103	112	119	99	104	90	91	120	133	135	116	104	109	121	116	103	112	102	105	112	144
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Norddjurs	58	63	60	58	56	55	71	61	41	49	52	56	58	61	46	44	43	33	38	37	26	35	37	35	41	44
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Odder	16	17	15	9	8	5	8	9	11	11	10	7	10	12	11	10	9	8	12	13	10	13	10	8	17	14
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Randers	185	180	172	147	141	142	162	163	135	145	138	150	153	154	153	131	113	126	138	137	121	115	97	114	122	111
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Samsø	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Silkeborg	101	82	70	60	51	59	90	70	66	74	75	77	89	79	68	47	47	46	72	72	57	67	68	74	76	78
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Skanderborg	33	27	24	27	22	24	39	40	31	29	19	22	27	27	22	24	20	25	27	27	32	28	30	29	33	28
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Syddjurs	26	21	25	24	22	17	22	24	19	21	21	21	24	26	25	27	25	25	25	22	21	24	22	29	31	24
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Aarhus	531	621	563	490	434	537	753	706	487	411	396	379	528	594	527	458	415	539	738	661	470	444	367	380	530	602
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Vestjylland	427	430	387	325	268	268	354	371	298	272	272	306	376	375	339	269	256	282	331	344	281	288	283	283	352	344
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Herning	104	102	91	78	60	67	95	97	75	61	59	63	94	99	91	68	70	76	87	85	80	65	59	62	82	78
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Holstebro	55	60	47	27	26	31	36	42	27	32	26	28	39	41	43	28	28	26	35	35	25	33	28	26	38	40
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Ikast-Brande	43	48	41	39	36	29	35	38	38	29	37	33	34	36	30	30	32	37	31	38	28	27	26	27	34	42
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Lemvig	12	11	10	8	3	4	7	13	17	17	13	19	20	18	12	8	10	9	9	11	11	14	13	10	11	15
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Ringkøbing-Skjern	56	56	54	38	27	25	29	34	36	36	34	35	42	37	36	31	26	26	28	28	26	25	29	31	35	32
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Skive	37	38	39	41	29	29	45	38	37	33	33	41	38	40	34	30	23	27	43	42	36	33	38	36	46	41
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Struer	19	14	15	17	11	11	12	11	10	14	8	13	23	22	21	17	11	11	12	14	12	10	11	14	17	15
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Viborg	100	101	89	77	75	72	94	96	59	50	63	73	86	82	73	57	57	70	86	91	62	81	78	76	89	81
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Region Nordjylland	846	866	800	653	555	608	837	807	643	626	590	625	761	789	708	613	535	632	867	770	610	608	573	584	732	767
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Province Nordjylland	846	866	800	653	555	608	837	807	643	626	590	625	761	789	708	613	535	632	867	770	610	608	573	584	732	767
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Brønderslev	47	48	39	28	23	21	20	23	27	31	31	32	36	41	32	26	27	25	27	26	19	26	25	24	32	36
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Frederikshavn	81	69	65	57	43	38	47	55	59	54	53	52	61	65	55	48	41	41	45	42	44	53	51	56	71	55
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Hjørring	97	87	79	65	51	53	75	71	65	68	63	64	82	81	63	52	50	57	68	70	59	63	69	66	79	88
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Jammerbugt	38	41	33	22	18	19	24	23	19	25	18	29	34	37	34	20	18	18	24	22	19	26	23	22	35	33
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Læsø	2	0	0	0	0	1	0	0	1	0	1	1	1	2	0	0	0	0	0	0	0	1	1	1	1	1
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Mariagerfjord	55	51	53	39	32	29	33	26	26	26	31	35	41	39	33	30	35	32	32	35	33	34	36	42	41	46
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Morsø	22	14	17	12	10	10	13	16	15	12	11	14	20	17	14	13	10	10	13	10	9	9	8	10	18	17
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Rebild	12	13	10	12	8	13	16	18	16	23	18	25	20	22	16	17	17	14	20	22	15	17	14	19	28	28
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Thisted	45	43	41	24	21	19	28	31	21	20	24	34	37	35	30	29	20	20	31	31	29	25	30	34	35	35
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Vesthimmerlands	39	29	25	22	19	17	26	34	33	34	28	31	35	34	27	27	25	23	25	23	26	23	24	26	28	28
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Aalborg	409	471	436	373	329	390	555	509	360	332	310	307	392	416	403	352	291	393	582	491	356	331	292	285	364	400
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of unemployment benefits	16-24 years	Abroad	6	10	7	5	6	4	9	16	11	10	4	3	7	8	9	6	7	5	6	14	25	11	9	5	7	6
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Region Hovedstaden	5533	5639	5342	4889	4576	4887	6276	6023	5313	5369	4936	5021	5484	5642	5308	4892	4562	5156	6702	6416	5569	5520	5149	5180	5735	5984
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Byen København	3663	3772	3511	3215	2994	3346	4519	4272	3616	3639	3295	3369	3695	3809	3538	3293	3077	3647	4973	4668	3936	3882	3601	3549	3958	4174
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Copenhagen	3251	3337	3107	2805	2619	2948	3972	3722	3150	3187	2876	2963	3273	3386	3133	2912	2742	3206	4373	4104	3485	3429	3186	3141	3490	3673
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Frederiksberg	311	336	310	321	287	312	438	448	385	368	334	315	326	335	318	306	262	361	510	481	371	374	343	335	382	420
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Dragør	8	8	7	7	9	8	10	8	8	11	9	13	13	13	12	10	10	12	15	11	8	12	11	11	9	10
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Tårnby	93	91	87	83	79	78	98	94	72	74	76	77	82	75	75	66	64	69	76	72	73	67	61	62	77	72
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Københavns omegn	1266	1244	1233	1143	1080	1065	1219	1215	1177	1189	1130	1117	1191	1230	1173	1056	993	1035	1152	1179	1105	1110	1044	1089	1152	1179
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Albertslund	75	76	90	80	84	80	83	88	94	90	82	92	96	96	76	78	76	76	71	76	67	69	64	72	86	83
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Ballerup	92	86	93	75	72	73	78	76	76	89	91	89	90	91	102	89	88	82	100	109	104	109	95	92	101	103
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Brøndby	116	102	106	105	97	98	112	115	104	105	94	96	102	98	97	96	90	90	96	101	86	89	91	98	98	112
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Gentofte	113	106	98	90	90	90	116	112	103	95	99	91	108	106	105	88	80	94	124	117	107	104	89	83	87	96
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Gladsaxe	177	184	188	172	151	142	160	153	152	151	133	113	105	111	101	76	65	78	95	84	99	97	88	101	90	97
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Glostrup	64	56	50	42	40	45	56	58	47	44	48	52	53	56	55	46	53	58	59	58	52	49	53	53	45	52
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Herlev	62	44	36	29	29	33	35	40	36	36	41	32	30	37	35	29	23	23	33	33	27	31	27	27	34	32
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Hvidovre	131	135	134	127	121	126	152	132	137	134	124	135	142	150	134	123	112	125	135	133	121	115	105	110	122	131
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Høje-Taastrup	115	120	121	118	113	111	119	119	117	116	104	107	124	131	122	118	114	100	112	112	118	126	120	133	142	142
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Ishøj	86	87	85	84	82	78	82	95	88	90	87	90	89	91	88	78	65	68	71	84	83	79	81	82	90	83
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Lyngby-Taarbæk	106	113	107	99	85	76	97	97	104	115	102	90	107	117	111	111	92	97	116	128	115	109	98	105	110	119
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Rødovre	98	106	96	96	92	91	108	96	89	90	89	94	103	104	104	94	95	103	103	100	84	87	88	92	101	82
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Vallensbæk	31	29	30	26	22	21	22	33	31	33	36	36	43	39	43	30	39	40	38	45	41	46	45	41	45	47
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Nordsjælland	557	575	543	485	463	439	498	484	464	483	459	481	540	544	539	494	455	436	533	530	480	480	444	481	549	563
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Allerød	25	25	22	19	18	15	22	17	17	19	17	17	20	19	22	21	19	18	26	19	16	21	24	21	19	17
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Egedal	49	51	46	46	47	48	48	43	43	46	49	47	51	56	52	46	46	48	57	54	49	49	44	50	54	57
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Fredensborg	43	54	48	41	37	41	44	43	45	45	45	54	57	56	53	44	44	43	52	62	57	52	50	54	56	54
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Frederikssund	52	65	65	58	48	45	49	56	47	49	37	38	57	58	64	55	52	47	61	59	54	53	44	44	57	63
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Furesø	43	47	44	46	42	30	38	40	40	40	34	40	39	37	37	32	22	28	38	35	35	35	37	36	39	47
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Gribskov	40	31	29	29	26	29	27	32	27	33	36	37	42	39	48	44	36	30	38	43	37	34	34	38	48	60
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Halsnæs	49	52	48	39	38	34	36	32	30	33	34	37	45	43	45	38	37	36	36	38	31	35	34	39	42	40
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Helsingør	106	109	100	79	76	71	82	81	77	85	81	83	95	93	84	82	86	86	95	89	80	81	81	87	112	101
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Hillerød	72	69	72	61	65	66	73	67	66	60	56	62	70	77	74	68	60	52	66	53	52	47	42	52	62	64
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Hørsholm	18	17	13	15	15	13	29	25	22	22	19	19	18	15	12	12	13	13	19	17	13	11	10	12	16	17
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Rudersdal	61	55	54	53	50	47	50	48	48	51	51	49	46	52	49	51	40	35	45	59	57	61	44	49	43	44
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Bornholm	47	47	55	46	39	37	40	53	56	58	52	54	58	58	58	49	37	37	43	40	48	49	59	61	76	68
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Bornholm	47	47	55	46	39	37	40	53	56	58	52	54	58	58	58	49	37	37	43	40	48	49	59	61	76	68
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Region Sjælland	1553	1563	1494	1283	1203	1181	1366	1331	1202	1218	1211	1335	1514	1545	1429	1296	1216	1245	1397	1367	1217	1239	1260	1373	1538	1571
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Østsjælland	418	408	394	357	335	350	393	392	357	376	371	385	414	432	408	403	362	370	439	420	390	399	400	402	446	436
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Greve	60	58	53	51	43	45	49	50	46	47	54	51	53	58	56	51	49	61	69	65	67	71	69	63	72	74
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Køge	119	120	108	101	96	95	103	103	88	97	100	112	122	120	116	120	101	105	112	110	97	103	104	110	127	122
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Lejre	21	17	23	24	24	26	25	21	22	19	21	27	21	21	19	20	20	21	23	28	27	29	26	22	24	26
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Roskilde	189	186	183	156	150	163	196	194	179	189	175	170	189	206	188	181	168	163	211	196	172	166	169	172	192	191
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Solrød	31	28	28	25	23	21	21	23	21	24	21	25	28	28	29	32	24	19	24	22	28	31	33	35	32	23
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Vest- og Sydsjælland	1134	1155	1100	926	868	832	972	939	846	842	840	950	1101	1113	1021	893	854	875	958	947	826	840	859	971	1092	1135
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Faxe	61	56	57	39	41	43	47	47	43	42	48	61	67	64	56	49	61	54	57	53	53	54	47	62	65	60
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Guldborgsund	97	103	104	83	75	77	85	88	71	69	72	91	112	112	109	97	92	80	90	84	77	76	72	75	106	110
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Holbæk	134	133	115	105	103	92	114	104	92	93	89	100	117	118	106	90	87	93	105	105	91	88	95	103	111	120
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Kalundborg	99	99	90	76	78	73	80	70	71	75	73	81	78	84	71	62	58	62	65	59	49	57	59	72	77	86
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Lolland	81	73	72	65	56	50	52	59	52	48	44	48	61	65	56	46	45	49	46	53	48	55	56	57	66	59
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Næstved	190	207	184	148	140	134	182	155	139	142	133	148	168	171	149	131	120	138	163	156	125	118	127	149	178	194
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Odsherred	50	50	51	43	35	33	32	39	39	37	36	42	46	38	38	37	31	37	35	34	29	33	41	49	47	53
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Ringsted	64	71	80	71	61	57	80	74	61	59	62	70	77	80	77	59	70	66	68	84	74	63	65	68	73	76
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Slagelse	210	217	198	174	162	157	175	178	161	161	169	182	218	227	220	190	169	171	192	186	170	175	174	184	201	198
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Sorø	44	43	47	37	35	41	40	46	40	40	38	43	49	48	41	39	35	40	40	41	39	42	43	51	58	57
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Stevns	30	32	33	23	22	22	23	23	21	24	22	21	30	30	31	33	28	28	31	27	22	24	22	32	36	39
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Vordingborg	75	71	71	61	60	53	63	54	55	52	53	63	76	77	67	58	60	56	68	62	50	57	57	70	74	82
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Region Syddanmark	2951	2931	2630	2312	2096	2238	3007	2875	2469	2395	2271	2436	2810	2883	2658	2342	2188	2464	3342	3132	2693	2584	2516	2674	3078	3224
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Fyn	1532	1521	1373	1192	1078	1167	1616	1527	1288	1204	1123	1212	1400	1476	1349	1210	1129	1325	1854	1679	1390	1300	1260	1330	1511	1630
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Assens	71	68	57	48	42	36	47	46	40	42	40	48	55	51	43	43	41	40	60	59	51	45	49	58	57	56
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Faaborg-Midtfyn	79	82	73	68	56	56	69	71	75	74	69	78	84	82	75	73	67	65	79	78	71	70	72	80	89	95
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Kerteminde	33	33	31	28	20	23	32	34	25	28	25	33	33	42	32	34	27	36	33	33	27	30	22	30	32	32
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Langeland	12	9	11	4	5	5	10	9	11	10	8	14	12	11	8	10	9	11	13	12	13	12	10	16	20	18
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Middelfart	50	45	42	35	37	41	43	45	41	38	38	41	52	52	49	41	34	39	47	45	42	43	44	37	51	54
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Nordfyns	59	53	46	41	36	40	48	47	45	43	42	41	53	52	48	38	37	42	50	39	37	41	37	47	54	47
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Nyborg	50	44	43	41	42	40	47	44	47	44	48	58	69	61	55	43	44	45	54	49	49	45	51	53	60	61
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Odense	1041	1058	947	827	745	828	1199	1125	900	832	760	800	934	999	921	813	763	922	1358	1234	980	896	848	871	992	1112
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Svendborg	132	124	119	94	92	94	119	104	100	86	89	96	101	120	111	112	104	120	153	125	115	110	118	130	149	149
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Ærø	5	5	5	5	4	3	2	2	5	6	3	4	7	5	5	3	3	4	6	6	5	8	8	8	9	6
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Sydjylland	1420	1410	1256	1120	1018	1071	1391	1348	1181	1191	1149	1224	1410	1407	1309	1132	1058	1139	1487	1453	1303	1285	1257	1344	1567	1594
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Billund	46	43	34	33	24	32	36	33	31	35	32	30	32	30	34	28	20	14	27	23	29	27	35	41	46	47
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Esbjerg	261	270	241	207	189	206	288	252	231	212	189	196	265	256	230	196	174	206	285	272	220	197	214	238	317	339
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Fanø	6	4	4	3	1	3	4	4	2	5	4	6	6	3	3	2	5	2	4	5	4	4	3	2	4	4
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Fredericia	147	134	129	117	114	109	119	115	109	110	108	109	118	125	116	112	111	110	139	137	134	131	123	126	144	142
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Haderslev	101	108	102	87	76	78	107	95	82	89	96	108	121	120	117	100	92	104	123	115	104	103	98	105	121	136
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Kolding	219	213	193	170	152	166	239	241	209	217	208	207	225	241	243	204	194	197	270	269	212	204	190	202	219	225
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Sønderborg	112	100	97	97	88	102	139	132	113	126	116	124	138	137	117	98	86	99	136	137	132	131	129	127	139	140
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Tønder	68	77	62	53	43	41	51	52	43	49	50	59	71	64	56	42	47	41	54	55	50	54	41	49	67	63
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Varde	66	76	69	55	54	47	61	73	61	63	58	64	76	75	71	59	46	45	74	66	66	68	68	65	81	80
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Vejen	57	48	43	40	36	35	52	59	45	50	47	52	53	43	43	42	41	52	56	48	60	55	47	56	56	57
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Vejle	234	241	207	193	186	193	219	222	194	180	185	197	224	234	213	185	178	197	234	234	211	218	212	223	248	249
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Aabenraa	103	96	76	66	54	59	75	70	61	55	55	72	81	78	66	64	65	72	84	91	81	92	97	110	126	112
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Region Midtjylland	3905	4016	3685	3204	3023	3378	4830	4529	3712	3513	3344	3502	4008	4111	3651	3244	3036	3527	5078	4705	3769	3627	3437	3637	4209	4455
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Østjylland	3147	3299	3038	2648	2473	2796	4082	3812	3079	2903	2764	2875	3279	3342	2949	2636	2470	2917	4301	3955	3144	3012	2835	2960	3440	3671
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Favrskov	77	69	67	59	54	53	63	72	63	60	59	62	64	65	58	41	46	56	73	76	60	45	54	60	69	65
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Hedensted	56	61	53	40	42	48	54	53	49	49	52	55	63	56	49	40	38	48	75	58	51	52	54	61	79	78
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Horsens	228	237	220	213	202	203	254	232	210	216	202	210	239	255	232	208	207	219	270	251	221	229	226	238	279	288
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Norddjurs	92	92	82	73	76	69	77	75	67	68	74	85	86	83	82	74	66	65	66	76	66	62	58	61	71	68
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Odder	20	24	28	19	19	23	30	35	33	25	24	28	29	24	24	23	14	14	23	27	26	22	21	24	26	30
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Randers	259	279	265	211	225	223	269	267	233	246	230	231	278	303	273	227	210	237	298	264	252	248	239	265	316	324
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Samsø	2	3	3	2	2	1	1	2	2	2	3	4	5	5	4	3	3	1	0	1	2	4	4	2	3	5
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Silkeborg	209	183	175	146	133	138	220	210	171	175	170	173	188	168	156	154	147	165	212	190	176	170	147	151	178	203
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Skanderborg	57	63	62	54	57	50	78	72	64	59	59	66	74	62	51	55	55	65	85	82	74	72	73	84	86	88
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Syddjurs	65	68	57	50	44	46	58	60	50	38	42	48	63	73	64	49	53	52	54	62	52	54	55	60	63	68
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Aarhus	2084	2220	2026	1780	1620	1942	2977	2735	2137	1965	1849	1912	2189	2248	1955	1761	1630	1995	3144	2867	2162	2052	1901	1953	2270	2455
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Vestjylland	758	717	646	557	550	582	748	717	632	609	580	627	729	769	703	608	566	610	778	749	626	615	602	677	768	784
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Herning	179	173	154	140	151	158	207	202	179	165	160	166	177	185	175	159	148	145	176	180	155	141	137	141	162	176
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Holstebro	97	79	67	55	52	55	89	73	69	68	53	54	77	94	93	68	60	63	94	99	81	74	74	91	103	103
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Ikast-Brande	78	76	68	65	59	55	76	72	55	52	51	57	67	62	62	58	56	68	85	76	57	61	57	78	83	81
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Lemvig	23	25	24	17	13	16	24	21	18	21	25	29	31	36	34	25	21	18	25	24	20	15	16	19	22	24
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Ringkøbing-Skjern	78	69	62	52	55	51	56	51	56	57	61	75	90	91	77	66	55	60	78	72	69	81	71	81	95	89
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Skive	76	77	73	56	52	55	74	71	64	68	67	66	71	78	71	58	57	65	83	74	66	61	59	65	63	70
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Struer	25	24	30	22	20	27	30	32	28	23	26	25	26	28	26	27	26	24	28	27	27	30	22	30	36	33
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Viborg	202	195	169	150	149	167	191	195	164	155	138	156	189	194	165	147	143	167	208	195	149	153	166	173	203	207
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Region Nordjylland	1759	1795	1701	1467	1306	1488	2203	2020	1665	1676	1586	1636	1849	1942	1767	1531	1350	1592	2376	2293	1902	1786	1712	1827	1999	2077
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Province Nordjylland	1759	1795	1701	1467	1306	1488	2203	2020	1665	1676	1586	1636	1849	1942	1767	1531	1350	1592	2376	2293	1902	1786	1712	1827	1999	2077
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Brønderslev	68	70	69	54	52	47	64	66	63	68	66	67	80	84	70	66	54	60	74	69	65	71	70	77	90	90
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Frederikshavn	149	149	136	115	109	107	129	120	100	112	106	112	137	137	118	102	84	92	115	117	122	106	106	118	141	136
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Hjørring	159	156	145	112	97	92	120	132	121	122	117	131	155	148	123	114	109	113	152	159	133	149	157	174	176	172
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Jammerbugt	83	80	77	57	51	49	75	61	48	50	53	60	65	69	56	43	42	44	58	65	52	52	52	64	75	70
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Læsø	2	2	2	1	0	0	0	0	0	1	2	3	2	2	3	2	1	2	1	1	3	2	3	5	4	4
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Mariagerfjord	85	88	81	61	55	64	72	78	65	74	75	81	99	101	92	76	64	69	82	92	83	85	87	94	109	109
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Morsø	27	26	31	23	21	16	26	23	22	25	23	28	34	35	31	23	18	19	21	20	18	24	24	32	34	42
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Rebild	48	49	40	27	21	23	36	38	38	38	29	39	36	42	42	45	38	36	47	55	46	40	38	43	45	51
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Thisted	79	77	69	62	50	47	50	49	49	48	52	61	77	74	74	54	38	37	63	61	55	58	63	71	89	80
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Vesthimmerlands	78	67	60	50	44	49	60	66	62	61	56	66	73	73	70	57	47	49	59	71	71	68	65	70	72	82
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Aalborg	982	1031	991	905	805	994	1571	1386	1097	1078	1007	989	1092	1177	1087	951	853	1070	1703	1584	1253	1132	1047	1078	1165	1240
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of unemployment benefits	25-29 years	Abroad	30	36	25	24	29	23	29	37	45	41	29	24	24	29	37	31	24	21	30	56	88	52	36	18	21	29
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Region Hovedstaden	7275	7041	6803	6312	6422	6384	6603	6903	6500	6700	6470	6679	7264	7007	6918	6357	6543	6664	6777	7152	6751	6706	6645	6979	7525	7443
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Byen København	4379	4230	4067	3814	3870	3892	4198	4300	3930	4054	3871	3978	4317	4147	4123	3851	3944	4057	4312	4506	4164	4132	4096	4248	4580	4529
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Copenhagen	3743	3629	3490	3252	3298	3342	3604	3725	3380	3490	3326	3417	3709	3585	3589	3335	3422	3507	3734	3938	3629	3615	3601	3722	4023	3972
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Frederiksberg	482	465	443	429	441	419	459	447	424	437	420	434	457	426	396	376	373	400	440	436	415	392	368	398	418	426
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Dragør	26	20	21	25	27	24	25	24	22	17	18	15	20	15	20	21	30	32	27	24	25	22	22	19	18	17
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Tårnby	128	116	113	109	104	107	110	104	104	111	107	112	132	121	117	119	119	118	111	108	94	103	105	109	121	114
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Københavns omegn	1883	1841	1807	1663	1733	1685	1604	1759	1723	1749	1722	1765	1952	1899	1873	1688	1738	1751	1635	1752	1686	1661	1631	1723	1848	1818
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Albertslund	105	99	102	98	100	90	84	100	101	121	115	119	138	125	129	117	123	129	96	118	114	116	111	109	116	115
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Ballerup	120	126	118	108	120	125	115	123	127	126	121	116	137	142	140	126	135	136	121	131	134	121	115	129	143	140
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Brøndby	200	191	176	177	183	179	159	178	162	159	149	156	172	170	167	144	153	154	146	161	160	152	152	167	193	193
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Gentofte	148	141	150	139	138	136	131	135	126	128	141	138	162	164	163	134	129	142	152	153	147	147	146	146	151	140
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Gladsaxe	230	246	240	222	241	232	223	234	235	230	219	210	231	225	211	206	217	214	194	215	201	196	182	201	221	222
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Glostrup	76	82	87	76	76	72	88	86	82	76	71	77	83	78	80	63	60	61	60	72	71	70	70	76	73	81
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Herlev	107	97	93	79	85	82	76	85	81	71	76	80	93	92	85	69	81	77	64	61	58	57	56	59	64	63
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Hvidovre	181	178	175	141	153	151	148	173	170	162	166	177	188	173	179	176	196	194	198	199	193	189	191	185	213	199
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Høje-Taastrup	221	220	218	200	197	201	183	205	196	199	192	202	222	224	208	190	196	207	181	195	193	200	194	206	210	220
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Ishøj	141	130	132	127	132	128	117	146	151	150	144	149	163	156	158	151	137	138	120	135	132	134	127	134	141	130
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Lyngby-Taarbæk	113	107	104	91	92	88	90	87	81	96	109	115	126	124	121	99	93	89	108	117	103	111	107	120	121	128
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Rødovre	174	164	152	144	141	129	119	139	143	162	151	157	163	165	161	143	144	144	137	135	125	114	124	129	139	128
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Vallensbæk	69	61	59	62	74	71	70	68	69	68	67	71	75	62	70	68	73	66	58	60	55	54	56	62	62	59
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Nordsjælland	894	855	828	749	756	749	734	776	761	794	766	813	862	847	825	734	790	785	768	828	829	826	819	887	970	974
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Allerød	34	38	33	28	35	30	35	34	32	36	37	38	34	41	38	30	39	43	41	42	41	45	42	50	50	48
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Egedal	86	73	70	64	73	72	69	64	63	68	69	82	83	77	84	65	71	79	85	92	88	87	84	88	92	96
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Fredensborg	96	98	100	93	94	103	90	102	102	95	90	101	98	85	86	72	83	77	74	85	78	79	76	88	98	94
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Frederikssund	83	78	73	65	72	74	71	77	73	73	72	69	70	76	59	48	59	68	69	76	75	78	79	84	97	94
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Furesø	72	64	66	66	69	64	66	67	64	73	76	78	88	99	104	103	99	91	82	90	87	87	85	79	89	102
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Gribskov	60	66	66	59	51	58	51	51	52	50	46	51	63	61	64	55	53	48	46	56	64	78	81	84	87	82
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Halsnæs	76	76	72	56	49	45	45	42	41	51	47	47	57	58	63	53	52	48	48	52	56	52	57	64	79	78
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Helsingør	151	133	136	122	116	106	105	119	118	122	120	135	142	134	123	120	131	124	119	119	134	123	125	147	161	146
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Hillerød	116	111	108	106	96	97	104	100	97	101	96	100	107	96	87	85	94	99	99	102	95	91	84	91	102	106
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Hørsholm	29	31	28	22	26	27	30	36	39	37	39	41	40	33	31	29	31	36	29	32	31	31	29	32	31	45
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Rudersdal	92	86	76	68	74	72	66	82	79	87	75	70	82	85	86	74	78	71	76	80	81	77	75	81	84	82
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Bornholm	118	115	101	86	64	59	67	68	87	104	111	123	133	114	97	84	71	72	61	68	72	88	100	121	127	122
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Bornholm	118	115	101	86	64	59	67	68	87	104	111	123	133	114	97	84	71	72	61	68	72	88	100	121	127	122
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Region Sjælland	2082	2026	2008	1775	1733	1626	1639	1746	1663	1748	1727	1818	2026	1992	1923	1662	1679	1668	1726	1853	1809	1846	1833	2044	2221	2211
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Østsjælland	576	564	540	513	530	481	504	543	515	523	510	516	540	531	566	506	528	521	532	586	584	577	570	595	625	624
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Greve	108	94	93	85	91	73	87	97	92	103	96	98	87	93	105	99	98	90	97	110	122	106	110	118	126	111
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Køge	148	143	145	137	137	130	136	137	141	134	141	141	158	161	169	147	158	162	155	163	160	172	160	171	188	184
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Lejre	60	61	50	54	64	52	47	53	39	47	46	50	56	54	57	49	48	50	56	58	59	55	56	64	65	61
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Roskilde	214	220	213	205	206	197	197	216	203	191	185	193	202	186	194	172	186	186	193	217	211	208	205	202	199	226
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Solrød	46	46	40	31	32	29	37	41	39	48	42	35	38	38	41	40	39	34	31	39	32	36	39	39	47	42
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Vest- og Sydsjælland	1506	1462	1468	1262	1203	1145	1136	1202	1148	1226	1218	1302	1486	1461	1357	1155	1151	1147	1193	1266	1225	1269	1263	1449	1596	1587
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Faxe	87	84	90	87	87	85	89	96	86	95	97	89	96	99	96	77	77	77	85	88	79	91	96	98	105	98
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Guldborgsund	129	121	146	124	115	113	119	129	115	114	118	136	156	154	134	105	104	106	113	118	118	122	127	151	163	177
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Holbæk	169	177	174	143	138	119	114	135	123	122	125	155	174	160	135	116	134	143	141	143	140	138	120	147	175	172
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Kalundborg	122	117	121	99	96	83	81	90	89	106	103	107	123	117	101	92	88	85	90	98	106	105	98	103	119	123
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Lolland	94	92	91	80	74	67	66	73	69	79	82	89	94	93	91	76	80	72	73	79	78	87	87	96	111	100
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Næstved	236	231	232	210	186	173	180	176	180	190	171	188	226	214	200	164	157	156	170	181	168	174	173	218	238	235
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Odsherred	76	66	63	53	48	49	53	49	51	46	47	54	69	64	63	58	51	50	59	61	62	60	67	73	79	72
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Ringsted	108	97	101	89	97	95	91	103	98	105	92	95	103	105	98	79	82	82	81	97	87	85	88	93	104	98
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Slagelse	236	238	214	182	173	173	170	177	169	180	189	192	217	219	211	195	191	185	193	200	185	199	195	234	243	255
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Sorø	89	91	86	71	69	61	48	55	56	62	65	62	71	67	67	55	58	58	59	57	67	63	68	75	85	85
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Stevns	59	57	56	43	37	44	42	39	37	43	46	44	46	53	53	48	50	47	53	47	48	52	43	51	52	56
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Vordingborg	102	92	93	82	85	82	82	80	75	84	83	91	108	117	108	90	80	86	78	98	87	92	102	112	124	116
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Region Syddanmark	3427	3263	3072	2704	2735	2692	2825	3008	2787	2905	2826	3097	3383	3250	3093	2717	2701	2778	2984	3186	3026	3085	3102	3371	3744	3737
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Fyn	1576	1499	1425	1281	1286	1284	1364	1402	1283	1355	1294	1429	1589	1526	1445	1293	1300	1331	1435	1535	1424	1433	1433	1549	1708	1704
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Assens	103	95	94	77	73	81	77	80	75	85	82	97	107	112	102	87	84	85	85	98	90	90	95	114	118	109
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Faaborg-Midtfyn	148	137	121	107	104	98	120	131	117	123	115	125	143	136	124	107	97	99	114	108	98	109	122	144	156	156
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Kerteminde	72	68	65	54	58	61	54	65	58	57	61	61	67	68	62	51	51	45	48	59	47	49	53	60	70	69
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Langeland	45	42	30	24	22	16	16	19	26	25	26	34	31	27	20	19	13	17	22	25	25	27	25	32	38	30
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Middelfart	70	79	83	68	69	64	55	58	50	62	61	69	79	74	62	61	62	65	61	69	61	61	63	72	86	80
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Nordfyns	80	68	63	52	55	64	68	77	81	81	81	86	94	90	79	66	59	67	71	76	79	71	72	81	98	94
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Nyborg	75	57	57	60	52	49	67	60	52	57	57	72	84	78	70	61	61	60	61	72	78	76	79	87	100	100
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Odense	788	772	741	690	701	687	733	742	650	687	647	707	789	751	746	682	713	732	793	820	761	770	730	748	823	851
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Svendborg	185	175	165	141	149	157	168	165	168	171	155	166	180	176	166	147	150	151	168	192	170	167	177	199	201	198
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Ærø	11	6	7	7	4	5	7	7	7	7	10	12	15	15	14	12	9	10	11	14	14	15	17	12	19	17
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Sydjylland	1850	1764	1647	1423	1449	1408	1461	1606	1505	1550	1532	1668	1794	1725	1648	1424	1401	1447	1549	1652	1602	1652	1669	1822	2037	2033
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Billund	74	78	65	56	56	52	47	53	60	57	57	63	57	58	52	41	40	41	41	45	52	61	63	71	74	74
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Esbjerg	325	298	288	254	248	219	244	281	242	244	254	279	305	299	277	236	230	225	257	267	243	230	219	264	303	314
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Fanø	4	7	7	4	5	5	5	4	4	5	5	7	8	9	9	7	7	6	4	5	3	4	5	5	7	6
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Fredericia	164	155	146	137	142	146	143	149	151	164	158	178	174	169	167	152	144	151	166	163	166	166	159	170	180	185
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Haderslev	120	112	111	83	91	99	102	105	107	111	107	111	134	142	129	101	108	101	116	113	109	127	124	133	161	149
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Kolding	226	215	212	197	206	207	218	257	232	236	228	236	246	233	237	230	228	241	254	254	222	244	256	252	288	273
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Sønderborg	153	153	135	117	125	125	122	135	130	126	125	155	166	157	145	118	104	116	131	146	156	156	165	199	217	222
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Tønder	93	81	82	74	70	66	72	74	68	74	77	91	87	83	79	58	58	58	51	68	69	71	73	92	94	86
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Varde	118	119	117	89	80	76	66	89	82	84	84	100	131	110	100	86	78	84	80	92	91	94	96	116	123	128
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Vejen	100	93	85	65	71	63	67	73	77	85	75	71	76	68	71	70	66	66	68	77	70	67	72	88	96	97
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Vejle	353	349	304	256	261	258	277	283	268	272	272	273	291	279	263	220	227	235	265	298	292	301	306	308	344	345
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Aabenraa	119	104	95	88	94	91	97	103	84	93	91	106	119	117	118	106	111	124	115	124	130	131	131	125	148	154
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Region Midtjylland	3890	3809	3720	3216	3287	3298	3449	3760	3529	3586	3528	3788	4098	4005	3781	3401	3467	3505	3791	4070	3805	3869	3842	4158	4413	4341
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Østjylland	2876	2794	2738	2381	2474	2492	2633	2848	2663	2717	2657	2813	3028	2984	2839	2569	2617	2662	2895	3124	2894	2887	2855	3083	3237	3204
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Favrskov	113	98	94	73	72	81	89	94	84	97	93	110	119	120	104	88	93	83	79	94	90	99	106	121	141	145
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Hedensted	96	89	92	73	81	74	77	81	73	80	81	82	100	91	84	82	84	74	78	82	81	77	86	99	108	97
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Horsens	275	264	260	230	233	229	228	269	249	260	257	268	296	285	268	234	222	226	239	262	247	245	240	271	300	291
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Norddjurs	104	96	89	65	74	62	71	82	76	88	84	93	105	105	92	90	82	82	92	102	82	92	87	104	102	98
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Odder	42	40	41	35	45	48	45	49	44	36	46	50	42	38	41	33	34	33	34	33	31	38	43	50	60	57
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Randers	316	305	296	263	261	261	253	266	261	281	275	283	310	329	310	297	293	289	296	322	312	307	322	354	376	351
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Samsø	15	17	16	12	11	6	5	1	4	12	17	19	19	19	17	10	11	7	6	8	10	12	17	16	12	18
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Silkeborg	229	218	220	177	184	185	212	230	199	215	224	244	251	258	238	203	207	200	220	264	231	237	234	243	272	267
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Skanderborg	137	131	118	107	104	107	120	134	129	134	138	143	153	153	138	125	126	123	144	145	134	139	134	159	149	154
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Syddjurs	101	102	102	83	92	93	101	109	99	105	104	117	128	116	112	90	98	97	102	116	119	107	98	103	108	98
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Aarhus	1447	1437	1409	1264	1318	1345	1434	1534	1444	1409	1338	1404	1506	1470	1436	1317	1368	1448	1605	1695	1557	1534	1488	1561	1607	1628
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Vestjylland	1014	1015	982	834	813	806	815	912	866	869	871	975	1071	1021	942	832	850	844	896	946	911	982	987	1075	1176	1137
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Herning	214	227	208	179	181	180	179	220	205	205	212	238	269	257	230	211	206	209	214	232	224	232	216	240	266	261
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Holstebro	144	134	123	86	84	88	89	97	112	105	103	115	115	119	109	100	101	101	100	102	102	106	116	128	143	143
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Ikast-Brande	118	114	113	109	100	99	92	98	93	92	96	110	115	110	102	81	84	93	96	98	93	100	102	110	109	111
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Lemvig	46	42	42	36	30	29	33	31	28	32	32	41	45	41	38	28	31	33	32	32	31	36	33	44	57	57
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Ringkøbing-Skjern	101	113	112	93	89	83	79	90	87	91	89	101	116	103	103	94	93	96	97	107	101	116	126	133	146	149
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Skive	95	84	89	72	63	56	72	71	56	60	60	77	95	93	79	74	68	65	74	88	71	67	72	76	90	88
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Struer	38	39	39	34	34	33	36	43	39	38	40	48	56	48	48	42	45	44	48	39	48	58	59	56	63	58
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Viborg	258	262	256	227	231	237	235	262	245	247	240	245	261	249	232	202	221	203	236	248	241	265	264	288	302	270
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Region Nordjylland	1912	1810	1730	1428	1366	1327	1501	1615	1426	1494	1507	1705	1891	1890	1694	1486	1450	1483	1675	1778	1646	1718	1683	1913	2168	2092
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Province Nordjylland	1912	1810	1730	1428	1366	1327	1501	1615	1426	1494	1507	1705	1891	1890	1694	1486	1450	1483	1675	1778	1646	1718	1683	1913	2168	2092
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Brønderslev	119	106	101	86	82	72	80	87	79	90	100	106	111	109	95	85	73	78	86	99	97	101	94	105	121	112
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Frederikshavn	216	199	190	146	140	115	123	130	129	158	152	166	197	211	170	145	132	119	147	151	153	161	153	183	217	200
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Hjørring	215	207	198	155	143	126	146	156	133	134	131	157	187	177	156	131	123	121	155	147	132	144	157	187	219	213
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Jammerbugt	109	111	108	91	82	76	91	94	79	79	69	94	105	105	85	72	79	82	80	81	78	92	88	105	124	115
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Læsø	9	7	5	1	1	0	0	0	0	5	6	9	9	9	9	3	1	1	0	0	0	1	5	4	6	4
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Mariagerfjord	110	116	106	80	72	71	82	97	90	97	98	111	128	120	101	84	103	105	92	95	90	91	102	130	148	127
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Morsø	47	44	40	23	27	32	29	31	26	31	36	45	44	43	40	37	36	37	30	39	38	31	36	52	62	57
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Rebild	70	64	67	46	38	39	39	52	50	48	47	62	77	76	72	57	48	45	52	60	58	63	64	71	82	81
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Thisted	105	86	81	72	66	58	59	66	58	72	76	89	94	94	80	70	80	72	85	95	98	109	104	114	120	120
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Vesthimmerlands	122	114	111	87	81	74	67	84	82	87	83	95	110	111	87	75	79	83	80	97	98	99	98	108	119	111
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Aalborg	789	756	722	640	634	663	784	818	700	692	710	770	830	837	798	727	694	740	868	915	805	824	782	856	950	953
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of unemployment benefits	30-39 years	Abroad	26	28	24	24	25	18	27	21	27	21	24	20	22	24	22	21	21	26	23	37	63	53	30	23	29	27

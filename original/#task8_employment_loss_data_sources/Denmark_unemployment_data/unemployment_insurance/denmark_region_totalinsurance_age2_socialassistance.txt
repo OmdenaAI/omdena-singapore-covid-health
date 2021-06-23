@@ -1,0 +1,349 @@
+sex	unemployment insurance fund	type of benefits	age	region	2018M01	2018M02	2018M03	2018M04	2018M05	2018M06	2018M07	2018M08	2018M09	2018M10	2018M11	2018M12	2019M01	2019M02	2019M03	2019M04	2019M05	2019M06	2019M07	2019M08	2019M09	2019M10	2019M11	2019M12	2020M01	2020M02	
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Region Hovedstaden	1772	1749	1761	1651	1617	1553	1369	1376	1402	1320	1307	1354	1438	1416	1380	1284	1225	1257	1137	1178	1172	1160	1185	1177	1242	1250
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Byen København	760	745	732	675	675	640	544	541	559	524	527	566	601	590	596	557	528	547	497	535	536	533	536	504	540	559
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Copenhagen	613	590	581	536	538	514	428	432	453	424	430	465	492	483	485	461	440	448	401	440	451	451	458	434	461	470
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Frederiksberg	108	109	109	110	107	100	94	84	75	73	74	75	81	83	81	74	68	80	78	70	61	58	58	49	55	64
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Dragør	10	15	13	8	8	7	5	5	6	5	5	6	6	7	11	7	5	5	4	7	5	7	6	5	5	5
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Tårnby	28	32	28	21	21	19	18	20	25	22	18	19	23	18	19	16	15	13	13	17	19	17	14	16	18	21
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Københavns omegn	635	630	640	624	610	600	517	543	549	530	518	512	547	543	537	490	466	463	412	426	429	414	430	435	458	459
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Albertslund	68	69	65	63	60	55	46	49	50	55	48	44	52	52	48	45	42	42	35	35	38	37	36	40	37	36
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Ballerup	37	43	45	39	35	31	31	30	28	31	27	32	28	36	31	28	25	22	16	21	20	25	26	28	26	29
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Brøndby	69	66	69	72	76	82	71	72	74	66	65	59	67	73	78	67	60	61	54	64	68	62	63	60	65	62
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Gentofte	35	34	36	35	33	28	28	32	28	20	24	22	31	28	29	26	26	22	29	21	22	25	25	27	29	34
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Gladsaxe	66	71	76	76	77	81	61	61	62	47	53	52	55	50	44	41	39	41	43	38	34	36	42	37	40	38
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Glostrup	40	43	42	39	41	43	42	36	35	32	35	36	40	34	33	28	30	30	30	29	31	31	26	24	31	27
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Herlev	15	14	15	17	18	12	9	10	10	10	10	14	16	13	12	10	9	6	4	7	6	6	8	10	8	8
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Hvidovre	44	40	39	42	36	35	31	34	33	33	30	33	37	37	36	36	31	33	23	25	24	22	24	31	34	33
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Høje-Taastrup	85	74	75	72	64	64	54	64	63	68	64	69	73	77	76	76	65	65	57	70	69	63	73	72	78	75
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Ishøj	58	57	56	59	60	63	51	47	54	61	57	52	47	44	58	38	39	43	34	37	37	33	33	33	36	36
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Lyngby-Taarbæk	31	33	32	28	27	24	18	23	22	24	23	23	24	22	20	16	17	21	23	18	14	16	16	21	20	19
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Rødovre	66	66	73	71	69	70	65	73	79	72	69	63	66	65	62	71	74	68	58	54	61	53	54	49	50	59
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Vallensbæk	19	19	17	12	15	13	9	11	11	12	13	14	11	12	11	9	8	9	7	8	5	4	3	4	5	5
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Nordsjælland	355	351	365	331	312	298	293	281	282	257	252	262	277	271	239	229	227	244	223	212	200	201	206	225	233	220
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Allerød	7	5	5	6	5	6	4	4	3	4	7	5	4	2	3	3	4	9	10	10	7	4	5	6	11	9
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Egedal	25	23	22	19	17	19	23	20	17	19	17	23	30	30	20	17	20	20	22	16	12	16	15	12	14	13
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Fredensborg	25	24	23	23	23	20	24	22	22	22	25	25	26	23	26	25	24	25	24	20	21	20	18	26	22	20
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Frederikssund	54	58	60	48	48	45	41	41	43	38	34	28	26	26	23	25	22	28	22	27	23	17	15	23	26	25
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Furesø	31	29	28	28	27	27	26	26	23	21	20	20	19	21	20	20	19	16	16	10	14	18	15	14	17	15
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Gribskov	29	28	26	21	19	19	12	12	18	15	14	14	16	16	15	11	12	8	8	6	5	8	11	10	9	10
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Halsnæs	26	24	26	24	16	16	14	19	23	24	21	22	24	20	25	25	19	18	15	16	16	16	19	22	19	16
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Helsingør	80	85	95	87	80	75	73	67	76	70	61	65	70	68	54	50	56	62	55	66	57	52	55	60	59	66
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Hillerød	46	44	46	46	44	40	42	37	30	22	27	29	25	28	23	21	17	22	17	15	13	14	15	17	20	13
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Hørsholm	6	5	8	6	11	11	15	14	8	5	8	9	10	13	8	8	9	6	9	6	7	10	10	8	7	8
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Rudersdal	26	27	27	23	21	20	19	20	18	18	19	22	27	25	21	24	25	30	26	21	25	27	28	28	30	25
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Bornholm	23	22	25	21	20	15	15	11	11	8	10	14	13	11	8	7	4	3	5	5	7	12	14	13	11	12
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Bornholm	23	22	25	21	20	15	15	11	11	8	10	14	13	11	8	7	4	3	5	5	7	12	14	13	11	12
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Region Sjælland	890	850	877	794	749	699	629	601	609	612	650	656	686	667	627	577	550	563	542	552	522	514	494	514	554	545
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Østsjælland	146	149	152	133	118	116	96	103	103	106	115	112	119	109	99	91	84	81	76	88	84	90	86	78	97	92
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Greve	31	31	30	29	24	25	20	18	16	17	25	21	27	25	21	24	22	22	18	18	18	18	21	14	16	18
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Køge	44	45	44	40	35	34	29	32	36	37	36	36	36	28	26	25	24	22	19	22	21	21	17	23	21	18
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Lejre	9	11	10	6	10	7	6	6	6	6	5	6	5	7	8	5	5	10	9	9	7	5	5	5	9	7
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Roskilde	56	53	59	47	43	44	37	40	41	40	39	38	42	42	37	32	28	24	25	32	31	37	35	29	42	40
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Solrød	6	9	9	11	6	7	5	6	5	6	9	11	9	7	6	5	5	5	5	7	7	9	8	7	9	9
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Vest- og Sydsjælland	744	701	725	661	630	583	532	499	506	506	535	543	567	558	528	485	466	482	467	464	438	424	408	435	457	453
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Faxe	35	34	37	33	34	31	34	30	34	29	29	34	35	31	31	33	27	29	25	22	22	26	25	29	33	34
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Guldborgsund	61	56	60	53	59	50	44	43	47	50	61	56	62	62	57	37	34	40	43	42	41	40	34	41	44	49
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Holbæk	51	46	47	48	41	44	43	41	37	38	44	35	35	38	41	40	47	41	37	37	37	35	34	40	44	39
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Kalundborg	40	37	38	26	23	22	21	19	19	23	28	28	29	30	30	27	26	29	31	30	26	31	31	31	34	37
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Lolland	77	75	73	67	48	47	42	44	40	40	40	50	52	51	45	41	37	37	39	38	36	32	27	34	48	42
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Næstved	174	159	153	139	140	122	103	100	96	89	82	81	90	79	76	66	63	73	71	75	76	74	74	74	73	78
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Odsherred	66	65	65	57	54	47	46	34	35	39	39	40	43	43	33	39	31	31	33	32	23	17	29	24	27	30
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Ringsted	35	34	38	38	32	30	26	19	17	19	19	21	21	19	21	20	20	19	18	21	22	19	18	18	20	20
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Slagelse	92	93	98	92	100	87	74	73	71	71	86	94	90	87	87	77	81	81	82	83	77	76	70	74	74	72
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Sorø	23	22	24	17	17	15	13	15	15	19	20	19	18	17	16	18	16	17	17	19	20	15	14	16	22	17
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Stevns	22	24	24	25	20	22	23	23	26	23	22	26	24	28	25	22	21	20	16	13	8	10	9	9	7	7
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Vordingborg	69	56	66	65	63	67	64	58	68	66	66	60	70	75	67	66	63	65	55	51	50	49	44	45	30	29
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Region Syddanmark	1130	1097	1136	1014	977	952	918	915	919	913	908	891	966	969	953	903	849	817	753	783	761	777	779	800	857	837
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Fyn	557	546	553	478	454	451	455	447	428	428	418	411	447	445	443	411	376	370	349	363	345	360	362	363	391	373
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Assens	41	45	46	31	23	25	29	25	27	26	26	30	30	30	32	27	22	27	29	31	31	33	29	35	40	38
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Faaborg-Midtfyn	38	43	41	31	28	31	31	29	29	33	32	28	35	31	28	27	28	23	18	19	15	15	21	28	26	22
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Kerteminde	37	34	35	32	32	29	30	31	25	27	26	22	28	23	25	24	21	22	21	25	20	18	20	18	21	17
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Langeland	18	17	15	11	6	9	9	14	12	13	11	9	9	13	14	7	5	8	10	11	10	12	13	11	16	17
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Middelfart	14	12	13	13	11	13	13	10	11	15	13	14	17	15	16	14	15	14	13	13	11	12	16	14	17	18
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Nordfyns	31	31	42	30	41	32	28	32	31	34	31	32	32	32	32	35	29	29	32	36	31	32	34	32	36	32
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Nyborg	30	23	25	23	25	23	23	25	23	21	22	24	26	27	24	22	21	21	23	23	21	23	23	26	26	28
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Odense	283	269	260	232	222	221	218	218	206	203	195	194	211	217	214	207	196	189	172	175	176	180	168	158	169	168
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Svendborg	54	62	68	68	59	60	65	56	55	49	53	49	49	50	52	42	35	30	27	25	25	28	28	36	34	27
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Ærø	9	9	9	8	7	8	9	7	8	7	10	8	8	7	5	6	5	6	4	5	5	7	9	7	5	5
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Sydjylland	573	551	583	535	523	501	462	467	491	485	490	480	519	524	511	492	473	446	404	420	416	418	417	437	466	464
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Billund	7	7	7	7	7	5	6	5	6	6	7	7	6	7	8	9	5	4	7	7	5	6	8	10	11	11
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Esbjerg	98	100	109	98	96	86	78	75	87	86	82	83	84	82	88	85	79	78	69	68	64	76	75	84	85	84
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Fanø	3	5	5	4	2	2	1	2	2	2	2	3	3	3	4	1	2	4	2	4	3	1	2	2	4	4
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Fredericia	66	63	59	56	57	68	56	50	51	54	52	58	60	68	67	66	61	62	53	53	50	54	51	50	57	58
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Haderslev	51	49	53	50	45	49	42	44	49	44	44	34	37	41	41	43	39	34	35	33	30	35	44	49	47	41
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Kolding	63	57	62	62	56	47	46	46	49	48	48	44	50	58	58	52	47	41	46	55	57	49	52	59	67	69
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Sønderborg	76	73	77	69	73	68	73	72	77	77	88	81	84	76	67	68	75	65	58	57	57	54	56	49	47	42
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Tønder	13	9	12	7	6	6	7	8	9	14	10	8	13	11	8	10	11	11	12	12	11	11	14	13	14	17
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Varde	33	28	31	28	27	21	21	22	24	25	29	29	29	35	25	28	25	22	17	18	15	17	14	20	23	24
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Vejen	23	18	17	20	19	16	17	17	17	21	22	27	25	21	17	13	16	19	16	17	18	16	15	14	20	21
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Vejle	81	86	87	85	87	79	69	75	76	69	68	70	79	76	71	64	60	60	54	52	64	63	58	60	64	61
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Aabenraa	57	56	64	49	48	55	46	52	44	39	38	39	48	45	56	53	51	48	37	43	41	34	31	26	27	32
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Region Midtjylland	827	833	872	791	747	723	721	746	739	716	693	730	780	768	738	716	684	682	622	634	604	586	608	614	674	638
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Østjylland	568	565	600	556	524	496	499	507	502	482	455	478	497	481	458	448	430	436	397	417	408	395	401	402	432	412
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Favrskov	8	6	9	6	7	9	9	7	10	6	7	9	11	12	12	11	11	12	13	12	11	10	11	14	14	13
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Hedensted	11	13	13	12	10	15	22	14	11	10	12	16	17	10	9	12	12	16	12	10	10	12	10	12	13	13
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Horsens	57	65	66	60	57	54	51	49	46	46	38	35	39	39	36	37	40	46	35	38	47	49	47	43	41	35
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Norddjurs	32	34	34	28	29	30	31	28	30	28	28	33	38	42	38	37	39	37	33	32	23	17	16	12	15	15
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Odder	28	20	19	19	18	18	19	19	18	17	15	15	18	18	17	15	19	17	15	16	14	14	15	18	17	15
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Randers	90	87	91	87	77	74	69	70	79	68	67	70	73	69	65	68	59	55	50	51	37	42	46	39	45	41
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Samsø	5	6	5	7	6	6	6	4	6	6	5	5	8	9	7	6	5	5	5	3	5	6	6	5	5	6
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Silkeborg	70	73	77	68	62	58	57	55	56	57	53	54	52	42	45	44	40	42	40	44	52	45	51	52	56	56
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Skanderborg	11	10	10	6	8	8	8	11	14	15	11	9	12	13	10	9	8	7	7	9	8	9	5	6	8	8
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Syddjurs	24	24	29	21	22	19	16	17	12	14	16	16	19	16	16	17	13	14	12	17	19	19	19	19	16	16
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Aarhus	233	226	248	242	227	206	210	232	221	214	203	215	211	211	201	191	187	186	175	185	181	174	176	183	203	192
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Vestjylland	260	269	271	235	223	227	223	238	237	234	237	252	283	287	280	268	253	245	225	217	196	191	207	212	242	227
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Herning	118	125	125	110	108	110	113	115	119	115	109	111	125	121	110	112	106	107	106	95	83	81	86	90	93	78
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Holstebro	14	17	17	13	10	11	11	17	12	11	9	11	18	21	24	26	28	22	14	19	17	14	19	22	29	30
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Ikast-Brande	30	32	28	20	21	23	20	23	22	28	27	24	26	25	24	22	19	17	19	20	16	17	21	21	22	22
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Lemvig	7	9	6	5	4	3	2	2	2	4	1	1	1	1	1	2	2	2	1	2	2	1	2	2	1	1
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Ringkøbing-Skjern	21	20	24	26	27	22	22	25	24	18	28	35	39	42	39	35	36	32	28	25	27	25	30	29	37	35
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Skive	15	15	15	13	10	10	8	8	10	11	10	12	10	8	6	8	7	9	8	5	6	6	3	2	5	3
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Struer	12	13	15	12	9	12	10	11	12	14	13	13	13	14	18	17	15	10	10	13	11	14	13	14	13	14
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Viborg	44	37	41	37	34	35	37	37	36	34	40	47	51	53	58	46	41	46	39	40	34	32	33	31	41	45
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Region Nordjylland	535	545	567	517	482	450	418	423	434	431	446	472	482	477	442	412	377	374	334	333	337	327	351	372	360	341
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Province Nordjylland	535	545	567	517	482	450	418	423	434	431	446	472	482	477	442	412	377	374	334	333	337	327	351	372	360	341
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Brønderslev	30	26	27	24	26	29	23	27	28	30	31	29	33	34	29	31	32	28	21	25	29	30	26	27	29	29
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Frederikshavn	60	54	49	46	39	34	32	33	37	42	44	51	51	52	44	40	35	36	34	36	39	38	46	47	43	35
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Hjørring	72	73	72	64	65	56	43	44	44	45	40	38	41	44	40	47	42	47	36	31	33	38	43	42	41	38
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Jammerbugt	19	16	18	12	9	11	11	12	13	9	8	9	9	7	8	5	4	6	3	4	6	7	6	5	9	10
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Læsø	1	2	1	1	1	0	1	2	1	2	1	1	1	1	1	1	1	0	0	1	0	1	2	2	2	2
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Mariagerfjord	52	54	53	49	43	35	42	44	35	36	41	41	36	36	32	32	36	36	32	29	27	23	28	31	31	30
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Morsø	7	8	12	13	11	8	9	11	9	11	11	10	12	11	11	7	5	5	4	4	4	4	4	5	9	6
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Rebild	24	22	26	21	20	24	21	22	22	24	24	17	20	19	17	14	17	15	14	15	18	16	17	17	19	19
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Thisted	16	19	22	25	24	24	22	20	23	22	30	27	26	28	26	23	20	27	24	22	24	26	24	27	29	28
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Vesthimmerlands	52	51	54	43	43	40	39	35	40	38	33	32	35	33	31	36	25	33	32	29	28	32	34	37	31	26
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Aalborg	202	221	233	218	203	190	176	173	183	173	185	216	217	212	203	175	158	141	133	137	129	112	120	132	117	119
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of social assistance	40-49 years	Abroad	2	3	2	1	2	3	0	0	0	2	1	2	3	2	2	1	1	2	2	0	0	0	0	2	0	1
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Region Hovedstaden	1475	1421	1450	1346	1312	1257	1138	1138	1151	1163	1156	1222	1256	1227	1212	1122	1111	1089	996	1032	1057	1044	1048	1086	1166	1127
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Byen København	629	611	616	555	546	527	461	443	451	475	459	517	536	521	521	491	491	473	463	475	485	485	491	494	533	513
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Copenhagen	497	485	482	436	427	417	356	346	352	375	369	414	428	423	428	409	416	395	382	398	409	404	412	412	448	435
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Frederiksberg	93	89	98	89	91	85	84	75	78	78	70	81	82	79	73	65	55	61	64	62	62	66	64	66	62	58
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Dragør	8	7	8	8	6	5	3	4	4	4	2	3	7	6	7	4	6	4	4	4	6	6	3	3	5	4
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Tårnby	30	30	28	22	22	20	18	19	18	19	18	19	19	13	13	13	13	13	14	11	9	10	11	12	19	16
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Københavns omegn	522	499	501	485	476	454	416	441	450	437	431	416	427	428	418	386	385	390	332	351	370	366	366	379	410	413
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Albertslund	62	60	56	54	52	42	36	38	45	46	43	45	44	43	35	34	39	37	26	28	37	40	37	34	39	41
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Ballerup	35	35	40	31	30	29	26	24	22	25	26	23	25	20	20	16	17	18	17	19	19	16	20	18	25	25
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Brøndby	49	52	54	54	56	58	52	59	58	54	58	52	50	52	48	51	52	55	50	55	55	56	59	54	56	61
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Gentofte	40	36	34	37	35	33	31	29	31	30	28	27	31	33	35	31	30	31	27	26	27	30	30	34	33	37
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Gladsaxe	47	46	51	54	54	53	49	48	50	49	50	52	54	55	52	39	33	36	35	36	36	36	41	43	46	43
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Glostrup	26	25	22	22	22	22	23	21	21	21	20	28	24	23	23	22	21	18	17	18	21	18	16	17	19	16
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Herlev	33	29	25	24	19	17	15	13	16	13	11	5	8	8	8	12	14	14	11	10	11	12	10	11	15	13
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Hvidovre	30	35	36	33	32	33	31	36	31	30	23	22	25	26	23	19	22	20	20	25	27	28	25	27	30	29
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Høje-Taastrup	68	54	53	50	46	40	38	51	52	49	52	56	55	57	56	58	53	56	45	52	55	52	51	60	64	63
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Ishøj	46	50	51	50	51	46	36	38	37	35	39	36	33	35	37	29	30	31	29	23	24	18	19	22	23	21
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Lyngby-Taarbæk	21	18	20	15	19	21	19	18	16	12	13	14	17	16	15	11	8	11	11	12	12	18	17	15	15	17
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Rødovre	55	49	48	50	46	50	51	57	57	59	54	47	48	50	54	51	56	51	36	41	43	39	36	40	40	42
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Vallensbæk	11	10	11	12	13	10	10	11	14	14	14	10	13	11	12	12	11	11	6	6	3	4	5	4	6	5
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Nordsjælland	301	292	312	287	272	263	250	244	239	240	255	269	273	264	261	238	228	218	191	197	195	183	179	200	208	193
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Allerød	4	6	7	6	3	3	4	3	3	5	5	3	6	5	7	7	5	4	5	5	5	4	4	5	4	3
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Egedal	19	20	19	14	14	12	17	17	20	20	19	19	18	18	19	16	15	12	11	12	6	9	10	10	11	12
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Fredensborg	25	25	29	28	27	25	24	22	16	18	22	26	28	26	28	27	22	19	18	22	21	17	15	17	24	18
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Frederikssund	31	34	35	33	40	32	27	23	20	29	31	28	30	27	30	26	27	27	25	27	25	23	21	18	19	21
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Furesø	21	14	16	17	12	13	11	10	10	10	10	12	11	11	13	13	13	11	8	8	8	8	8	10	13	13
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Gribskov	26	25	23	15	14	18	18	11	9	14	12	13	12	10	14	10	11	11	9	9	9	11	11	12	11	11
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Halsnæs	23	19	18	21	21	19	13	17	15	15	15	14	15	17	16	12	13	13	14	10	11	10	11	14	16	15
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Helsingør	88	83	89	90	84	81	81	84	88	85	91	94	92	84	73	72	66	67	53	59	61	57	57	64	62	55
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Hillerød	40	40	43	38	32	31	29	30	28	24	25	29	31	32	31	24	23	22	18	18	20	19	15	20	17	19
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Hørsholm	11	12	14	11	10	9	8	9	11	7	7	6	6	5	6	5	6	7	6	7	6	5	6	6	9	6
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Rudersdal	15	15	19	16	15	21	17	17	18	14	18	26	25	29	26	29	26	25	25	19	20	19	21	24	21	21
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Bornholm	23	19	21	19	18	13	10	9	10	10	11	20	19	13	12	7	7	8	10	9	7	10	12	13	15	9
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Bornholm	23	19	21	19	18	13	10	9	10	10	11	20	19	13	12	7	7	8	10	9	7	10	12	13	15	9
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Region Sjælland	669	653	686	631	629	569	528	507	521	495	494	527	568	556	529	478	477	471	447	447	422	427	432	470	470	468
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Østsjælland	106	106	118	102	96	99	82	80	87	91	86	96	93	91	80	67	66	72	73	78	74	78	75	85	82	86
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Greve	21	23	23	22	23	20	16	18	21	23	18	26	25	24	19	17	19	19	17	19	19	20	21	20	17	20
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Køge	31	29	35	33	31	33	28	29	28	27	25	26	31	25	19	15	13	14	17	16	15	13	12	17	16	16
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Lejre	8	8	7	7	4	4	5	5	6	5	5	5	4	6	5	5	4	8	7	8	4	6	6	4	5	6
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Roskilde	40	40	46	36	34	39	31	27	31	35	36	36	28	29	31	24	23	28	26	31	30	36	33	40	39	39
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Solrød	6	6	7	4	5	4	2	1	0	2	2	3	4	7	6	7	7	4	5	4	5	4	4	5	6	6
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Vest- og Sydsjælland	563	547	568	529	533	471	445	426	434	403	408	431	475	465	448	410	411	398	375	369	348	349	357	384	388	381
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Faxe	40	38	45	41	42	42	42	38	38	35	32	27	34	36	38	36	39	38	33	33	29	24	24	25	27	30
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Guldborgsund	62	54	51	51	67	62	50	41	49	51	52	56	55	61	55	46	47	40	44	44	39	40	40	44	48	45
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Holbæk	37	38	34	35	28	20	22	24	23	22	23	23	21	16	20	23	26	25	24	25	23	26	27	27	29	25
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Kalundborg	30	25	31	31	31	32	32	26	28	20	22	21	28	28	29	32	33	29	33	27	23	24	23	28	30	31
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Lolland	54	52	57	47	42	33	30	32	37	31	29	29	37	40	40	37	33	28	29	32	39	42	39	45	44	39
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Næstved	107	108	104	89	87	75	70	70	64	57	55	57	66	66	60	51	46	53	48	57	56	49	53	50	56	63
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Odsherred	41	42	48	49	43	35	36	38	42	39	39	45	45	41	37	31	33	33	32	31	25	24	25	26	25	25
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Ringsted	26	24	22	23	24	20	20	22	21	19	24	23	23	25	25	22	22	20	18	17	11	13	18	21	26	20
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Slagelse	79	84	87	89	89	76	73	73	65	64	66	68	80	76	70	67	64	63	57	55	53	57	55	58	54	57
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Sorø	18	15	15	11	13	13	12	10	12	10	9	14	11	9	8	6	9	9	9	8	8	11	12	16	18	16
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Stevns	18	17	20	18	19	19	17	14	14	12	10	10	12	12	11	10	7	8	4	5	5	5	7	8	6	3
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Vordingborg	48	52	55	46	49	44	42	39	40	44	46	57	62	55	55	49	51	51	43	37	37	34	32	36	24	28
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Region Syddanmark	835	815	846	751	705	671	653	666	661	676	674	676	705	729	717	674	664	639	608	614	616	633	645	638	633	622
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Fyn	402	398	417	366	332	313	311	309	321	333	320	318	320	328	321	294	299	277	272	286	284	286	282	271	285	284
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Assens	27	27	33	26	19	17	19	14	15	19	23	27	26	20	17	14	20	19	17	18	18	23	19	21	24	24
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Faaborg-Midtfyn	27	25	30	29	27	17	16	17	18	13	13	12	14	20	19	17	18	17	15	17	18	14	16	19	25	24
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Kerteminde	18	14	19	16	12	12	13	11	14	18	15	12	11	12	11	11	11	11	9	14	14	15	14	14	17	16
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Langeland	14	17	20	14	14	16	14	14	14	13	13	12	14	11	11	8	6	7	9	8	11	9	8	11	13	12
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Middelfart	11	13	11	8	11	14	13	14	11	9	10	9	10	13	11	8	9	13	16	17	16	16	18	17	15	17
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Nordfyns	22	19	22	17	21	19	17	21	22	20	19	21	20	20	18	22	24	22	23	25	26	27	23	19	22	22
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Nyborg	25	24	25	21	18	16	16	20	14	18	16	18	18	20	19	16	18	16	18	21	21	23	23	25	23	22
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Odense	201	198	197	179	161	147	151	146	157	166	154	152	150	160	164	151	155	142	138	133	128	124	125	108	108	115
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Svendborg	50	54	55	50	45	51	50	51	52	50	51	52	53	47	46	40	35	27	25	31	30	30	30	33	36	30
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Ærø	6	7	6	5	5	3	1	1	3	5	6	4	4	4	5	5	3	3	2	2	2	5	6	4	3	2
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Sydjylland	433	418	429	386	373	357	342	357	340	344	354	359	385	401	396	380	366	361	336	328	332	347	363	367	348	337
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Billund	4	5	6	6	9	9	8	8	8	6	6	6	6	8	3	3	3	4	5	3	4	4	4	5	4	3
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Esbjerg	53	58	60	61	62	53	55	57	48	50	55	58	61	66	57	48	54	56	53	54	56	70	74	72	70	64
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Fanø	6	6	5	5	1	0	0	0	0	0	0	1	0	1	2	2	1	0	1	0	0	0	1	1	1	1
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Fredericia	68	64	60	52	56	51	48	49	44	39	43	46	40	44	53	55	53	49	49	52	54	54	54	56	56	55
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Haderslev	41	36	38	36	31	31	28	29	27	29	31	31	32	31	31	29	25	22	19	17	18	22	27	25	30	27
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Kolding	49	48	48	43	38	41	37	36	43	47	41	33	36	38	38	46	41	45	42	44	36	33	37	45	38	37
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Sønderborg	69	58	61	54	48	48	51	50	51	53	56	54	58	59	63	65	62	58	59	52	55	53	48	48	43	42
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Tønder	10	7	6	5	7	11	9	7	8	11	6	9	9	8	10	7	4	6	6	6	6	7	9	13	10	11
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Varde	18	22	20	19	10	8	9	13	14	16	15	15	18	17	17	17	13	14	12	16	17	15	14	18	14	14
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Vejen	17	18	21	13	14	11	11	14	10	9	11	12	16	18	14	10	13	13	14	17	15	15	19	21	20	12
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Vejle	49	50	55	51	55	54	56	60	58	57	56	59	65	67	64	57	54	55	45	38	43	47	48	45	45	54
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Aabenraa	49	46	49	42	42	40	32	33	29	29	34	34	42	45	44	41	44	39	33	29	29	28	27	19	18	17
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Region Midtjylland	540	528	546	519	486	449	466	466	465	456	468	502	531	539	522	480	472	475	462	479	470	434	472	476	478	462
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Østjylland	387	367	376	361	339	312	325	321	321	325	339	361	383	383	362	333	335	330	321	333	325	302	328	324	312	317
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Favrskov	5	5	4	4	4	6	3	4	4	3	4	3	5	6	3	4	3	2	3	2	3	1	4	6	6	7
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Hedensted	11	11	13	9	9	10	10	9	11	14	10	10	14	14	12	12	13	12	11	11	6	4	5	6	9	11
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Horsens	33	26	19	16	19	19	13	16	18	17	17	22	27	23	24	22	24	24	25	28	29	30	36	28	28	27
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Norddjurs	21	23	22	20	21	20	21	20	20	17	22	27	24	22	23	20	19	22	23	22	22	17	15	12	13	13
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Odder	15	17	16	15	11	10	13	12	14	14	17	19	18	18	18	10	11	10	8	10	9	11	8	9	11	12
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Randers	54	58	60	56	49	49	50	45	46	43	34	33	36	47	43	46	42	40	37	33	31	35	43	44	46	43
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Samsø	4	5	4	3	1	1	2	2	3	3	3	4	3	3	3	1	2	2	2	2	1	3	4	2	1	1
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Silkeborg	41	38	41	40	36	34	40	40	38	39	40	41	38	34	38	35	33	29	27	27	32	27	27	29	27	33
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Skanderborg	10	8	8	8	6	4	6	9	7	6	6	4	5	5	5	7	7	7	6	6	5	4	4	5	6	7
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Syddjurs	30	27	30	24	22	17	13	15	16	15	19	21	26	21	21	16	16	14	13	11	12	11	15	12	9	12
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Aarhus	164	149	158	166	160	141	155	149	144	153	168	176	187	189	174	159	165	168	166	181	176	159	167	171	158	150
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Vestjylland	153	161	170	158	147	138	141	144	144	131	128	141	148	156	160	147	137	145	142	146	144	132	144	152	166	145
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Herning	75	76	78	70	69	62	59	67	67	64	66	71	71	69	68	61	65	71	73	69	66	58	62	66	69	63
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Holstebro	8	9	7	8	7	8	9	11	8	5	5	10	14	14	14	14	15	12	9	10	12	11	11	14	20	19
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Ikast-Brande	10	12	16	15	15	11	16	15	13	12	6	8	9	10	10	9	8	10	10	11	13	10	11	12	16	9
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Lemvig	4	3	2	1	2	2	3	1	4	4	3	2	1	1	0	1	1	0	0	0	0	0	0	1	1	0
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Ringkøbing-Skjern	16	12	14	12	7	10	11	14	16	13	14	20	20	20	22	19	14	12	12	19	15	14	17	18	18	20
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Skive	8	11	13	12	9	8	10	6	4	5	7	6	6	6	5	5	5	3	5	2	3	4	8	7	6	3
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Struer	7	10	10	7	7	8	8	6	6	5	6	6	7	13	14	14	12	14	13	15	15	17	18	12	11	8
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Viborg	25	28	29	33	31	27	25	24	28	24	21	19	20	23	25	24	18	23	20	19	20	17	17	21	25	24
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Region Nordjylland	446	429	447	412	403	387	351	349	351	348	358	385	390	395	377	339	301	274	265	271	275	272	279	306	310	284
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Province Nordjylland	446	429	447	412	403	387	351	349	351	348	358	385	390	395	377	339	301	274	265	271	275	272	279	306	310	284
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Brønderslev	23	19	23	23	22	20	24	26	23	23	27	26	29	27	25	28	24	19	24	22	23	22	22	27	26	23
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Frederikshavn	46	41	44	37	39	33	31	33	36	41	43	49	46	50	50	50	49	40	32	33	28	33	37	37	36	35
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Hjørring	56	57	57	52	48	46	36	39	37	26	28	36	35	35	35	33	30	26	22	28	25	25	25	27	22	17
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Jammerbugt	9	8	9	7	5	5	4	5	5	6	2	4	5	3	3	3	3	2	2	3	4	4	3	3	4	3
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Læsø	2	4	1	2	2	2	1	2	2	2	1	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Mariagerfjord	43	45	47	45	46	40	40	40	38	37	42	41	47	50	47	45	37	37	32	24	23	22	21	24	27	29
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Morsø	10	9	8	7	5	5	6	4	7	9	4	5	5	6	5	5	4	4	6	6	7	8	8	5	7	7
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Rebild	14	16	16	15	16	17	15	15	13	16	17	16	15	14	11	10	6	6	10	9	13	17	17	17	20	17
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Thisted	13	11	13	13	13	12	12	14	17	16	16	14	15	17	15	11	12	9	13	13	13	12	14	17	19	17
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Vesthimmerlands	43	38	40	27	23	27	24	25	28	29	28	29	32	31	31	24	22	22	20	28	30	22	21	24	24	21
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Aalborg	188	180	188	184	182	181	157	145	143	142	151	164	159	162	153	131	113	108	105	102	108	106	109	124	124	114
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of social assistance	50-59 years	Abroad	1	2	2	1	0	0	0	3	3	2	3	1	1	1	2	0	0	0	1	0	0	0	0	0	1	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Region Hovedstaden	396	378	369	328	324	305	286	299	305	287	273	293	310	316	324	307	308	315	298	292	293	303	308	306	325	320
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Byen København	159	145	135	118	127	118	105	111	115	109	101	112	128	134	130	124	126	133	130	128	129	126	128	123	133	127
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Copenhagen	111	101	97	80	84	81	69	76	78	74	72	82	91	99	99	99	98	104	100	94	99	98	103	100	110	107
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Frederiksberg	41	36	33	32	36	28	27	25	26	27	23	25	31	29	27	20	24	26	24	28	25	26	23	20	19	17
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Dragør	3	3	2	2	2	2	2	2	2	1	2	0	1	0	0	1	1	0	1	1	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Tårnby	4	5	3	4	5	7	7	8	10	7	4	5	5	6	5	4	4	2	5	5	4	1	3	3	3	3
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Københavns omegn	138	139	143	133	125	120	112	121	121	108	104	103	112	118	128	119	112	110	93	99	101	112	110	114	114	117
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Albertslund	15	17	17	17	15	16	14	14	16	14	13	13	17	14	14	12	9	12	7	8	6	6	5	6	7	8
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Ballerup	4	3	3	5	5	3	4	5	4	4	5	5	5	9	9	8	6	6	5	4	4	5	10	7	8	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Brøndby	14	15	14	13	15	11	10	10	13	11	11	13	14	16	21	20	21	18	19	20	27	23	23	22	21	20
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Gentofte	12	16	16	15	14	15	12	13	14	12	11	11	12	12	14	12	14	13	12	13	10	11	12	12	14	13
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Gladsaxe	18	15	19	18	18	16	17	17	13	11	11	11	13	10	10	9	9	8	8	9	10	11	7	12	12	12
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Glostrup	5	7	5	3	3	2	2	2	2	1	0	0	1	0	2	2	2	2	2	4	3	3	1	2	2	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Herlev	4	2	2	3	2	3	3	3	3	2	1	2	1	2	2	2	3	2	2	3	2	3	2	3	3	5
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Hvidovre	9	9	10	9	8	7	8	8	7	6	5	5	5	6	6	7	8	10	8	7	6	5	4	6	6	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Høje-Taastrup	19	16	18	17	16	12	10	12	14	16	12	9	9	9	11	11	8	9	5	6	7	11	13	12	13	13
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Ishøj	12	13	13	9	7	9	8	12	13	12	9	10	9	13	13	12	10	11	7	6	7	7	7	8	7	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Lyngby-Taarbæk	9	11	10	10	9	8	8	8	7	6	9	7	9	8	5	3	4	5	5	5	6	8	7	7	8	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Rødovre	14	12	13	12	12	14	13	15	14	13	15	17	14	16	18	18	15	14	11	13	11	16	16	15	12	14
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Vallensbæk	2	3	2	3	1	2	2	2	2	1	1	1	1	3	3	3	2	2	2	2	1	2	1	2	3	3
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Nordsjælland	87	83	81	70	64	62	65	63	62	63	64	74	66	59	61	60	66	69	71	62	56	59	64	62	70	67
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Allerød	0	0	0	0	0	0	0	0	0	0	1	1	1	2	2	1	1	0	1	1	0	0	1	0	1	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Egedal	3	3	5	4	2	2	5	6	6	6	7	8	6	5	4	3	6	7	5	5	4	2	2	3	4	5
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Fredensborg	5	6	6	6	4	3	2	2	3	4	4	1	4	5	4	3	2	5	7	7	4	5	3	3	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Frederikssund	10	13	11	8	9	9	8	6	8	9	10	11	9	8	7	5	4	4	5	3	3	5	5	6	5	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Furesø	5	2	2	1	2	1	0	0	0	1	2	1	2	1	2	1	3	3	1	1	1	1	1	1	2	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Gribskov	6	7	5	3	3	4	4	6	5	3	0	1	3	3	4	2	5	4	4	1	2	2	2	3	3	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Halsnæs	9	8	11	9	6	5	9	9	10	9	9	9	6	2	2	4	7	6	3	4	3	3	3	3	2	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Helsingør	32	29	27	26	24	27	27	24	22	24	23	25	25	22	22	22	21	24	27	26	24	24	24	22	25	27
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Hillerød	9	9	9	8	7	6	3	3	2	5	6	10	6	6	9	10	11	10	9	6	8	11	14	12	13	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Hørsholm	4	1	1	2	2	2	3	3	0	1	1	3	3	2	0	2	2	1	2	3	3	2	3	5	5	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Rudersdal	5	4	4	4	4	3	3	4	4	1	1	2	3	3	4	6	4	5	7	5	5	4	5	5	6	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Bornholm	12	11	11	8	7	6	4	5	7	7	5	5	5	4	4	4	4	3	4	3	7	7	5	6	8	9
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Bornholm	12	11	11	8	7	6	4	5	7	7	5	5	5	4	4	4	4	3	4	3	7	7	5	6	8	9
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Region Sjælland	160	154	153	154	157	146	132	135	137	137	130	135	138	142	143	137	134	138	137	135	137	140	129	133	138	143
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Østsjælland	29	23	24	22	24	20	20	18	23	22	20	17	17	16	23	21	23	20	20	19	18	20	17	15	20	21
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Greve	3	3	5	5	4	4	2	3	4	3	3	2	3	3	4	5	5	5	3	2	2	1	2	2	2	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Køge	8	7	6	6	7	4	3	3	5	7	7	7	8	6	7	7	7	7	6	5	7	6	5	4	3	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Lejre	2	2	2	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Roskilde	14	10	10	9	10	12	12	11	13	11	9	7	6	8	10	8	9	7	9	10	7	10	8	6	9	11
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Solrød	2	1	1	2	3	1	2	1	0	0	0	0	0	0	1	1	2	1	1	2	2	3	1	2	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Vest- og Sydsjælland	131	131	129	132	133	126	112	117	114	115	110	118	121	126	120	116	111	118	117	116	119	120	112	118	118	122
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Faxe	7	7	9	10	10	10	7	8	10	11	9	8	9	10	10	10	7	8	5	5	7	4	5	6	6	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Guldborgsund	9	15	17	18	18	16	9	12	12	14	16	17	17	18	18	19	19	19	19	17	15	12	10	12	16	19
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Holbæk	9	6	5	6	9	7	9	12	8	5	5	4	5	6	6	5	5	7	7	8	10	13	13	14	12	10
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Kalundborg	6	4	3	7	6	3	3	5	6	5	5	6	5	6	4	7	6	5	5	4	5	5	4	5	7	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Lolland	15	18	18	14	12	12	16	14	10	9	12	14	16	15	11	11	10	7	9	8	10	11	10	11	11	11
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Næstved	28	26	25	22	23	22	19	21	20	18	15	17	20	17	13	12	12	14	14	15	14	15	14	15	12	12
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Odsherred	11	10	9	6	5	6	7	5	4	6	5	3	4	6	7	7	7	10	9	11	9	11	13	13	12	11
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Ringsted	5	2	1	3	4	4	3	2	3	4	2	4	4	4	4	3	4	3	4	4	4	3	2	3	5	5
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Slagelse	19	20	22	27	24	22	18	20	22	23	23	25	24	24	27	27	26	23	23	23	25	23	22	18	20	22
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Sorø	1	1	1	2	3	4	2	2	3	3	2	3	3	3	3	1	2	5	4	4	3	2	3	3	6	5
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Stevns	6	7	7	6	6	6	5	6	6	6	6	6	6	7	6	5	4	5	5	5	5	9	7	5	5	5
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Vordingborg	14	15	13	12	14	12	14	11	10	10	10	10	6	10	11	11	10	13	11	11	11	11	10	12	9	9
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Region Syddanmark	189	186	194	174	171	169	169	167	169	176	178	182	193	190	198	189	185	178	167	176	163	168	173	168	178	179
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Fyn	87	81	92	78	75	78	84	84	84	81	80	82	88	86	90	83	81	76	74	78	71	71	69	61	64	69
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Assens	4	3	5	5	1	2	1	1	2	2	1	1	2	4	6	6	5	7	8	6	4	4	3	5	3	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Faaborg-Midtfyn	5	5	5	5	5	6	6	5	6	6	5	5	6	6	5	3	1	2	2	2	3	4	5	3	3	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Kerteminde	5	4	4	6	6	4	5	5	4	5	5	7	8	7	7	4	3	3	3	3	1	2	1	1	2	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Langeland	5	4	3	3	2	2	4	4	4	3	2	2	2	1	1	1	2	1	2	3	4	3	2	1	2	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Middelfart	3	2	4	3	4	4	3	4	3	3	2	3	3	3	4	2	4	3	4	4	3	4	4	1	2	3
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Nordfyns	4	5	5	2	2	5	4	3	4	3	5	5	5	5	4	6	5	6	3	5	6	8	6	5	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Nyborg	6	5	5	5	6	5	5	6	5	5	5	5	6	6	6	6	7	7	5	5	5	6	5	5	5	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Odense	42	39	45	34	35	35	37	39	38	37	35	36	40	37	39	37	39	35	36	37	35	31	34	31	32	33
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Svendborg	12	11	14	13	13	14	17	16	16	17	17	15	15	16	15	16	15	10	8	12	8	6	7	8	8	10
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Ærø	1	2	2	2	1	1	1	2	1	1	2	2	1	1	1	1	1	2	2	2	1	1	2	3	3	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Sydjylland	101	104	102	96	96	91	86	83	86	95	99	101	104	105	108	106	104	102	94	97	92	97	104	107	114	110
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Billund	0	0	0	0	0	0	1	1	1	1	1	1	2	2	3	3	2	2	1	1	1	3	2	1	2	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Esbjerg	9	13	15	15	17	17	16	13	14	15	12	14	17	19	13	13	10	11	14	16	13	17	17	19	19	16
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Fanø	3	3	3	3	3	2	2	3	2	2	4	5	4	3	4	3	2	3	4	5	4	4	4	4	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Fredericia	16	13	11	13	14	10	8	11	11	10	11	11	9	11	12	13	10	14	11	13	15	14	14	15	13	12
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Haderslev	9	11	12	10	9	7	5	5	6	7	7	4	7	9	9	9	10	7	7	10	6	7	10	10	13	10
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Kolding	14	16	14	12	13	13	13	12	11	13	16	17	19	20	24	23	23	21	20	17	16	16	17	19	24	25
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Sønderborg	12	15	14	10	8	11	11	11	11	12	14	15	13	10	10	10	14	14	11	8	8	8	9	8	8	10
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Tønder	2	2	3	3	3	3	2	2	2	2	1	2	2	2	1	2	2	2	2	4	4	3	4	4	3	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Varde	5	4	6	5	5	5	4	5	5	9	10	9	7	8	8	8	8	8	5	5	5	4	8	4	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Vejen	5	4	3	2	3	3	2	2	5	4	4	5	4	3	3	3	4	3	4	3	4	4	3	2	3	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Vejle	11	12	9	11	9	9	10	8	9	11	9	7	8	8	10	9	10	9	10	10	11	11	12	15	17	15
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Aabenraa	14	12	10	11	11	12	12	10	9	8	8	10	12	11	11	11	8	8	6	6	6	7	4	5	6	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Region Midtjylland	137	133	139	126	117	104	115	125	136	131	132	142	146	145	148	148	141	151	155	150	154	150	144	144	144	134
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Østjylland	94	91	93	91	83	71	80	90	93	92	91	103	102	101	102	104	100	111	113	106	104	103	97	97	95	91
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Favrskov	0	0	3	2	2	2	3	3	1	2	2	2	1	0	1	1	1	2	1	1	2	3	3	3	3	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Hedensted	2	1	2	2	2	2	3	3	3	4	3	3	3	2	1	2	2	2	3	3	1	2	1	1	1	0
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Horsens	2	4	4	6	5	3	5	4	3	4	4	6	6	7	7	7	8	9	8	6	9	9	9	8	8	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Norddjurs	4	5	8	6	5	5	5	6	6	7	8	9	9	8	10	12	8	9	10	10	10	9	4	4	6	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Odder	2	2	2	2	2	1	2	2	2	1	1	1	3	3	3	3	3	3	4	4	4	4	4	5	5	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Randers	16	14	14	13	14	12	10	14	13	13	12	14	15	14	15	14	10	11	12	10	13	12	12	13	11	14
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Samsø	2	2	1	2	1	1	1	1	2	2	1	1	2	1	1	1	1	0	1	1	1	1	0	1	0	0
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Silkeborg	18	16	14	13	14	10	9	15	14	12	13	13	11	13	13	11	13	13	15	15	15	19	17	16	13	15
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Skanderborg	0	2	2	2	0	1	2	1	2	1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Syddjurs	7	7	6	5	4	4	4	6	6	4	4	6	6	5	6	6	5	5	6	3	3	4	4	4	3	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Aarhus	40	38	36	37	33	30	36	36	40	43	43	49	45	46	45	46	48	57	53	54	48	41	42	42	44	39
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Vestjylland	43	42	46	35	34	33	35	35	43	39	41	39	44	44	46	44	42	40	42	44	50	47	47	48	49	42
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Herning	28	26	27	23	22	23	23	22	26	24	25	22	25	25	24	24	27	25	26	25	26	22	24	25	29	25
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Holstebro	0	1	1	0	0	1	0	0	1	1	1	1	2	2	1	1	0	1	1	2	4	5	4	4	5	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Ikast-Brande	2	3	3	1	1	0	0	1	1	1	1	1	1	1	2	2	1	0	1	2	3	3	4	3	2	3
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Lemvig	0	1	1	1	1	0	1	1	1	1	1	1	1	1	2	1	1	1	1	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Ringkøbing-Skjern	2	2	3	2	3	2	3	6	7	5	5	5	5	5	6	5	3	3	3	4	3	2	2	4	3	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Skive	1	0	1	1	1	1	0	1	0	0	0	0	0	0	0	1	1	2	3	0	1	2	3	2	1	0
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Struer	3	1	2	2	3	2	2	0	3	3	4	5	6	7	7	6	5	4	5	6	8	8	7	5	3	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Viborg	7	8	8	4	3	5	6	5	5	3	3	5	4	4	4	4	5	4	3	4	6	5	4	4	5	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Region Nordjylland	107	105	109	100	104	101	98	94	102	99	101	115	112	107	114	105	90	79	74	80	80	82	82	80	84	78
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Province Nordjylland	107	105	109	100	104	101	98	94	102	99	101	115	112	107	114	105	90	79	74	80	80	82	82	80	84	78
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Brønderslev	3	4	5	5	5	5	3	5	5	4	4	3	5	7	7	7	4	5	6	6	5	4	7	8	6	8
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Frederikshavn	10	9	11	10	7	9	11	9	10	13	15	14	15	11	13	13	14	9	7	11	15	15	15	12	14	15
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Hjørring	25	20	18	15	19	12	13	12	12	9	11	11	10	5	9	9	5	6	9	10	10	11	11	14	14	7
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Jammerbugt	3	4	3	3	4	4	2	2	0	1	0	1	1	0	1	1	1	0	0	0	0	1	1	2	1	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Læsø	0	0	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1	1	0	1	1	1	1	1	1	1
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Mariagerfjord	9	10	13	12	11	13	15	12	14	13	12	12	13	14	14	10	10	9	8	4	4	5	3	3	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Morsø	2	1	1	0	1	1	0	1	2	2	3	3	2	1	1	1	1	0	1	1	1	0	0	1	1	2
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Rebild	4	5	8	8	9	6	8	5	5	7	7	8	7	7	9	8	6	7	5	5	4	4	6	3	3	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Thisted	4	4	3	4	3	6	4	5	7	7	7	8	9	9	10	7	8	9	7	8	8	4	4	7	7	6
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Vesthimmerlands	6	4	3	3	5	2	2	3	2	3	2	4	4	3	4	4	4	4	4	6	6	6	6	5	4	4
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Aalborg	39	43	42	38	41	43	40	40	42	38	40	49	46	49	46	43	35	29	28	28	25	31	26	23	27	27
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Net unemployed recipients of social assistance	60 year and over	Abroad	0	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0

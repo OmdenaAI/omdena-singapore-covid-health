@@ -1,0 +1,93 @@
+sex	age	region	type of benefits	unemployment insurance fund	2018M01	2018M02	2018M03	2018M04	2018M05	2018M06	2018M07	2018M08	2018M09	2018M10	2018M11	2018M12	2019M01	2019M02	2019M03	2019M04	2019M05	2019M06	2019M07	2019M08	2019M09	2019M10	2019M11	2019M12	2020M01	2020M02	
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Akademikernes (fra 1. juli 2013 inkl. ingeniører)	6862	7107	6734	6175	6136	6458	8386	8684	7802	7588	7046	7114	7498	7737	7335	6727	6615	7303	9698	9850	8820	8478	7910	7786	8380	8775
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Byggefagenes a-kasse	871	834	808	729	561	448	432	467	455	503	575	759	880	865	804	709	586	520	472	458	430	498	598	806	921	860
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Børne- og Ungdomspædagoger (BUPL-A)	1721	1864	1653	1372	1499	1594	2019	1932	1648	1463	1292	1265	1548	1717	1517	1334	1360	1682	2196	2082	1710	1575	1440	1476	1767	1865
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Din Sundhedsfaglige A-kasse (DSA)	1315	1371	1050	792	801	1016	1250	1161	937	836	811	835	1336	1373	1167	949	893	1141	1426	1309	1110	995	939	952	1514	1536
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Det Faglige Hus A-kasse	4765	4536	4456	3915	3925	3665	3482	3716	3735	3950	4040	4449	4884	4735	4583	4036	4008	3930	3871	4065	4077	4307	4545	4975	5632	5517
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	El-faget	236	257	265	245	207	195	216	245	253	225	229	254	246	251	254	258	246	258	265	326	305	277	261	258	321	319
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Fag og Arbejde (FOA)	4331	3690	3469	3274	3371	3040	2704	3001	2956	3296	3215	3305	3369	2975	2763	2603	2774	2688	2500	2774	2862	3018	3028	3108	3193	2883
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Faglig Fælles a-kasse (3F)	13866	13267	12954	9333	8451	7467	6667	7261	7596	8517	9432	11538	13228	12895	11449	9123	8520	7967	7083	7586	7872	8778	9892	12127	13782	13269
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	A-kassen Frie (fra 1. januar 2020 inkl. DANA)	647	615	615	521	568	551	534	589	573	572	545	581	625	629	637	609	628	622	608	696	660	673	648	679	1054	1029
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Funktionærer og Servicefag ( - dec. 2016)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Funktionærer og Tjenestemænd (FTF-A)	4153	4471	4329	3867	3979	4164	4847	4862	4185	4145	3987	4296	4838	5021	4771	4312	4199	4708	5326	5383	4709	4470	4367	4719	5505	5681
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Fødevareforbundet (NNF)	648	618	603	499	480	443	389	423	443	469	461	478	535	523	521	426	415	385	346	378	415	528	550	582	652	591
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Handels- og Kontorfunktionærer (HK)	7465	7161	6939	6319	6603	6425	6475	7069	6596	6743	6455	6673	7269	7133	6931	6330	6580	6749	6749	7178	6831	6860	6621	6858	7527	7561
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Journalistik, Kommunikation og Sprog	1400	1313	1248	1149	1163	1244	1377	1440	1287	1270	1225	1179	1392	1362	1300	1175	1180	1201	1420	1493	1356	1274	1273	1356	1498	1475
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Kristelig a-kasse	8147	7911	7532	6392	6336	6089	5910	6360	6153	6393	6347	6974	7782	7540	7016	6121	6111	6074	5925	6276	6244	6430	6159	7331	8086	7835
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Ledere	2216	2074	2088	1875	2036	1983	1924	2169	2124	2213	2185	2262	2408	2334	2336	2095	2249	2318	2142	2373	2287	2390	2410	2572	2720	2640
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Lærere (DLF-A)	1176	1248	1010	983	1121	1445	2355	1813	1440	1514	1229	1311	1270	1365	1115	1098	1236	1625	2564	2242	1818	1791	1480	1576	1509	1566
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Magistre (MA)	3924	3741	3567	3279	3408	3480	4029	4188	3806	3777	3593	3721	3949	3823	3641	3305	3452	3576	4275	4574	4093	3994	3758	3854	3987	3991
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Metalarbejdere	1794	1660	1669	1410	1335	1172	1143	1213	1229	1298	1392	1590	1682	1578	1535	1363	1314	1242	1210	1327	1361	1422	1545	1739	1891	1909
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Min akasse (jan. 2017 - inkl. Funktionærer og Servicefag)	2940	2930	2844	2564	2541	2544	2546	2675	2422	2519	2492	2546	2740	2785	2765	2441	2406	2462	2602	2754	2474	2462	2469	2511	2696	2786
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Selvstændige (DANA) (- dec. 2019)	482	447	431	396	406	392	328	385	368	370	366	395	393	396	388	349	337	322	264	305	314	309	309	320	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Selvstændige Erhvervsdrivende (ASE)	3929	3707	3474	3320	3026	3107	2995	3136	2892	3300	3355	3399	3885	3646	3785	3010	3145	3208	2812	3071	2854	3169	3246	3704	4039	4106
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Socialpædagoger (SLA)	1106	1129	1009	868	914	922	1024	997	938	912	875	875	996	1027	933	794	814	874	1015	994	938	898	836	873	1021	1130
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Teknikere	1217	1182	1163	1030	1032	1050	1211	1303	1073	1027	962	1042	1175	1194	1154	1023	1037	1082	1187	1247	1093	1084	1036	1113	1209	1250
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Økonomer (CA)	2224	2111	2063	1892	1944	2120	2669	2749	2329	2287	2202	2152	2244	2226	2187	2013	2068	2298	2850	2966	2552	2436	2326	2242	2338	2409
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Business ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Min akasse ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Akademikere (AAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Blik- og rør (-dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Erhvervssproglige (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Forsvarets a-kasse (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Frisører, Artister og Maritim (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Grafisk a-kasse (- dec. 1999)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Ingeniører (IAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	IT-faget og Merkonomer (PROSA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Journalister (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Kvindelige Arbejdere (KAD) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Malerfaget og Maritime (- dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Malersvende (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Maritim a-kasse (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Pædagogmedhjælpere (PMF-A) (- dec. 2005)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	RestaurationsBranchen (- jini 2006)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Specialarbejdere (SID) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Stats- og Teleansatte (STA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Træ-Industri-Byg (TIB) ( - dec. 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of unemployment benefits	Ikke forsikrede	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Akademikernes (fra 1. juli 2013 inkl. ingeniører)	155	164	162	150	149	141	147	143	141	138	152	160	160	167	166	161	152	155	154	152	147	149	162	165	175	168
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Byggefagenes a-kasse	33	32	34	33	30	31	23	30	23	19	23	29	29	33	37	38	35	29	22	25	22	23	28	25	25	30
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Børne- og Ungdomspædagoger (BUPL-A)	75	77	78	63	62	55	60	63	65	65	60	70	63	70	67	68	66	67	71	76	72	63	59	50	60	70
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Din Sundhedsfaglige A-kasse (DSA)	16	15	13	14	12	11	7	10	13	7	9	11	11	13	11	9	8	10	13	7	8	7	10	10	11	7
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Det Faglige Hus A-kasse	457	488	499	447	425	370	346	381	396	399	421	423	459	487	472	408	387	370	336	326	319	324	339	353	379	376
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	El-faget	14	12	14	16	13	12	11	10	10	12	10	8	6	7	8	9	9	6	8	6	7	6	5	6	8	8
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Fag og Arbejde (FOA)	239	247	240	209	220	210	185	205	199	195	189	191	204	197	195	165	171	172	161	172	177	171	175	168	192	174
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Faglig Fælles a-kasse (3F)	793	811	840	728	673	629	547	596	622	624	642	662	715	713	690	608	568	550	467	503	521	524	523	576	627	617
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	A-kassen Frie (fra 1. januar 2020 inkl. DANA)	21	20	22	19	19	19	18	19	20	18	22	26	27	26	27	24	21	20	24	18	18	17	20	21	40	41
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Funktionærer og Servicefag ( - dec. 2016)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Funktionærer og Tjenestemænd (FTF-A)	90	104	96	84	83	78	76	71	73	80	78	84	93	93	79	78	80	81	73	80	81	91	91	96	104	119
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Fødevareforbundet (NNF)	38	34	27	29	29	28	25	28	25	32	27	26	22	26	22	22	14	20	17	24	19	22	23	20	21	27
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Handels- og Kontorfunktionærer (HK)	387	398	400	346	346	333	320	313	311	308	293	302	337	343	337	289	300	288	271	269	267	262	252	242	270	291
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Journalistik, Kommunikation og Sprog	55	52	51	49	38	35	38	43	39	33	37	34	36	36	31	35	31	34	30	35	32	32	27	40	36	36
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Kristelig a-kasse	647	661	656	578	568	531	510	532	553	528	530	549	574	595	583	502	472	469	439	451	448	466	494	487	504	499
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Ledere	31	31	33	31	37	32	30	27	33	32	31	36	32	31	34	32	32	28	29	31	31	28	30	34	31	29
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Lærere (DLF-A)	35	31	31	27	23	23	31	27	28	27	26	37	32	34	35	29	28	29	29	30	39	39	38	45	36	42
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Magistre (MA)	114	115	115	97	91	83	75	83	90	81	87	103	94	104	119	98	97	98	105	108	106	100	99	99	102	95
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Metalarbejdere	88	93	101	86	69	68	64	71	76	62	67	72	74	73	73	58	59	60	57	56	61	72	70	71	81	93
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Min akasse (jan. 2017 - inkl. Funktionærer og Servicefag)	170	166	156	137	129	136	118	108	111	119	123	138	140	143	148	134	126	122	121	129	118	124	125	116	123	142
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Selvstændige (DANA) (- dec. 2019)	31	36	37	30	35	26	19	26	29	34	29	28	26	33	30	28	29	34	23	24	24	14	18	16	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Selvstændige Erhvervsdrivende (ASE)	245	254	257	212	195	193	156	172	206	189	213	233	209	229	225	176	160	165	135	144	162	164	187	200	215	221
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Socialpædagoger (SLA)	22	22	21	19	22	23	20	18	20	20	21	18	20	22	17	18	20	19	15	13	14	18	16	17	22	23
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Teknikere	35	38	41	37	29	25	32	27	30	27	24	24	33	33	35	27	28	30	29	26	31	24	22	22	24	30
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Økonomer (CA)	34	41	42	35	34	30	29	27	31	36	37	37	36	41	40	36	33	33	38	43	41	35	36	33	31	37
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Business ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Min akasse ( - dec. 2014)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Akademikere (AAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Blik- og rør (-dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Erhvervssproglige (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Forsvarets a-kasse (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Frisører, Artister og Maritim (- dec. 2001)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Grafisk a-kasse (- dec. 1999)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Ingeniører (IAK) (- juni 2013)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	IT-faget og Merkonomer (PROSA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Journalister (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Kvindelige Arbejdere (KAD) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Malerfaget og Maritime (- dec. 2007)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Malersvende (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Maritim a-kasse (- dec. 2002)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Pædagogmedhjælpere (PMF-A) (- dec. 2005)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	RestaurationsBranchen (- jini 2006)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Specialarbejdere (SID) (- dec. 2004)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Stats- og Teleansatte (STA) (-juni 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Træ-Industri-Byg (TIB) ( - dec. 2010)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Age, total	All Denmark	Net unemployed recipients of social assistance	Ikke forsikrede	16217	15673	16438	14849	14384	13966	13460	12971	12891	12589	12776	13279	13629	13414	13019	12324	11844	11809	11363	11184	10739	10684	10924	11212	11518	11156

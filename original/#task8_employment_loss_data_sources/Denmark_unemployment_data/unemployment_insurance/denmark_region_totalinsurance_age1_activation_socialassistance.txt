@@ -1,0 +1,349 @@
+sex	unemployment insurance fund	type of benefits	age	region	2018M01	2018M02	2018M03	2018M04	2018M05	2018M06	2018M07	2018M08	2018M09	2018M10	2018M11	2018M12	2019M01	2019M02	2019M03	2019M04	2019M05	2019M06	2019M07	2019M08	2019M09	2019M10	2019M11	2019M12	2020M01	2020M02	
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Region Hovedstaden	319	347	301	331	312	293	211	191	211	206	211	178	147	172	176	160	162	159	122	118	132	134	144	142	114	133
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Byen København	68	82	76	90	91	82	61	54	59	58	64	49	41	48	46	44	53	54	41	38	46	43	49	52	43	50
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Copenhagen	29	37	35	49	52	48	32	28	30	32	39	27	21	25	29	27	34	33	24	23	27	24	30	30	20	26
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Frederiksberg	23	25	23	24	21	21	16	13	14	13	11	11	12	14	12	10	10	12	8	8	12	12	11	15	14	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Dragør	6	7	6	4	4	4	3	4	6	6	5	4	3	5	1	3	3	2	3	2	2	2	2	2	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Tårnby	11	13	11	13	14	10	9	9	9	8	8	7	4	4	3	4	6	7	5	5	5	5	5	4	5	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Københavns omegn	91	102	91	101	90	86	63	58	54	51	44	45	36	42	45	47	43	45	25	31	34	40	41	38	30	33
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Albertslund	1	1	1	2	1	2	1	0	0	1	0	0	0	0	0	1	0	0	1	1	1	2	4	5	2	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Ballerup	15	14	8	14	12	13	8	10	13	12	8	9	7	11	12	9	8	9	3	8	12	11	9	8	8	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Brøndby	2	1	2	2	2	1	0	0	1	1	2	1	2	1	1	2	1	1	0	0	1	1	1	1	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Gentofte	29	34	33	30	26	26	19	16	11	11	9	9	10	11	10	13	10	11	9	7	4	4	2	3	3	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Gladsaxe	3	4	4	3	4	4	3	2	2	2	1	2	1	2	2	2	3	5	2	3	2	2	3	2	1	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Glostrup	6	6	3	4	4	3	4	4	2	2	1	3	2	3	3	2	2	1	1	2	0	1	3	2	1	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Herlev	3	6	4	8	6	6	5	5	3	4	5	6	3	2	3	5	5	5	2	2	2	1	3	3	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Hvidovre	2	2	3	3	3	4	4	3	3	3	4	2	1	1	2	2	1	1	1	1	1	1	1	2	2	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Høje-Taastrup	7	9	9	11	10	7	3	3	5	4	4	3	2	4	6	5	5	3	1	4	5	8	4	5	3	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Ishøj	1	0	0	0	1	1	1	0	2	2	1	2	1	0	0	1	1	2	1	1	2	3	3	3	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Lyngby-Taarbæk	20	22	19	18	18	15	15	13	10	8	7	6	4	4	5	4	4	4	1	2	3	5	4	3	2	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Rødovre	2	3	5	4	3	4	2	2	2	2	2	2	1	2	2	1	2	2	2	1	1	1	2	1	2	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Vallensbæk	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	1	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Nordsjælland	138	136	112	123	120	113	77	71	89	85	92	73	63	70	75	62	62	56	53	45	47	45	47	46	38	43
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Allerød	9	9	8	8	7	5	2	3	6	5	7	7	4	5	5	6	4	3	1	2	2	2	2	2	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Egedal	15	14	13	14	15	15	10	8	9	10	12	12	11	9	9	8	9	6	5	4	6	8	6	7	4	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Fredensborg	9	11	9	8	9	9	7	5	4	4	4	3	3	4	2	0	0	1	1	2	0	0	1	1	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Frederikssund	12	13	12	16	16	14	12	8	10	12	11	9	7	9	13	10	10	12	15	11	11	9	10	9	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Furesø	8	8	6	9	8	10	4	4	4	5	6	2	1	1	5	4	4	5	4	3	2	2	1	1	3	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Gribskov	12	13	12	14	13	12	9	8	9	7	11	8	8	6	8	6	8	5	4	3	4	4	6	5	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Halsnæs	7	7	6	9	11	8	7	7	8	9	6	5	6	6	5	5	5	5	4	4	5	5	5	5	6	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Helsingør	32	32	25	23	18	18	12	13	17	11	11	9	9	12	11	7	6	5	8	7	6	6	7	6	4	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Hillerød	11	8	4	5	5	7	4	3	8	8	6	5	5	9	7	5	6	2	3	2	2	2	3	4	4	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Hørsholm	8	9	8	8	7	6	5	7	7	9	10	6	2	3	4	3	3	3	2	2	3	3	3	3	3	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Rudersdal	15	13	9	9	10	8	6	6	5	4	7	8	7	6	7	7	6	9	6	4	6	4	5	3	3	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Bornholm	22	27	22	17	11	12	10	7	9	13	11	10	6	12	10	8	3	4	3	4	5	6	7	6	4	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Bornholm	22	27	22	17	11	12	10	7	9	13	11	10	6	12	10	8	3	4	3	4	5	6	7	6	4	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Region Sjælland	316	342	300	331	326	304	220	201	224	220	237	210	176	176	178	174	183	183	148	139	153	146	154	137	119	133
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Østsjælland	78	81	74	80	74	69	60	55	60	52	50	47	39	40	42	40	45	47	43	40	39	41	44	39	30	33
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Greve	7	9	6	8	6	4	5	4	5	4	3	4	2	3	3	3	5	4	3	3	4	3	4	4	5	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Køge	32	35	35	35	28	26	22	23	25	23	20	18	13	15	19	17	19	20	16	15	12	12	12	12	9	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Lejre	12	11	10	10	10	9	9	9	9	8	9	6	5	3	3	3	2	3	3	3	4	4	4	4	2	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Roskilde	25	23	19	22	24	26	22	17	20	16	18	18	17	18	17	17	19	19	19	18	17	19	19	15	10	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Solrød	2	4	4	3	6	3	2	1	1	0	0	1	1	1	0	0	0	2	1	2	4	3	4	3	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Vest- og Sydsjælland	237	261	227	251	252	235	160	146	164	168	187	163	137	136	136	134	137	137	105	100	113	105	111	98	89	99
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Faxe	5	7	6	8	12	12	9	2	5	4	8	7	4	3	4	4	6	8	5	6	6	5	5	3	3	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Guldborgsund	35	43	39	42	38	35	30	26	27	26	28	24	20	17	15	16	14	12	10	10	13	12	13	9	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Holbæk	28	30	27	29	30	30	22	24	27	27	28	20	13	18	17	14	14	15	7	5	3	3	6	4	4	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Kalundborg	32	35	33	27	26	24	23	18	18	14	16	18	11	9	5	10	7	9	9	4	8	8	9	7	7	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Lolland	12	11	8	16	16	14	7	7	10	10	12	9	8	10	13	10	10	10	7	8	10	10	9	9	9	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Næstved	33	35	30	27	31	27	19	19	24	28	27	22	21	19	13	14	13	16	16	13	20	15	14	15	14	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Odsherred	13	10	12	15	13	10	6	9	9	12	16	12	12	10	13	14	17	15	7	8	7	9	9	8	6	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Ringsted	6	6	3	6	4	3	3	4	5	7	5	5	5	7	8	7	7	7	4	6	4	2	1	2	2	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Slagelse	29	32	20	29	33	33	17	15	14	12	13	14	14	14	15	15	18	18	20	21	23	25	24	22	20	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Sorø	22	26	25	30	30	28	15	12	14	14	18	18	16	18	19	17	23	20	14	12	13	10	12	13	11	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Stevns	10	11	11	11	8	8	4	2	5	4	6	5	4	4	5	6	2	3	2	3	1	2	4	4	3	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Vordingborg	12	13	13	11	10	11	5	7	8	10	10	8	7	6	7	7	6	4	4	5	6	4	3	1	2	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Region Syddanmark	321	364	327	376	351	313	242	229	250	265	284	251	188	204	213	216	209	222	179	177	194	215	240	198	150	155
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Fyn	139	154	129	145	135	124	94	77	86	99	101	91	66	72	75	71	67	73	50	49	56	67	78	68	50	55
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Assens	22	22	14	16	19	17	12	11	12	10	11	12	7	11	9	5	5	8	7	7	9	12	13	11	12	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Faaborg-Midtfyn	15	20	20	25	21	22	19	13	14	19	18	15	10	7	8	10	9	12	8	8	7	10	11	13	9	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Kerteminde	4	4	3	3	5	4	5	3	3	5	6	5	2	5	6	5	5	5	3	2	2	4	4	5	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Langeland	6	6	5	5	4	4	3	2	3	3	3	2	4	4	5	4	1	2	2	2	4	5	8	5	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Middelfart	8	7	6	9	10	9	6	8	10	10	9	10	7	7	7	7	7	7	5	5	6	2	5	3	2	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Nordfyns	20	23	19	17	15	16	11	7	7	8	13	8	8	7	6	6	5	6	6	5	2	4	5	5	2	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Nyborg	6	9	8	14	11	10	7	6	6	6	6	7	7	7	5	5	5	4	2	2	4	8	8	5	5	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Odense	34	39	32	37	32	28	22	19	24	26	23	22	15	15	19	22	21	21	14	13	17	15	14	13	7	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Svendborg	22	21	18	16	15	12	7	6	5	11	10	9	6	7	8	6	8	6	4	2	3	5	6	6	4	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Ærø	2	3	4	4	2	2	1	1	1	1	1	2	2	2	1	2	2	2	1	1	1	3	2	3	3	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Sydjylland	181	210	198	231	216	189	148	152	164	166	183	160	121	132	138	146	142	148	129	129	138	148	162	130	100	100
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Billund	7	8	5	6	3	4	3	3	1	1	3	3	3	4	3	5	4	4	5	5	5	7	5	4	4	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Esbjerg	37	39	39	50	44	32	23	23	25	28	33	29	18	20	22	16	16	17	12	17	14	17	22	16	13	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Fanø	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Fredericia	7	8	5	5	8	8	7	4	5	6	6	6	3	3	2	3	4	2	4	4	4	4	5	5	2	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Haderslev	16	16	13	19	18	16	14	14	12	13	10	8	8	10	12	11	8	12	12	12	15	14	12	9	6	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Kolding	22	30	25	34	33	28	26	25	24	22	26	26	21	25	26	31	32	33	24	24	22	24	30	29	21	19
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Sønderborg	24	24	24	22	20	15	9	15	21	20	19	17	14	13	13	15	13	14	12	12	11	11	8	9	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Tønder	10	12	13	13	14	15	13	13	15	15	24	20	12	8	11	12	13	13	10	6	13	11	10	7	6	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Varde	11	10	10	10	10	13	12	9	9	11	11	5	7	8	9	9	11	11	11	12	11	11	13	10	7	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Vejen	10	12	15	17	16	12	11	9	12	12	15	13	11	13	14	14	9	10	10	11	11	14	17	14	12	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Vejle	19	29	29	27	23	20	14	16	18	17	17	13	12	15	16	18	20	22	15	13	16	16	18	12	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Aabenraa	19	22	20	27	27	25	18	19	22	22	20	20	12	13	10	11	11	10	12	12	16	19	21	16	15	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Region Midtjylland	428	460	403	431	435	417	328	322	364	359	364	332	270	286	312	299	280	269	235	213	215	241	274	249	212	228
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Østjylland	256	281	238	276	282	271	206	202	229	220	227	211	173	186	214	199	183	175	159	149	148	170	193	170	146	157
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Favrskov	14	17	18	18	15	16	16	17	22	21	21	20	17	18	19	16	19	17	13	11	10	9	12	10	11	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Hedensted	19	20	18	18	17	17	6	13	17	21	21	18	18	22	27	23	18	18	14	12	11	14	17	17	11	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Horsens	20	18	11	20	24	21	16	18	20	24	25	21	17	19	28	29	24	22	19	15	17	18	17	18	13	17
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Norddjurs	16	16	16	20	20	20	15	15	14	15	14	13	9	9	11	10	11	12	7	8	8	8	9	6	6	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Odder	6	7	8	6	6	5	3	4	2	3	3	3	3	2	2	2	1	1	1	1	3	5	4	4	5	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Randers	35	38	30	35	35	37	25	30	24	25	27	28	24	23	30	27	25	24	28	25	24	21	24	18	15	19
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Samsø	1	2	2	2	1	1	0	1	1	2	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Silkeborg	25	26	21	24	29	25	16	14	17	17	16	18	13	12	11	11	8	10	9	12	14	14	15	12	10	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Skanderborg	19	20	17	21	21	17	14	11	10	7	12	11	6	6	9	8	8	7	8	8	7	6	10	10	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Syddjurs	16	12	12	14	13	16	12	8	10	9	12	11	8	10	9	8	6	4	3	3	4	4	4	1	2	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Aarhus	85	106	86	98	101	97	83	71	91	76	75	68	58	64	68	63	62	59	58	53	51	71	80	74	66	66
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Vestjylland	171	180	165	155	153	146	122	120	135	139	137	120	97	100	98	100	98	94	76	64	67	71	82	78	65	71
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Herning	39	38	31	33	34	32	27	27	31	27	26	25	21	23	27	23	25	24	17	12	13	15	20	22	17	18
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Holstebro	17	18	22	18	19	18	17	15	15	16	16	13	12	12	10	14	12	12	8	7	11	10	10	10	9	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Ikast-Brande	26	27	23	21	17	17	16	14	13	12	14	12	13	14	14	12	12	10	10	11	9	11	12	9	12	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Lemvig	8	9	7	6	5	4	3	5	8	9	10	11	9	8	8	7	5	4	3	3	4	5	5	6	5	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Ringkøbing-Skjern	18	20	19	19	17	17	13	12	12	14	12	7	7	6	3	6	6	6	5	4	5	5	8	6	2	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Skive	22	25	24	19	21	22	17	17	21	20	18	18	10	9	11	11	11	9	7	8	6	4	4	5	4	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Struer	8	8	7	6	6	6	7	7	10	12	12	10	6	7	6	8	7	6	9	5	6	7	5	2	2	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Viborg	33	35	30	34	34	30	22	23	25	28	28	25	20	21	20	19	20	24	17	14	13	15	18	17	14	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Region Nordjylland	283	295	265	310	294	298	199	182	201	200	200	165	149	160	171	173	167	167	127	106	134	152	160	143	108	127
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Province Nordjylland	283	295	265	310	294	298	199	182	201	200	200	165	149	160	171	173	167	167	127	106	134	152	160	143	108	127
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Brønderslev	17	19	15	18	12	12	12	8	7	4	4	5	3	3	5	6	7	4	1	5	2	5	5	5	5	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Frederikshavn	24	25	22	29	34	32	15	15	18	14	13	9	8	10	11	14	12	13	10	10	13	15	15	15	8	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Hjørring	17	19	18	25	25	24	14	13	16	14	12	9	9	10	15	14	11	15	10	4	6	9	13	11	9	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Jammerbugt	14	13	9	16	14	18	11	10	15	19	21	16	16	17	15	15	14	14	8	7	13	15	13	10	7	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Læsø	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Mariagerfjord	7	8	8	9	8	9	7	7	9	11	11	9	10	10	10	10	9	11	7	4	7	10	10	10	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Morsø	7	9	8	7	5	6	3	3	5	5	5	4	3	3	3	4	4	4	2	1	1	2	2	2	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Rebild	9	8	8	8	7	8	7	7	7	5	7	5	7	7	7	5	4	4	3	1	1	2	5	2	3	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Thisted	19	20	19	25	25	22	14	19	20	19	21	12	9	7	14	12	14	10	9	10	9	15	13	9	6	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Vesthimmerlands	20	22	24	27	24	20	10	13	15	18	16	13	14	15	15	14	11	10	8	6	7	6	7	6	5	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Aalborg	149	153	134	147	139	147	106	88	89	90	89	84	69	78	76	80	82	82	70	57	74	73	77	74	58	72
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	16-24 years	Abroad	6	4	4	4	1	1	1	0	2	8	4	4	3	3	5	6	0	1	0	1	1	3	1	2	2	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Region Hovedstaden	346	379	337	367	366	345	280	251	249	240	265	255	228	243	237	224	214	208	190	185	188	192	215	207	181	189
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Byen København	90	95	85	90	100	97	84	73	78	75	75	78	66	71	68	71	77	74	69	64	63	63	71	67	66	65
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Copenhagen	63	66	55	59	71	65	52	48	47	48	50	50	44	49	51	50	53	53	48	43	44	41	45	44	42	43
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Frederiksberg	16	16	18	17	11	11	11	10	12	9	10	9	7	8	8	11	12	9	10	12	10	11	12	11	14	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Dragør	4	4	4	5	7	8	9	5	6	5	6	6	5	4	0	3	3	4	3	3	3	4	3	2	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Tårnby	7	9	8	9	11	12	13	10	12	12	9	13	10	9	9	7	8	8	7	6	6	8	11	10	7	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Københavns omegn	81	96	85	93	92	90	69	63	59	53	65	56	54	60	56	59	60	64	53	50	53	56	62	60	50	50
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Albertslund	4	4	4	4	6	4	3	3	3	2	2	2	2	2	1	2	3	5	4	2	1	1	1	1	1	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Ballerup	10	15	10	16	15	13	10	10	11	10	11	7	3	6	7	9	8	11	7	3	5	4	9	4	5	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Brøndby	1	1	1	1	2	3	1	1	1	3	3	2	2	3	4	4	5	4	3	3	3	3	3	3	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Gentofte	25	28	25	28	25	25	18	16	11	9	11	14	13	13	11	12	12	11	11	11	13	10	10	11	10	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Gladsaxe	9	9	9	8	8	8	7	6	7	7	6	6	6	5	4	3	6	7	4	5	4	5	5	5	5	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Glostrup	7	7	8	6	7	6	4	2	2	3	4	2	1	2	2	2	1	0	1	0	0	1	1	2	2	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Herlev	2	5	5	6	6	7	5	7	10	6	6	7	4	4	5	4	4	5	5	5	4	3	2	2	1	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Hvidovre	3	1	2	1	3	4	3	3	3	4	3	3	4	4	4	2	2	2	2	3	3	4	5	4	4	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Høje-Taastrup	5	5	5	7	5	6	2	2	1	0	6	6	6	8	6	7	6	7	3	3	5	7	9	10	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Ishøj	1	2	3	3	1	2	1	1	1	0	0	0	1	3	0	1	1	1	1	2	3	3	2	3	2	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Lyngby-Taarbæk	5	7	7	4	4	5	6	4	2	3	3	1	3	5	5	6	5	3	3	3	3	3	3	2	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Rødovre	8	8	5	8	10	8	7	6	7	7	9	6	7	6	7	6	5	8	8	8	9	9	10	10	7	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Vallensbæk	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	2	2	2	3	2	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Nordsjælland	141	153	137	145	141	136	113	103	101	96	100	95	84	87	91	83	74	67	66	67	67	67	75	72	57	67
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Allerød	9	11	10	10	13	12	7	7	6	7	5	4	7	8	9	8	8	8	5	5	5	5	6	6	7	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Egedal	15	16	12	15	14	13	9	12	12	13	15	13	10	10	10	7	7	5	6	4	6	7	8	8	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Fredensborg	10	11	10	10	8	8	10	9	9	7	6	8	5	3	6	5	5	4	2	4	4	3	3	3	0	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Frederikssund	13	18	18	20	17	17	14	11	11	9	13	12	11	11	12	11	11	10	8	9	10	11	12	13	10	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Furesø	8	6	4	4	4	5	5	5	5	4	4	4	2	2	2	3	2	3	2	2	3	4	4	5	4	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Gribskov	10	12	9	10	7	8	7	6	5	5	7	8	10	11	8	8	7	8	7	6	5	4	6	7	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Halsnæs	14	15	14	12	12	9	7	8	8	7	7	8	7	8	8	9	7	6	7	8	9	8	7	7	8	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Helsingør	16	17	16	17	14	11	9	7	6	5	7	7	8	9	10	9	7	4	6	5	5	5	5	4	3	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Hillerød	12	13	13	15	14	13	11	9	11	11	9	6	6	7	7	6	7	7	7	8	6	5	7	6	1	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Hørsholm	10	13	13	11	16	17	13	13	12	10	11	10	8	9	8	8	7	7	8	9	7	7	7	6	6	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Rudersdal	23	21	18	21	21	24	21	18	16	17	18	14	10	9	11	10	6	7	8	7	9	7	9	8	7	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Bornholm	34	35	29	38	33	22	14	10	12	16	24	26	24	25	22	11	3	3	3	3	5	5	7	7	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Bornholm	34	35	29	38	33	22	14	10	12	16	24	26	24	25	22	11	3	3	3	3	5	5	7	7	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Region Sjælland	363	384	346	386	375	360	283	266	272	266	288	263	224	243	241	243	239	229	179	171	178	190	184	180	162	170
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Østsjælland	95	99	90	103	100	99	84	76	74	72	73	67	54	52	53	54	54	54	44	43	48	50	45	46	41	42
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Greve	11	12	9	10	8	9	12	8	8	8	7	9	8	10	9	8	7	7	6	5	5	6	5	5	5	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Køge	41	43	42	39	34	36	32	27	30	30	28	23	15	14	15	17	19	17	11	13	17	22	21	18	17	20
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Lejre	14	15	15	16	19	18	15	14	10	10	10	10	8	6	6	6	4	5	6	6	6	5	5	7	7	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Roskilde	28	27	21	31	30	30	23	26	25	23	27	25	23	23	21	22	23	23	20	18	18	15	12	13	11	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Solrød	0	3	3	7	9	6	3	2	2	1	0	0	0	0	1	1	1	2	1	1	2	2	3	3	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Vest- og Sydsjælland	269	285	256	282	275	261	198	190	198	194	215	196	170	191	188	189	185	176	135	128	130	140	139	133	122	129
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Faxe	18	14	12	12	14	15	11	10	10	12	10	9	6	13	11	8	9	7	4	6	7	10	9	9	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Guldborgsund	37	38	35	37	30	29	21	20	21	26	26	27	27	30	27	28	34	31	25	24	21	23	22	25	21	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Holbæk	31	29	30	36	36	33	18	22	25	26	24	22	21	23	24	21	21	23	12	12	13	12	12	12	10	14
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Kalundborg	22	28	27	25	24	18	14	12	16	16	18	15	12	13	11	12	13	15	11	12	11	11	17	16	13	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Lolland	16	18	16	18	16	15	11	15	18	12	15	17	13	17	17	21	15	12	10	11	8	9	14	11	10	13
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Næstved	45	46	39	44	44	48	41	35	34	37	47	36	27	28	23	26	27	22	17	18	21	22	19	15	17	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Odsherred	12	12	9	16	15	17	9	14	17	13	13	13	10	8	10	12	11	11	8	5	6	8	4	5	5	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Ringsted	12	15	10	17	12	11	10	8	4	5	5	5	5	6	7	4	2	3	5	5	6	5	4	3	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Slagelse	26	32	31	30	33	28	26	18	19	20	27	24	20	21	22	24	21	24	23	18	20	19	17	16	12	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Sorø	14	16	12	16	17	15	11	10	10	6	7	6	8	9	14	14	13	13	11	9	8	8	10	12	12	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Stevns	14	13	12	11	12	10	9	8	9	8	9	11	7	10	8	8	5	5	3	4	3	3	4	3	4	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Vordingborg	22	23	22	22	21	23	18	17	15	14	15	13	13	13	13	12	13	10	7	3	5	9	8	6	8	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Region Syddanmark	376	378	324	374	375	345	267	243	272	283	301	250	223	239	252	254	236	229	192	186	199	211	238	212	184	186
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Fyn	142	144	122	143	151	134	101	97	105	108	123	103	92	102	104	101	88	83	73	62	69	71	88	83	65	66
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Assens	14	16	15	19	20	16	12	10	13	11	13	12	10	11	10	11	8	6	7	7	9	9	10	11	10	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Faaborg-Midtfyn	25	26	24	26	27	22	18	18	20	22	22	16	14	16	13	10	8	5	3	3	4	5	7	9	9	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Kerteminde	6	7	3	5	7	6	5	4	3	3	4	5	5	6	6	5	5	5	5	3	6	7	8	7	4	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Langeland	4	2	2	3	4	4	4	4	3	6	9	8	4	3	5	4	1	2	2	2	2	3	4	4	3	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Middelfart	12	11	10	10	11	7	7	7	9	8	7	8	6	7	8	8	7	7	6	5	7	6	6	4	2	4
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Nordfyns	22	21	18	20	16	15	12	11	12	12	13	12	12	11	10	10	9	9	9	8	6	5	5	4	3	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Nyborg	10	8	5	7	8	6	5	6	8	9	6	4	3	6	6	4	4	4	3	3	3	4	4	3	4	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Odense	33	38	27	30	35	40	27	26	28	28	40	30	30	36	39	41	37	37	32	24	27	27	37	33	25	22
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Svendborg	16	15	18	21	20	16	12	12	7	9	7	7	7	6	6	6	8	8	7	6	5	5	7	8	5	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Ærø	0	1	1	2	2	1	1	1	1	1	1	1	1	1	2	1	1	0	0	0	0	0	0	1	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Sydjylland	234	234	201	231	223	211	166	146	167	175	178	147	132	137	148	153	149	147	119	124	130	140	150	129	119	120
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Billund	12	15	13	15	12	11	7	5	6	8	7	7	5	5	7	6	6	5	4	5	2	3	2	3	7	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Esbjerg	36	37	34	36	34	31	24	21	26	27	25	20	22	25	29	33	32	23	17	19	19	16	18	14	12	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Fanø	1	1	1	1	1	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Fredericia	11	12	9	13	13	10	10	7	7	7	9	7	7	4	4	4	5	5	5	6	5	4	5	6	6	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Haderslev	21	26	21	26	25	29	19	19	17	18	20	15	9	12	10	15	12	12	13	11	12	14	15	14	9	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Kolding	36	33	31	37	37	37	24	20	23	22	24	18	14	14	17	17	13	14	16	17	18	16	21	20	16	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Sønderborg	18	20	18	20	18	17	15	11	14	15	17	15	11	15	13	13	9	12	8	11	13	14	14	11	10	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Tønder	18	17	13	18	16	12	11	9	11	14	16	12	12	12	15	11	10	10	10	10	10	14	20	19	16	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Varde	18	17	14	16	16	17	14	10	10	10	8	9	6	6	5	4	7	8	4	4	7	8	7	7	9	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Vejen	13	13	12	12	11	12	9	9	9	8	9	8	7	10	9	9	8	9	6	5	9	13	9	8	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Vejle	26	21	19	18	19	17	16	18	27	27	26	25	25	24	26	23	30	30	18	15	15	18	19	15	13	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Aabenraa	25	22	15	19	21	18	17	15	15	19	17	13	12	9	13	18	17	19	17	19	20	22	21	12	12	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Region Midtjylland	483	508	449	488	464	447	367	333	350	373	375	345	302	312	317	321	328	319	249	245	261	285	302	283	238	235
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Østjylland	282	294	258	287	277	261	215	189	197	210	219	208	178	184	191	195	198	198	156	157	159	167	176	172	147	147
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Favrskov	27	25	21	21	19	18	15	15	15	15	15	14	13	15	18	21	22	22	16	15	13	12	12	14	13	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Hedensted	14	14	10	9	8	8	7	5	7	8	10	9	7	9	9	10	8	8	5	7	7	5	6	7	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Horsens	17	15	12	18	20	20	15	15	19	20	22	22	19	18	18	22	21	21	16	16	22	24	23	22	21	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Norddjurs	19	26	23	27	31	26	26	24	25	25	24	19	14	15	14	17	18	22	17	14	13	15	16	16	10	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Odder	8	10	12	11	12	7	5	3	4	4	5	3	2	4	3	2	2	2	0	2	2	2	1	1	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Randers	32	34	32	32	30	31	28	23	25	29	29	30	28	30	32	33	28	30	27	24	30	32	35	26	22	25
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Samsø	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Silkeborg	37	36	32	33	36	33	25	23	22	25	24	23	25	21	21	17	19	19	16	16	19	18	21	20	20	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Skanderborg	18	21	20	23	19	17	13	15	13	12	15	17	17	15	14	14	14	13	11	11	8	5	6	6	7	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Syddjurs	24	24	19	24	19	16	13	11	11	12	10	8	5	5	5	3	3	3	3	4	3	5	5	4	3	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Aarhus	85	89	75	88	83	84	67	56	56	59	66	62	48	52	56	57	63	57	44	46	43	50	52	56	44	45
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Vestjylland	201	213	191	200	187	186	152	144	153	163	156	137	124	129	127	126	131	122	93	88	102	118	125	111	90	87
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Herning	40	42	39	44	43	47	36	30	28	23	22	20	18	25	25	28	28	22	16	16	17	20	25	21	16	19
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Holstebro	17	23	17	21	16	19	15	13	17	18	15	14	15	12	17	17	17	16	10	10	11	13	10	7	8	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Ikast-Brande	20	20	16	18	13	12	6	8	9	11	13	18	15	16	14	11	13	12	11	9	9	11	16	16	12	14
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Lemvig	16	14	11	11	10	9	9	8	7	8	12	11	11	10	10	9	8	7	4	6	7	8	9	8	10	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Ringkøbing-Skjern	14	18	18	22	20	20	13	12	14	17	14	11	8	9	8	10	11	9	8	7	9	11	11	11	10	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Skive	41	39	36	33	34	31	31	32	34	35	33	24	19	14	12	13	14	15	12	12	14	14	15	15	8	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Struer	8	8	7	6	5	4	5	3	5	5	4	3	5	8	9	8	8	8	6	3	5	5	4	2	2	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Viborg	46	50	46	47	46	45	38	37	41	47	43	36	33	35	32	31	29	32	28	25	31	36	35	30	24	22
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Region Nordjylland	330	333	295	348	343	336	248	225	242	228	212	176	142	146	163	176	183	179	131	123	131	139	152	140	130	130
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Province Nordjylland	330	333	295	348	343	336	248	225	242	228	212	176	142	146	163	176	183	179	131	123	131	139	152	140	130	130
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Brønderslev	17	24	21	20	21	19	14	14	13	11	11	7	2	7	7	4	6	6	3	4	5	5	7	7	7	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Frederikshavn	23	23	23	33	34	33	17	21	25	20	17	16	15	12	16	15	15	11	10	13	13	13	13	14	14	14
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Hjørring	25	28	21	35	34	23	17	15	12	14	13	10	9	14	20	17	19	19	13	13	11	11	14	12	11	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Jammerbugt	14	14	11	18	15	19	15	11	13	15	17	14	14	13	12	13	17	13	11	9	12	15	15	13	15	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Læsø	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Mariagerfjord	17	14	15	17	15	14	10	9	13	9	8	8	6	5	10	13	13	14	7	3	5	7	10	9	7	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Morsø	18	19	16	17	14	14	11	6	9	10	11	10	8	5	6	7	5	5	3	3	4	4	5	6	7	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Rebild	18	16	19	19	19	21	15	15	12	9	8	8	4	8	5	6	5	3	3	3	4	3	5	4	3	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Thisted	25	23	19	20	23	24	11	12	14	15	12	10	11	11	9	11	11	13	7	9	8	7	8	6	7	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Vesthimmerlands	19	20	23	25	26	26	20	20	25	27	26	20	16	15	13	15	17	16	12	10	9	8	9	9	9	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Aalborg	153	151	128	143	141	142	118	102	105	98	90	74	57	56	64	75	76	79	62	57	59	66	67	60	51	55
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	25-29 years	Abroad	3	0	0	1	0	0	0	0	0	1	1	1	0	0	2	4	0	2	0	0	0	0	0	1	0	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Region Hovedstaden	908	921	831	935	859	850	750	739	783	761	776	705	624	656	678	667	657	669	567	576	598	626	656	618	538	528
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Byen København	331	326	292	319	317	334	303	299	328	328	330	303	271	274	280	271	282	276	233	241	249	254	257	234	212	197
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Copenhagen	251	247	224	245	243	259	245	242	270	272	271	241	216	223	235	222	237	228	190	193	199	212	211	192	175	160
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Frederiksberg	53	52	44	45	43	46	31	30	33	33	35	35	34	30	31	26	22	24	22	27	30	21	22	17	17	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Dragør	8	6	7	7	5	5	7	7	7	6	5	6	5	6	0	6	5	5	5	4	4	5	6	7	6	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Tårnby	19	20	18	22	26	24	21	20	18	16	19	21	17	15	14	16	16	19	16	17	16	16	18	18	14	17
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Københavns omegn	240	264	247	284	249	230	193	187	216	208	215	195	171	182	194	207	201	215	182	188	184	194	211	197	169	167
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Albertslund	5	10	8	13	10	10	7	5	5	5	7	5	4	8	9	13	15	18	13	12	9	10	13	14	14	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Ballerup	25	24	21	23	17	21	18	17	19	16	15	17	15	17	20	17	16	18	14	14	9	8	6	10	8	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Brøndby	10	9	12	15	8	4	7	9	15	15	17	15	12	14	20	21	22	21	19	19	18	18	21	23	18	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Gentofte	41	45	44	47	41	37	32	28	30	32	33	30	27	27	25	24	19	20	20	17	15	16	18	15	16	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Gladsaxe	42	44	42	44	38	36	35	33	38	41	40	36	35	35	42	39	38	35	30	27	27	29	27	23	22	20
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Glostrup	10	11	10	9	8	9	6	10	13	10	11	9	6	5	8	9	8	7	4	4	7	6	9	7	6	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Herlev	10	12	12	13	11	13	10	10	11	12	17	13	10	10	10	11	9	7	8	11	11	14	16	14	9	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Hvidovre	11	17	17	22	20	16	11	10	14	13	6	7	4	8	10	9	9	10	9	13	13	15	14	11	12	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Høje-Taastrup	25	32	29	39	35	28	19	22	24	18	21	15	14	18	21	24	25	27	18	25	25	29	31	30	24	28
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Ishøj	13	8	7	8	7	8	7	8	8	10	10	9	9	9	0	8	5	7	4	5	6	4	6	8	10	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Lyngby-Taarbæk	22	26	23	26	26	23	19	17	22	22	21	15	14	13	12	13	15	15	11	10	14	13	14	8	8	7
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Rødovre	21	21	16	21	22	20	18	15	14	12	15	25	20	16	17	17	16	26	30	28	27	30	35	34	21	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Vallensbæk	5	5	7	5	5	4	3	3	3	2	2	0	1	1	2	3	4	4	2	2	4	3	2	1	2	3
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Nordsjælland	308	303	266	300	268	262	237	238	222	204	210	188	164	180	181	174	159	164	145	143	157	160	169	165	140	145
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Allerød	16	20	20	24	18	17	15	14	12	11	12	9	9	8	9	9	7	8	6	5	7	6	7	8	7	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Egedal	28	29	29	29	29	32	28	32	30	28	27	24	17	21	21	15	11	15	10	14	18	18	19	19	18	18
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Fredensborg	21	20	15	18	15	13	15	17	14	13	13	16	13	14	18	16	10	11	7	10	13	12	11	12	10	13
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Frederikssund	33	34	28	31	27	30	27	26	21	22	27	27	23	22	20	23	20	20	19	16	16	16	19	18	19	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Furesø	17	19	14	16	14	12	10	9	9	10	8	8	7	8	9	6	6	5	5	3	4	5	6	7	6	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Gribskov	31	28	25	31	25	17	12	14	13	17	19	18	17	15	14	14	11	11	11	15	14	15	15	15	13	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Halsnæs	29	20	17	21	19	20	19	24	26	21	18	18	15	16	15	18	15	15	13	11	12	14	15	11	8	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Helsingør	42	44	36	35	31	33	32	29	28	22	18	22	24	32	31	28	30	31	28	25	29	29	29	28	20	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Hillerød	28	25	27	38	34	33	28	25	25	27	29	18	13	16	16	16	14	11	13	11	12	15	17	18	16	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Hørsholm	14	15	11	13	14	15	14	14	11	7	8	8	9	9	9	9	11	12	11	9	7	8	9	9	6	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Rudersdal	49	49	42	43	41	41	36	33	34	26	32	21	16	19	19	20	24	25	24	24	24	23	21	18	16	18
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Bornholm	29	29	26	32	25	23	16	14	16	21	21	19	18	20	23	15	16	14	6	3	8	17	19	22	18	19
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Bornholm	29	29	26	32	25	23	16	14	16	21	21	19	18	20	23	15	16	14	6	3	8	17	19	22	18	19
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Region Sjælland	729	778	714	764	718	736	584	592	644	626	645	604	559	551	583	597	561	529	430	429	456	482	514	471	437	436
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Østsjælland	174	178	165	178	174	161	136	146	140	126	129	113	98	98	99	102	110	109	86	80	77	82	97	91	80	76
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Greve	33	32	28	37	37	31	24	24	25	25	25	18	19	17	19	18	18	18	13	12	9	10	12	12	12	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Køge	51	56	54	52	54	50	40	41	37	30	28	26	21	20	23	22	24	21	19	22	23	26	32	28	28	29
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Lejre	19	20	20	17	16	14	15	18	17	14	18	14	13	14	13	14	12	12	13	11	12	15	19	20	16	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Roskilde	58	61	55	61	57	55	48	57	56	54	56	54	42	46	45	46	54	52	35	30	28	24	26	24	18	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Solrød	12	9	8	10	11	12	8	6	5	4	2	2	2	1	0	1	2	5	6	5	6	7	8	7	7	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Vest- og Sydsjælland	555	600	550	586	543	575	449	446	504	500	516	491	460	453	484	495	450	420	343	349	379	401	416	379	357	360
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Faxe	19	21	18	22	15	20	16	22	26	29	23	23	19	21	23	24	16	18	15	15	15	17	12	10	12	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Guldborgsund	98	105	101	100	81	91	80	86	92	84	85	81	84	88	88	90	79	79	59	66	76	83	86	77	71	71
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Holbæk	77	82	81	72	63	68	49	55	57	59	59	63	65	67	65	61	51	52	35	31	32	33	34	37	30	28
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Kalundborg	53	53	47	56	51	48	37	30	40	39	39	32	29	27	26	27	27	25	21	26	28	27	24	18	16	24
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Lolland	53	62	54	52	49	48	45	45	48	51	56	48	39	29	38	38	36	31	26	26	29	29	31	28	24	25
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Næstved	72	85	77	83	78	81	70	70	85	84	93	92	85	89	104	102	94	82	69	66	65	66	76	68	68	61
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Odsherred	32	30	27	36	37	38	22	25	30	30	30	30	26	22	19	24	26	22	17	16	24	23	23	19	20	23
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Ringsted	16	19	16	20	22	22	15	12	17	19	19	15	14	15	15	16	17	14	13	12	16	17	17	17	14	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Slagelse	41	42	38	39	44	52	37	33	41	37	37	38	34	29	31	30	29	30	31	28	28	29	39	42	36	32
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Sorø	22	23	19	25	27	26	24	18	17	19	22	23	25	25	27	31	28	24	19	16	18	19	16	15	17	13
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Stevns	25	27	26	25	22	20	18	16	15	14	14	13	10	9	13	15	13	13	14	15	15	15	16	15	13	14
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Vordingborg	47	51	44	55	53	61	35	33	36	35	39	33	30	31	35	37	33	30	25	32	33	43	44	35	35	40
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Region Syddanmark	874	896	789	903	851	819	643	653	680	672	676	621	550	573	594	614	597	621	504	523	588	588	614	574	511	514
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Fyn	361	351	304	368	349	316	233	248	260	263	252	226	205	224	237	249	242	256	197	189	228	227	247	236	210	214
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Assens	38	36	29	34	31	30	25	24	22	25	31	23	21	20	20	23	17	21	22	19	23	24	22	16	15	18
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Faaborg-Midtfyn	50	51	47	45	42	49	37	38	40	35	30	30	23	28	26	28	27	32	24	18	26	25	27	33	30	32
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Kerteminde	15	12	12	17	13	14	9	11	9	6	7	9	9	11	12	12	16	13	10	7	13	11	13	14	13	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Langeland	11	12	12	16	14	13	12	11	11	14	11	10	9	15	16	19	14	15	11	9	6	9	12	13	11	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Middelfart	35	39	36	35	29	27	23	25	27	29	27	25	21	22	23	27	19	13	13	11	11	12	8	11	10	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Nordfyns	42	42	36	39	34	30	23	22	24	21	20	17	17	19	22	21	21	19	15	16	20	22	22	23	19	23
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Nyborg	33	28	23	30	26	21	16	16	21	19	15	14	12	12	14	13	12	12	10	10	12	11	10	10	10	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Odense	97	95	84	118	120	104	64	80	93	99	92	79	71	81	89	89	89	94	67	71	91	93	110	85	76	76
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Svendborg	39	33	23	31	37	25	21	18	10	12	16	15	17	14	12	14	25	35	25	27	25	20	23	30	25	28
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Ærø	2	3	3	4	3	3	2	2	3	3	2	5	3	2	4	3	3	3	1	0	1	0	0	0	1	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Sydjylland	513	545	485	535	501	502	410	405	420	410	424	395	346	349	358	365	355	366	306	335	360	361	367	338	301	299
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Billund	20	22	15	22	21	19	11	13	10	14	14	14	13	14	14	15	14	12	7	9	12	12	14	16	13	12
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Esbjerg	79	91	78	86	88	85	60	56	53	45	52	49	50	54	51	54	51	43	30	41	43	37	38	34	33	36
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Fanø	3	4	4	5	5	4	3	2	2	2	3	4	3	3	0	2	1	2	2	3	2	2	2	2	1	1
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Fredericia	51	49	48	47	51	50	37	34	42	43	47	40	35	30	31	35	35	38	20	21	23	23	25	20	18	18
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Haderslev	43	45	42	47	41	38	31	31	31	31	32	31	26	24	26	24	25	31	30	29	35	31	33	35	27	22
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Kolding	77	76	71	72	64	66	58	55	54	54	55	56	44	46	47	50	51	55	53	47	47	57	57	47	40	36
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Sønderborg	45	53	44	53	48	44	39	38	38	38	33	28	27	31	29	31	27	37	32	32	36	38	40	35	29	31
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Tønder	23	26	29	25	17	17	19	18	18	17	13	13	13	17	17	16	14	14	14	15	21	20	14	15	15	20
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Varde	29	30	24	28	28	30	26	26	22	21	24	23	18	20	18	15	10	12	10	12	12	14	18	17	13	15
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Vejen	28	26	24	29	29	32	25	25	28	27	30	28	27	31	28	28	31	34	26	27	26	25	27	25	23	23
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Vejle	58	60	50	60	54	55	49	49	56	56	58	60	54	48	63	64	64	60	43	52	55	56	54	51	49	40
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Aabenraa	56	63	55	61	55	62	53	58	66	60	62	50	36	31	34	32	31	28	39	47	48	45	47	42	39	44
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Region Midtjylland	886	924	831	905	864	853	726	701	728	746	758	720	661	655	652	618	595	603	506	521	530	547	585	553	495	497
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Østjylland	527	544	486	544	519	508	446	420	441	450	465	440	394	392	388	375	370	370	315	321	333	351	367	342	308	317
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Favrskov	38	40	34	31	28	28	28	28	32	35	36	37	31	32	33	31	29	32	26	24	23	24	21	22	20	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Hedensted	30	29	26	28	28	26	26	21	21	23	25	27	25	25	31	25	20	23	20	24	26	26	28	28	26	26
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Horsens	54	61	55	57	53	46	37	35	35	43	53	48	44	46	43	50	49	47	48	56	66	71	78	72	61	60
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Norddjurs	25	29	28	34	32	37	33	29	30	26	29	23	24	26	24	29	25	30	29	28	29	28	27	23	18	26
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Odder	19	20	17	23	19	15	11	10	11	12	9	8	8	8	6	5	5	5	3	3	3	3	5	5	5	5
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Randers	47	50	45	58	60	63	57	51	46	51	55	54	49	46	48	45	42	43	37	37	34	37	37	31	28	31
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Samsø	3	5	6	6	3	2	1	1	2	3	3	4	4	3	3	1	1	1	1	1	1	2	2	2	2	2
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Silkeborg	74	70	58	70	71	70	56	55	52	48	48	49	44	38	34	35	37	36	25	27	26	36	40	37	33	33
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Skanderborg	41	40	28	29	31	31	29	28	32	32	30	25	26	23	25	21	22	26	20	17	16	15	15	20	19	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Syddjurs	28	25	27	34	30	31	27	27	28	26	28	28	22	22	21	20	21	15	15	20	23	18	13	12	15	20
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Aarhus	168	176	161	174	164	158	141	134	150	151	148	137	116	123	121	114	118	112	91	83	86	91	100	90	81	76
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Vestjylland	359	380	345	361	345	346	280	282	287	296	293	280	267	264	264	243	225	233	191	200	197	196	217	211	187	180
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Herning	67	71	65	71	70	74	56	61	58	50	44	42	47	43	42	35	37	34	25	31	29	33	44	45	42	40
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Holstebro	58	60	48	52	46	48	43	43	44	43	41	41	39	31	31	26	26	25	18	22	20	20	22	25	20	20
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Ikast-Brande	44	43	38	44	42	40	29	29	29	28	30	32	28	26	29	29	27	27	20	22	23	23	23	22	19	21
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Lemvig	16	18	17	18	12	11	11	8	11	12	15	12	14	14	13	12	13	14	11	10	9	9	10	10	7	9
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Ringkøbing-Skjern	29	37	38	38	42	46	31	31	34	38	36	33	33	36	35	30	25	25	22	23	25	24	24	19	13	14
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Skive	53	56	51	51	46	45	40	43	39	46	39	36	29	35	38	35	31	36	34	31	29	27	29	25	23	19
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Struer	16	17	16	15	11	10	13	13	17	12	11	10	9	9	10	9	8	11	11	10	6	7	10	8	10	8
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Viborg	76	76	71	71	76	70	58	54	56	67	77	75	69	68	66	66	58	62	51	52	55	53	56	57	53	50
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Region Nordjylland	511	542	487	529	523	522	411	409	430	401	396	340	291	300	306	299	308	316	235	216	244	251	273	246	221	240
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Province Nordjylland	511	542	487	529	523	522	411	409	430	401	396	340	291	300	306	299	308	316	235	216	244	251	273	246	221	240
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Brønderslev	37	45	46	44	43	40	34	27	25	22	20	18	20	21	22	22	19	16	11	13	18	20	19	20	14	16
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Frederikshavn	50	56	48	55	53	53	43	45	41	33	37	31	32	38	37	32	34	37	26	21	22	23	28	26	25	25
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Hjørring	55	50	48	53	57	56	41	37	41	40	41	37	34	41	41	34	33	39	32	23	24	27	24	25	23	23
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Jammerbugt	31	30	23	30	27	34	26	24	30	28	30	31	23	22	19	20	21	21	14	17	19	24	26	23	17	23
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Læsø	1	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	2	0	1	1	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Mariagerfjord	32	35	31	37	36	36	24	26	31	28	25	22	17	16	18	23	22	22	16	9	11	18	21	14	12	11
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Morsø	11	12	15	13	15	14	10	11	12	13	13	11	9	9	7	7	6	7	6	6	6	6	8	8	8	6
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Rebild	33	40	41	39	32	32	21	23	23	27	23	16	13	14	11	12	12	13	9	10	10	12	15	13	11	10
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Thisted	37	35	25	34	37	27	17	23	21	21	26	20	22	25	26	25	20	20	8	13	14	14	15	11	13	14
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Vesthimmerlands	32	33	31	34	38	37	33	31	34	38	36	35	33	30	35	30	28	26	20	20	21	18	19	20	18	22
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Aalborg	193	205	177	190	186	194	161	161	171	151	145	119	89	85	91	92	113	114	92	84	96	90	97	85	80	90
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Unknown municipality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Total	Total	Activation of persons on social assistance (prepared for employment)	30-39 years	Abroad	3	3	1	2	2	4	2	2	5	8	2	1	2	2	1	3	3	1	1	1	2	3	1	2	2	3
