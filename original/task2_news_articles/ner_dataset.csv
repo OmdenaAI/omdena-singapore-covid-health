@@ -1,0 +1,17 @@
+Sentence #,Word,POS,Tag
+Sentence: 1,The,DT,O
+,wife,NN,REL
+,was ,VBD,O
+,killed,VBD,VIO_V
+,by ,IN,O
+,the ,DT,O
+,husband,NN,Actor
+Sentence: 2,The,DT,O
+,grandfather,NN,Actor
+,abused ,VBD,VIO_V
+,his,PRP$,O
+,grandson,NN,REL
+Sentence: 3,The ,DT,O
+,man,NN,Actor
+,harassed,VBD,VIO_V
+,sister-in-law,NN,REL

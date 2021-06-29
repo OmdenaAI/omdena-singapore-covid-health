@@ -1,0 +1,54 @@
+advances,{'rising':     value formattedValue  ...               topic_title             topic_type
+0   31150       Breakout  ...                  Security                  Topic
+1   26200       Breakout  ...                    Botany         Field of study
+2   25150       Breakout  ...         Visual perception                  Topic
+3   25100       Breakout  ...           Human sexuality                  Topic
+4   24900       Breakout  ...                Pediatrics     Branch of medicine
+5   18850       Breakout  ...           Computer vision         Field of study
+6   13000       Breakout  ...  New Journal of Chemistry  Peer-reviewed journal
+7   11900       Breakout  ...          Machine learning         Field of study
+8   11850       Breakout  ...       Medicinal chemistry             Discipline
+9     400          +400%  ...       LinkedIn SlideShare                Website
+10    300          +300%  ...          Computer Science         Field of study
+11    190          +190%  ...                   Capital              Economics
+12    180          +180%  ...           Master's Degree                 Degree
+13    170          +170%  ...   Ways and means advances                  Topic
+14    170          +170%  ...                      Debt                  Topic
+15    150          +150%  ...                 Term loan                  Topic
+16    140          +140%  ...       Academic conference     Type of conference
+17    140          +140%  ...                     Ratio                  Topic
+18    130          +130%  ...       Engineering physics             Discipline
+19     80           +80%  ...       Non-performing loan                  Topic
+20     70           +70%  ...                Management                  Topic
+21     60           +60%  ...                     Asset                  Topic
+22     50           +50%  ...                  Computer                  Topic
+23     40           +40%  ...                    System                  Topic
+
+[24 rows x 6 columns], 'top':     value formattedValue  ...              topic_title             topic_type
+0     100            100  ...                     Loan                  Topic
+1      90             90  ...                  Science                  Topic
+2      89             89  ...         Academic journal                  Topic
+3      63             63  ...               Technology                  Topic
+4      58             58  ...  Ways and means advances                  Topic
+5      44             44  ...              Engineering             Discipline
+6      41             41  ...                 Research      Organization type
+7      37             37  ...            Impact factor                  Topic
+8      35             35  ...          Advance payment                  Topic
+9      34             34  ...    Reserve Bank of India                   Bank
+10     34             34  ...             RSC Advances  Peer-reviewed journal
+11     31             31  ...               Management                  Topic
+12     23             23  ...                  Capital              Economics
+13     23             23  ...     Microsoft PowerPoint               Software
+14     23             23  ...                   System                  Topic
+15     21             21  ...                  Therapy                  Topic
+16     21             21  ...                 Computer                  Topic
+17     21             21  ...                    Asset                  Topic
+18     20             20  ...         Computer Science         Field of study
+19     20             20  ...      Academic conference     Type of conference
+20     18             18  ...                 Material                  Topic
+21     17             17  ...      Non-performing loan                  Topic
+22     17             17  ...          Deposit account                  Topic
+23     17             17  ...      LinkedIn SlideShare                Website
+24     15             15  ...                    Ratio                  Topic
+
+[25 rows x 7 columns]}

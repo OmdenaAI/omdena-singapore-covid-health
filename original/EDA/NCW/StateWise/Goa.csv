@@ -1,0 +1,4 @@
+links_link,links_District_State,links_District_name,links_District_Jan,links_District_Feb,links_District_March,links_District_April,links_District_May,links_District_June
+http://164.100.58.238/frmReportStateDistrict.aspx?Year=2020&StateID=11,Goa,North Goa,0,1,2,1,1,0
+http://164.100.58.238/frmReportStateDistrict.aspx?Year=2020&StateID=11,Goa,South Goa,0,1,0,2,0,0
+http://164.100.58.238/frmReportStateDistrict.aspx?Year=2020&StateID=11,Goa,Total,0,2,2,3,1,0

@@ -1,0 +1,33 @@
+afraid,{'rising':     value formattedValue  ...                       topic_title          topic_type
+0   15600       Breakout  ...                         Adventure               Topic
+1   15450       Breakout  ...                       Grandparent               Topic
+2    6500       Breakout  ...                            Sharks                Fish
+3    6300       Breakout  ...                             Peace              Belief
+4     400          +400%  ...                              Gull              Animal
+5     200          +200%  ...                            Parent               Topic
+6     200          +200%  ...                 Discovery Channel  Television network
+7     190          +190%  ...  Chapters and verses of the Bible               Topic
+8     120          +120%  ...       Don't Be Afraid of the Dark           2010 film
+9      80           +80%  ...                          Sentence         Linguistics
+10     50           +50%  ...                  Naked and Afraid           TV series
+
+[11 rows x 6 columns], 'top':     value formattedValue  ...                       topic_title          topic_type
+0     100            100  ...                  Naked and Afraid           TV series
+1      45             45  ...                        Not Afraid                Song
+2      44             44  ...                        Not Afraid      Song by Eminem
+3      17             17  ...                              Fear               Topic
+4      16             16  ...       Don't Be Afraid of the Dark           2010 film
+5      14             14  ...                           Synonym               Topic
+6      13             13  ...                           Antonym               Topic
+7      13             13  ...                          Sentence         Linguistics
+8      13             13  ...                            Eminem     American rapper
+9      10             10  ...                              Gull              Animal
+10      9              9  ...                 Discovery Channel  Television network
+11      5              5  ...                            Parent               Topic
+12      4              4  ...  Chapters and verses of the Bible               Topic
+13      2              2  ...                         Adventure               Topic
+14      2              2  ...                       Grandparent               Topic
+15      1              1  ...                            Sharks                Fish
+16      1              1  ...                             Peace              Belief
+
+[17 rows x 7 columns]}

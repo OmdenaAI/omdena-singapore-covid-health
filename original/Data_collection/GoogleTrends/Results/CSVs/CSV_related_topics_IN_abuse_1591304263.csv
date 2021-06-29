@@ -1,0 +1,43 @@
+abuse,{'rising':     value formattedValue  ...                        topic_title          topic_type
+0     650          +650%  ...                            Neglect               Topic
+1     450          +450%  ...                         Corruption  Political ideology
+2     300          +300%  ...                             Opioid          Medication
+3     250          +250%  ...  Narcissistic personality disorder            Disorder
+4     250          +250%  ...       ICD-10 Clinical Modification               Topic
+5     250          +250%  ...                   Money laundering               Topic
+6     250          +250%  ...                           Behavior               Topic
+7     250          +250%  ...                             Injury              Injury
+8     160          +160%  ...               Psychological trauma               Topic
+9     160          +160%  ...                               Role               Topic
+10    150          +150%  ...                 Narcissistic abuse               Topic
+11    130          +130%  ...                         IP address               Topic
+12    110          +110%  ...                             Parent               Topic
+
+[13 rows x 6 columns], 'top':     value formattedValue  ...            topic_title       topic_type
+0     100            100  ...                  Abuse            Topic
+1      24             24  ...        Substance abuse   Field of study
+2      22             22  ...           Sexual abuse            Topic
+3      19             19  ...                  Child            Topic
+4      17             17  ...                   Drug            Topic
+5      13             13  ...            Child abuse            Topic
+6      10             10  ...        Human sexuality            Topic
+7       9              9  ...  Human sexual activity            Topic
+8       8              8  ...                 ICD-10            Topic
+9       5              5  ...             Alcoholism  Mental disorder
+10      4              4  ...        Alcoholic drink            Topic
+11      4              4  ...                Alcohol             Drug
+12      3              3  ...    Psychological abuse            Topic
+13      3              3  ...              Addiction            Topic
+14      3              3  ...                Disease            Topic
+15      2              2  ...                 Lawyer       Occupation
+16      2              2  ...      Domestic violence            Topic
+17      2              2  ...                    Law            Topic
+18      1              1  ...                 Parent            Topic
+19      1              1  ...                   Role            Topic
+20      1              1  ...                Neglect            Topic
+21      1              1  ...                 Opioid       Medication
+22      1              1  ...               Behavior            Topic
+23      1              1  ...                 Injury           Injury
+24      1              1  ...             IP address            Topic
+
+[25 rows x 7 columns]}

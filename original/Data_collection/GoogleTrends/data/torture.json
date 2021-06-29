@@ -1,0 +1,177 @@
+sharini:IndianExpress harini$ python3 -m json.tool torture.json
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Arushi Jain",
+            "title": "Popular Punjabi comedies to wash away lockdown blues",
+            "description": "This is the perfect time for you to explore regional cinema. So, here is a list of five Punjabi comedy films you can watch online.",
+            "url": "https://indianexpress.com/article/entertainment/web-series/popular-punjabi-comedies-to-wash-away-lockdown-blues-6398843/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/punjabi-movies-759.jpg?w=759",
+            "publishedAt": "2020-05-07T14:26:09Z",
+            "content": "Written by Arushi Jain\r\n | New Delhi | \r\nPublished: May 7, 2020 7:56:09 pm\r\nHere are our recommendations for Punjabi movies to watch online.The Indian film industry has much more to offer than just B\u2026 [+2800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Perumal Murugan",
+            "title": "Home is where the work is: Writers and their workstations",
+            "description": "As the COVID-19 pandemic makes work-from-home the new normal, a look at the workspaces of people who have always functioned in isolation -- writers. Perumal Murugan writes about finding space and inspiration in nature.",
+            "url": "https://indianexpress.com/article/books-and-literature/writers-and-their-workstations-perumal-murugan-6389934/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/Perumal-Murugan-books_759.jpg?w=759",
+            "publishedAt": "2020-05-02T05:08:53Z",
+            "content": "Written by Perumal Murugan\r\n | New Delhi | \r\nPublished: May 2, 2020 10:38:53 am\r\nBe it at dawn, or, when the shadows of the trees along the borders lengthened at dusk, I would sit on that boulder and\u2026 [+4507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "AP",
+            "title": "Brazil expands use of unproven drug chloroquine as Covid-19 toll rises",
+            "description": "More than 291,000 coronavirus cases have been confirmed in Brazil, the third most in the world after the United States and Russia.",
+            "url": "https://indianexpress.com/article/coronavirus/brazil-chloroquine-coronavirus-6420144/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/brazil-1.jpg?w=759",
+            "publishedAt": "2020-05-21T01:32:13Z",
+            "content": "By: AP | Rio De Janerio | \r\nPublished: May 21, 2020 7:02:13 am\r\nNurse Janete Vieira puts on her protective equipment as she prepares to airlift COVID-19 patients from Santo Antonio do I\u00e7\u00e1 to a hospit\u2026 [+4435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "AP",
+            "title": "White House report blasts Chinese \u2018malign activities\u2019",
+            "description": "According to the report, the Trump administration sees \u201cno value\u201d in engaging with Beijing for symbolism and pageantry.",
+            "url": "https://indianexpress.com/article/world/white-house-report-blasts-chinese-malign-activities-6420934/",
+            "urlToImage": "https://images.indianexpress.com/2020/04/trump-5.jpg?w=759",
+            "publishedAt": "2020-05-21T09:25:44Z",
+            "content": "By: AP | Washington | \r\nPublished: May 21, 2020 2:55:44 pm\r\nWhile pushing back on China, Trump has sometimes uttered contradictory statements. Photographer: Michael Reynolds/EPA/BloombergBeyond its h\u2026 [+5560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Adrija Roychowdhury",
+            "title": "Sambhaji Maharaj: Chhatrapati Shivaji\u2019s son whose valour spurred the Marathas",
+            "description": "In his short rule spanning nine years, Sambhaji gained recognition for his valour and patriotism. He continues to be celebrated, particularly in Maharashtra, as the ruler who chose death over conversion.",
+            "url": "https://indianexpress.com/article/research/sambhaji-maharaj-history-legend-shivaji-son-6409348/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/Maharaja-Sambhajiraje-759.jpg?w=759",
+            "publishedAt": "2020-05-14T06:54:34Z",
+            "content": "The eldest son of the celebrated Maratha emperor, Chhatrapati Shivaji, Sambhaji was the second ruler of the kingdom after his fathers death.The eldest son of the celebrated Maratha emperor, Chhatrapa\u2026 [+4538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Navjeevan Gopal, Jagdeep Singh Deep",
+            "title": "Former Punjab DGP booked in 29-yr-old case, stopped from entering Himachal hours later",
+            "description": "Sumedh Singh Saini, who was booked along with six others in an FIR filed at 6:23 pm on Wednesday, was heading for his \"property in Karsog (Mandi district)\" in Himachal when he was stopped at the border at 4 am Thursday, and told to go back.",
+            "url": "https://indianexpress.com/article/india/former-punjab-dgp-booked-in-29-yr-old-case-stopped-from-entering-himachal-hours-later-6399176/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/hm.jpg?w=759",
+            "publishedAt": "2020-05-07T18:57:13Z",
+            "content": "He was stopped from entering the hill state as he didn didn\u2019t have a curfew pass. (Representational Photo/Pradeep Kumar)Hours after he was booked in a case related to disappearance of a Mohali man af\u2026 [+6756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Neha Banka",
+            "title": "Explained: Why IS and al-Qaeda are battling for control in Africa\u2019s Sahel",
+            "description": "The tussle between IS and al-Qaeda is not just a battle for influence, resources and recruits in the context of the Jihadist movement in various parts of the world. The two terrorist groups are ideologically different and they also have differing perceptions \u2026",
+            "url": "https://indianexpress.com/article/explained/explained-why-is-and-al-qaeda-are-battling-for-control-in-africas-sahel-6407732/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/Al-qaeda.jpg?w=759",
+            "publishedAt": "2020-05-13T07:51:00Z",
+            "content": "Written by Neha Banka\r\n, Edited by Explained Desk | Kolkata | \r\nUpdated: May 13, 2020 6:23:16 pm\r\nIslamist militant groups in the Sahel and West Africa are also known to target schools, forcing the i\u2026 [+7430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Adrija Roychowdhury",
+            "title": "Black Death: How Jews were blamed for the plague and massacred",
+            "description": "What sparked the furore was a rumour, that somehow spread through the continent, of Jews poisoning the wells of Christians, leading to their widespread suffering and loss of lives.",
+            "url": "https://indianexpress.com/article/research/coronavirus-black-death-how-jews-were-blamed-for-the-plague-and-massacred-6406282/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/Epics-of-Epidemics.jpg?w=759",
+            "publishedAt": "2020-05-12T10:01:30Z",
+            "content": "Pogrom of Strasbourg (Source- Wikimedia Commons)Many would say the Covid-19 outbreak may change forever the world as we have known it till now. Power structures may be shifted, economic systems remod\u2026 [+8614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Sofi Ahsan",
+            "title": "Punjab and Haryana HC dismisses accused IPS officer Zaidi\u2019s bail plea",
+            "description": "Zahur Haider Zaidi had filed an application for interim bail for 60 days in wake of the pandemic and complained about the lack of physical distancing inside the Burail jail in Chandigarh, while also citing his history of hypertension and heart ailments.",
+            "url": "https://indianexpress.com/article/india/punjab-and-haryana-hc-dismisses-accused-ips-officer-zaidis-bail-plea-6397686/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/hc.jpg?w=759",
+            "publishedAt": "2020-05-07T00:15:27Z",
+            "content": "Written by Sofi Ahsan\r\n | Chandigarh | \r\nPublished: May 7, 2020 5:45:27 am\r\nThe CBI, through its counsel Sumeet Goel, opposed the bail plea and said that sufficient medical facilities are available i\u2026 [+2391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Entertainment Desk",
+            "title": "Nawazuddin Siddiqui\u2019s wife Aalia accuses his family of \u2018mental and physical torture\u2019",
+            "description": "Aalia has accused actor Nawazuddin's family of 'mental and physical torture'. She is seeking divorce from the actor and wants sole custody of their two children.",
+            "url": "https://indianexpress.com/article/entertainment/bollywood/nawazuddin-siddiqui-wife-aalia-accuses-family-of-mental-and-physical-torture-6419022/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/Nawazuddin-Siddiqui-759-1.jpg?w=759",
+            "publishedAt": "2020-05-20T07:31:15Z",
+            "content": "Aalia Siddiqui has accused Nawazuddin Siddiqui\u2019s family of physical and mental torture. (Photo: Varinder Chawla)Nawazuddin Siddiqui\u2019s wife Aalia Siddiqui recently sent the actor a legal notice to \u201cen\u2026 [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Neha Banka",
+            "title": "Explained: The Armenian Genocide, 105 years later",
+            "description": "According to estimates, approximately 1.5 million Armenians died during the genocide, either in massacres and in killings, or from ill treatment, abuse and starvation.",
+            "url": "https://indianexpress.com/article/explained/explained-the-armenian-genocide-105-years-later-6377857/",
+            "urlToImage": "https://images.indianexpress.com/2020/04/armenian-genocide.jpg?w=759",
+            "publishedAt": "2020-04-24T16:06:48Z",
+            "content": "Written by Neha Banka\r\n | Kolkata | \r\nUpdated: April 24, 2020 9:40:24 pm\r\nArmenian refugess in Relief Committee tents, Aintab. (Photo: Wikimedia Commons)The Armenian Genocide is often called the firs\u2026 [+7247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Shubhra Gupta",
+            "title": "Mrs Serial Killer movie review: The Jacqueline Fernandez-starrer is beyond ghastly",
+            "description": "Mrs Serial Killer review: Nothing, not Jacqueline Fernandez in her perfectly coiffed curls, nor Mohit Raina trying very hard to appear as if he knows what\u2019s going on, nor the sundry others who come and go, help. Nor, I\u2019m forced to regretfully report, Manoj Ba\u2026",
+            "url": "https://indianexpress.com/article/entertainment/movie-review/mrs-serial-killer-movie-review-netflix-jacqueline-fernandez-6389106/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/mrs-serial-killer-review-759.jpg?w=759",
+            "publishedAt": "2020-05-01T13:09:20Z",
+            "content": "Mrs Serial Killer is streaming on Netflix.Mrs Serial Killer movie cast:Jacqueline Fernandez, Manoj Bajpayee, Mohit Raina, Zayn Marie, Darshan ZariwalaMrs Serial Killer movie director: Shirish KunderM\u2026 [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "MOHAMMED THAVER",
+            "title": "Mumbai: After bribery allegations, cop given side posting",
+            "description": "The complainant in the case, who had been arrested for cheating, has also made allegations against two other officers.",
+            "url": "https://indianexpress.com/article/cities/mumbai/mumbai-after-bribery-allegations-cop-given-side-posting-6416460/",
+            "urlToImage": "https://images.indianexpress.com/2020/02/bribe.jpg?w=1024",
+            "publishedAt": "2020-05-18T20:57:09Z",
+            "content": "Written by MOHAMMED THAVER | Mumbai | \r\nPublished: May 19, 2020 2:27:09 am\r\nGiri said that the complainant has alleged that last December, he had paid Rs 18.5 lakh to a crime branch officer, who thre\u2026 [+3086 chars]"
+        }
+    ]
+}
+sharini:IndianExpress harini$
