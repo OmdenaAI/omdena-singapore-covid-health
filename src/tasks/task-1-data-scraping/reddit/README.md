@@ -4,6 +4,6 @@
 
 | Subfolders | Purpose | Remarks |
 |-|-|-|
-| Scrapers | Add you data scraping code into this folder  | Please name your file by your name |
+| Scrapers | Add your data scraping code into this folder  | Please name your file by your name |
 | | |
 | | |
