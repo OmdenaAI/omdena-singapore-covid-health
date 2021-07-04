@@ -11,6 +11,6 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1| Data Scraping | Contains scrapers for the respective platforms |
+|1| Data Scraping | Contains code to collate data and do data quality check |
 |2|         |         |
 |3|         |         |
