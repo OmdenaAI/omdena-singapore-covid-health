@@ -2,8 +2,8 @@
 
 ## Information Table
 
-| Subfolders | Purpose | Remarks |
-|-|-|-|
-| Scrapers | Add your data scraping code into this folder  | Please name your file by your name |
-| | |
-| | |
+| Subfolders | Description |
+|-|-|
+| PRAW.ipynb | Reddit scraper using praw lib |
+| Pushshift.ipynb | Reddit scraper using pushshift lib
+| jamie-pmaw.ipynb | Reddit scraper using pmaw lib |
