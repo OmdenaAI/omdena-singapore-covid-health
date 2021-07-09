@@ -88,14 +88,14 @@ conda_install(envname = "r-reticulate", packages = "ftfy")
 ftfy <- import("ftfy")
 
 # clean text in post
-# clean whitespaces, format for quotation marks, mojibake
+# clean whitespaces, format for quotation marks, mojibake, remove unicode
 data$selftext <- sapply(data$selftext, str_replace_all, "\\s+", " ") %>%
                   sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
                   sapply(ftfy$fix_text) %>%
                   sapply(replace_non_ascii)
 
 # Clean text in comments 
-# clean whitespace, quotation marks format, deleted entries, mojibake
+# clean whitespace, quotation marks format, deleted entries, mojibake, remove unicode
 data$comments <- sapply(data$comments, str_replace_all, "\\\\n", "") %>%
                   sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
                   gsub("\'\\[removed\\]\', ", "", .) %>%

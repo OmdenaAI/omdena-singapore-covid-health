@@ -461,14 +461,14 @@ conda_install(envname = &quot;r-reticulate&quot;, packages = &quot;ftfy&quot;)
 ftfy &lt;- import(&quot;ftfy&quot;)
 
 # clean text in post
-# clean whitespaces, format for quotation marks, mojibake
+# clean whitespaces, format for quotation marks, mojibake, remove unicode
 data$selftext &lt;- sapply(data$selftext, str_replace_all, &quot;\\s+&quot;, &quot; &quot;) %&gt;%
                   sapply(str_replace_all, &quot;\\p{quotation mark}&quot;, &quot;&#39;&quot;) %&gt;%
                   sapply(ftfy$fix_text) %&gt;%
                   sapply(replace_non_ascii)
 
 # Clean text in comments 
-# clean whitespace, quotation marks format, deleted entries, mojibake
+# clean whitespace, quotation marks format, deleted entries, mojibake, remove unicode
 data$comments &lt;- sapply(data$comments, str_replace_all, &quot;\\\\n&quot;, &quot;&quot;) %&gt;%
                   sapply(str_replace_all, &quot;\\p{quotation mark}&quot;, &quot;&#39;&quot;) %&gt;%
                   gsub(&quot;\&#39;\\[removed\\]\&#39;, &quot;, &quot;&quot;, .) %&gt;%
