@@ -1,0 +1,121 @@
+---
+title: "Data Cleaning & Merge Dataframes for Reddit CSV"
+author: "Tan Jamie"
+date: "7/9/2021"
+output: html_document
+---
+
+## Set Up
+```{r setup}
+# set directory to path folder containing all csv and this code file only
+# ensure no other files are in the same folder
+library(tidyverse)
+library(dplyr)
+library(stringr)
+library(stringi)
+library(reprex)
+library(dplyr)
+library(plyr)
+```
+
+
+## Read in All Data
+```{r read in all data}
+data <- ldply(.data = list.files(pattern = "*.csv"), 
+              .fun = read.csv, 
+              header = TRUE)
+attach(data)
+```
+
+
+## Primary data screening
+```{r primary data screening}
+str(data) # gives hint about what to clean
+```
+
+
+## Ensure all data types are correct
+```{r ensure all data types are correct}
+# convert strings to character type
+data$author <- as.character(author)
+data$id <- as.character(id)
+data$selftext <- as.character(selftext)
+data$title <- as.character(title)
+data$url <- as.character(url)
+data$subreddit <- as.character(subreddit)
+data$comments <- as.character(comments)
+
+# convert numbers to integers
+# entire column usually gets converted into factor if its not all numeric or integer
+# data <- data[!is.na(as.numeric(as.character(data$col_name))),] coerced to NA - filter out rows with NA
+data$subreddit_subscribers <- as.integer(subreddit_subscribers)
+data$num_comments <- as.integer(num_comments)
+data$score <- as.integer(score)
+
+# convert ratio to numeric data type
+data$upvote_ratio <- as.numeric(upvote_ratio)
+```
+
+
+## Convert unix time to datetime
+```{r convert unix time to datetime}
+data$created_utc <- created_utc %>% 
+                    as.POSIXct(origin = "1970-01-01") %>% 
+                    as.Date()
+```
+
+
+## Filter out invalid data points
+```{r filter out invalid data points}
+# remove rows with duplicated id
+data <- distinct(data, id, .keep_all = TRUE)
+# filter empty or removed body, NA in id, subreddit, num_commnets, score
+data <- data[!(is.na(data$id) | 
+              (is.na(data$selftext)| data$selftext == "" | data$selftext == "[removed]" | data$selftext == "[deleted]") | 
+              is.na(data$subreddit) | 
+              is.na(data$num_comments) | 
+              is.na(data$score)), ]
+# might consider dropping upvote_ratio column if it is not useful (ie. too many NAs)
+```
+
+
+## Text Cleaning for Posts and Comments
+```{r text cleaning for posts and comments}
+# package to correct mojibake
+library(reticulate)
+conda_install(envname = "r-reticulate", packages = "ftfy")
+ftfy <- import("ftfy")
+
+# clean text in post
+# clean whitespaces, format for quotation marks, mojibake
+data$selftext <- sapply(data$selftext, str_replace_all, "\\s+", " ") %>%
+                  sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
+                  sapply(ftfy$fix_text)
+
+# Clean text in comments 
+# clean whitespace, quotation marks format, deleted entries, mojibake
+data$comments <- sapply(data$comments, str_replace_all, "\\\\n", "") %>%
+                  sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
+                  gsub("\'\\[removed\\]\', ", "", .) %>%
+                  gsub("\'\\[deleted\\]\', ", "", .) %>%
+                  sapply(ftfy$fix_text)
+```
+
+
+## Split Dataset into Pre & Mid Covid
+```{r split dataset up into pre and mid covid}
+preCOVID_data <- subset(data, data$created_utc < as.Date("2020-01-01"))
+midCOVID_data <- subset(data, data$created_utc > as.Date("2020-01-01"))
+```
+
+
+## Convert Dataframes into CSV
+```{r convert dataframes into csv}
+# replace the paths respectively
+write.csv(data, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\full_data.csv")
+write.csv(preCOVID_data, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\preCOVID_data.csv")
+write.csv(midCOVID_data, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\midCOVID_data.csv")
+```
+
+
+fin
