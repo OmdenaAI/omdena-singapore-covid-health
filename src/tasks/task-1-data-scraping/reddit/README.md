@@ -10,4 +10,4 @@
 | Keith-praw.ipynb | Reddit scraper using praw lib |
 | pearlyn-task1_1-data-scraping-reddit.ipynb | Reddit scraper using pmaw lib
 | cleaning.html | R markdown of script |
-| cleaning.R | R script for cleaning data and merging dataframe |
+| cleaning.Rmd | R script for cleaning data and merging dataframe |
