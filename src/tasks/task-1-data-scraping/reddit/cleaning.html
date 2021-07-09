@@ -388,6 +388,7 @@ library(plyr)</code></pre>
 <pre><code>## The following object is masked from &#39;package:purrr&#39;:
 ## 
 ##     compact</code></pre>
+<pre class="r"><code>library(textclean)</code></pre>
 </div>
 <div id="read-in-all-data" class="section level2">
 <h2>Read in All Data</h2>
@@ -463,15 +464,19 @@ ftfy &lt;- import(&quot;ftfy&quot;)
 # clean whitespaces, format for quotation marks, mojibake
 data$selftext &lt;- sapply(data$selftext, str_replace_all, &quot;\\s+&quot;, &quot; &quot;) %&gt;%
                   sapply(str_replace_all, &quot;\\p{quotation mark}&quot;, &quot;&#39;&quot;) %&gt;%
-                  sapply(ftfy$fix_text)
+                  sapply(ftfy$fix_text) %&gt;%
+                  sapply(replace_non_ascii)
 
 # Clean text in comments 
 # clean whitespace, quotation marks format, deleted entries, mojibake
 data$comments &lt;- sapply(data$comments, str_replace_all, &quot;\\\\n&quot;, &quot;&quot;) %&gt;%
                   sapply(str_replace_all, &quot;\\p{quotation mark}&quot;, &quot;&#39;&quot;) %&gt;%
                   gsub(&quot;\&#39;\\[removed\\]\&#39;, &quot;, &quot;&quot;, .) %&gt;%
+                  gsub(&quot;\&#39;\\[removed\\]\&#39;&quot;, &quot;&quot;, .) %&gt;%
                   gsub(&quot;\&#39;\\[deleted\\]\&#39;, &quot;, &quot;&quot;, .) %&gt;%
-                  sapply(ftfy$fix_text)</code></pre>
+                  gsub(&quot;\&#39;\\[deleted\\]\&#39;&quot;, &quot;&quot;, .) %&gt;%
+                  sapply(ftfy$fix_text) %&gt;%
+                  sapply(replace_non_ascii)</code></pre>
 </div>
 <div id="split-dataset-into-pre-mid-covid" class="section level2">
 <h2>Split Dataset into Pre &amp; Mid Covid</h2>

@@ -16,6 +16,7 @@ library(stringi)
 library(reprex)
 library(dplyr)
 library(plyr)
+library(textclean)
 ```
 
 
@@ -90,15 +91,19 @@ ftfy <- import("ftfy")
 # clean whitespaces, format for quotation marks, mojibake
 data$selftext <- sapply(data$selftext, str_replace_all, "\\s+", " ") %>%
                   sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
-                  sapply(ftfy$fix_text)
+                  sapply(ftfy$fix_text) %>%
+                  sapply(replace_non_ascii)
 
 # Clean text in comments 
 # clean whitespace, quotation marks format, deleted entries, mojibake
 data$comments <- sapply(data$comments, str_replace_all, "\\\\n", "") %>%
                   sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
                   gsub("\'\\[removed\\]\', ", "", .) %>%
+                  gsub("\'\\[removed\\]\'", "", .) %>%
                   gsub("\'\\[deleted\\]\', ", "", .) %>%
-                  sapply(ftfy$fix_text)
+                  gsub("\'\\[deleted\\]\'", "", .) %>%
+                  sapply(ftfy$fix_text) %>%
+                  sapply(replace_non_ascii)
 ```
 
 
