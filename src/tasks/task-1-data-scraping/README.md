@@ -2,6 +2,7 @@
 
 ## Task Goals
 - Scrape respective platforms (eg. Reddit, Twitter, Instagram, etc.) to get data
+- Data Cleaning
 - Check relevance of posts
 - Categorize data into broad topics (eg. personal stories, discussions, etc.)
 
