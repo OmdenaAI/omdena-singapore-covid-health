@@ -17,20 +17,45 @@ library(reprex)
 library(dplyr)
 library(plyr)
 library(textclean)
+library(mice)
 ```
 
 
 ## Read in All Data
 ```{r read in all data}
-data <- ldply(.data = list.files(pattern = "*.csv"), 
-              .fun = read.csv, 
-              header = TRUE)
-attach(data)
+files_date <- c("neurosis,disorder,dependence.csv", "phobia, addiction.csv", "reddit_overwhelmed.csv", 
+          "reddit_paranoia.csv", "reddit-5.csv", "socialize, help.csv", "stigma, self-harm.csv")
+files_utc <- list.files(pattern = "*.csv")[!(list.files(pattern = "*.csv") %in% files_date)]
+data_date <- ldply(.data = files_date, 
+              .fun = read.csv,
+              header = TRUE) %>%
+         select("subreddit", "subreddit_subscribers", "title", "id", "author", 
+                "created_utc", "num_comments", "score", "selftext", "url", "upvote_ratio", "comments")
+data_utc <- ldply(.data = files_utc, 
+              .fun = read.csv,
+              header = TRUE) %>%
+         select("subreddit", "subreddit_subscribers", "title", "id", "author", 
+                "created_utc", "num_comments", "score", "selftext", "url", "upvote_ratio", "comments")
+```
+
+
+## Convert unix time to datetime
+```{r convert unix time to datetime}
+data_date$created_utc <- data_date$created_utc %>% 
+                    as.Date()
+data_utc$created_utc <- data_utc$created_utc %>% 
+                    as.integer() %>%
+                    as.POSIXct(., origin = "1970-01-01") %>%
+                    as.Date()
+
+# insight found later: 
+# coersion here happened because there were completely empty or NA rows
 ```
 
 
 ## Primary data screening
 ```{r primary data screening}
+data <- rbind(data_date, data_utc)
 str(data) # gives hint about what to clean
 ```
 
@@ -38,6 +63,7 @@ str(data) # gives hint about what to clean
 ## Ensure all data types are correct
 ```{r ensure all data types are correct}
 # convert strings to character type
+attach(data)
 data$author <- as.character(author)
 data$id <- as.character(id)
 data$selftext <- as.character(selftext)
@@ -52,17 +78,11 @@ data$comments <- as.character(comments)
 data$subreddit_subscribers <- as.integer(subreddit_subscribers)
 data$num_comments <- as.integer(num_comments)
 data$score <- as.integer(score)
-
 # convert ratio to numeric data type
 data$upvote_ratio <- as.numeric(upvote_ratio)
-```
 
-
-## Convert unix time to datetime
-```{r convert unix time to datetime}
-data$created_utc <- created_utc %>% 
-                    as.POSIXct(origin = "1970-01-01") %>% 
-                    as.Date()
+# insight found later: 
+# coersion here happened because there were completely empty or NA rows
 ```
 
 
@@ -70,13 +90,84 @@ data$created_utc <- created_utc %>%
 ```{r filter out invalid data points}
 # remove rows with duplicated id
 data <- distinct(data, id, .keep_all = TRUE)
-# filter empty or removed body, NA in id, subreddit, num_commnets, score
-data <- data[!(is.na(data$id) | 
-              (is.na(data$selftext)| data$selftext == "" | data$selftext == "[removed]" | data$selftext == "[deleted]") | 
-              is.na(data$subreddit) | 
-              is.na(data$num_comments) | 
-              is.na(data$score)), ]
-# might consider dropping upvote_ratio column if it is not useful (ie. too many NAs)
+# remove rows with deleted entries (empty id or selftext)
+# leave posts with empty body ie. those who brought news, youtube contents onto reddit for discussion
+data <- data[!(is.na(data$id)) &
+            !(is.na(data$selftext)| data$selftext == "[removed]" | data$selftext == "[deleted]"),]
+
+# 0 upvote_ratio don't make sense, if it doesn't exist, it shows NA
+index <- data$upvote_ratio == as.numeric(0)
+data$upvote_ratio[index] <- NA
+
+# remaining NAs in upvote_ratio and author columns
+# rescrape  to get authors, authors should exist if the post exist ._.
+# last try to scrape for upvote ratio
+index <- is.na(data$author) | is.na(data$upvote_ratio)
+rescrape <- data[index,]
+write.csv(rescrape, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\rescrape.csv")
+remaining <- data[!index,]
+rescrape <- read.csv("C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\done_rescrape.csv") %>%
+  select("subreddit", "subreddit_subscribers", "title", "id", "author", 
+                "created_utc", "num_comments", "score", "selftext", "url", "upvote_ratio", "comments")
+data <- rbind(remaining, rescrape)
+
+# check NAs remaining for author and upvote_ratio
+index <- is.na(data$author) | is.na(data$upvote_ratio)
+# filter out rows with NA columns still
+data <- filter(data, !is.na(data$author))
+```
+
+
+# Multiple imputation on upvote_ratio
+```{r imputation on upvote_ratio NAs}
+# will not proceed with imputation since upvote_ratio == NA < 0.04%
+# delete entries with upvote_ratio == NA
+data <- filter(data, !is.na(data$upvote_ratio))
+
+# # ready and analyze data
+# data2 <- data
+# data2$subreddit <- as.factor(data2$subreddit)
+# data2$author <- as.factor(data2$author)
+# p_missing <- unlist(lapply(data2, function(x) sum(is.na(x))))/nrow(data)
+# sort(p_missing[p_missing > 0], decreasing = TRUE)
+# 
+# # imputation
+# impute <- mice(data2, maxit = 0) # run mice code with 0 iteration
+# predMatrix <- impute$predictorMatrix # extract predictor matrix
+# meth <- impute$method # extract methods of imputation
+# 
+# # set values of var = 0 to leave it out in process of imputation
+# # should created_utc be left out? can imputation process take in date?
+# predMatrix[, c("title")] <- 0
+# predMatrix[, c("id")] <- 0
+# predMatrix[, c("selftext")] <- 0
+# predMatrix[, c("url")] <- 0
+# predMatrix[, c("comments")] <- 0
+# head(predMatrix)
+# 
+# # variables we dont want to impute on
+# meth[c("subreddit", "subreddit_subscribers", "author", "num_comments", "score", "created_utc", "title", "id", "selftext", "url", "comments")] <- ""
+# meth
+# 
+# # impute on data, create 5 datasets, use predMatrix as prediction matrix, dont print process
+# impute2 <- mice(data2, maxit = 5, 
+#              predictorMatrix = predMatrix, 
+#              method = meth, print =  FALSE)
+# 
+# # run regression on each dataset and pool to est the avg regression coefficient and correct standard errors
+# data2_long <- mice::complete(data2, action="long", include = TRUE)
+# data2_long$upvote_ratio <- with(data2_long, as.numeric(data2_long$upvote_ratio))
+# data2_long_mids<-as.mids(data2_long)
+# fitimp <- with(data2_long_mids,
+#                lm(upvote_ratio ~ subreddit + subreddit_subscribers + author + 
+#                     created_utc + num_comments + score))
+# final_model <- pool(fitimp)
+# summary(final_model)
+# # use model to make imputation on original dataset: data
+# 
+# # Helpful resource:
+# # https://medium.com/@danberdov/dealing-with-missing-data-8b71cd819501
+# # https://data.library.virginia.edu/getting-started-with-multiple-imputation-in-r/
 ```
 
 
@@ -96,7 +187,7 @@ data$selftext <- sapply(data$selftext, str_replace_all, "\\s+", " ") %>%
 
 # Clean text in comments 
 # clean whitespace, quotation marks format, deleted entries, mojibake, remove unicode
-data$comments <- sapply(data$comments, str_replace_all, "\\\\n", "") %>%
+data$comments <- sapply(data$comments, str_replace_all, "\\\\n", " ") %>%
                   sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
                   gsub("\'\\[removed\\]\', ", "", .) %>%
                   gsub("\'\\[removed\\]\'", "", .) %>%
