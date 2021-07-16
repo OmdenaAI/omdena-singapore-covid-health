@@ -5,6 +5,7 @@ date: "7/9/2021"
 output: html_document
 ---
 
+# Fundamental Data Cleaning
 ## Set Up
 ```{r setup}
 # set directory to path folder containing all csv and this code file only
@@ -81,7 +82,7 @@ data$score <- as.integer(score)
 # convert ratio to numeric data type
 data$upvote_ratio <- as.numeric(upvote_ratio)
 
-# insight found later: 
+# insight found: 
 # coersion here happened because there were completely empty or NA rows
 ```
 
@@ -91,7 +92,6 @@ data$upvote_ratio <- as.numeric(upvote_ratio)
 # remove rows with duplicated id
 data <- distinct(data, id, .keep_all = TRUE)
 # remove rows with deleted entries (empty id or selftext)
-# leave posts with empty body ie. those who brought news, youtube contents onto reddit for discussion
 data <- data[!(is.na(data$id)) &
             !(is.na(data$selftext)| data$selftext == "[removed]" | data$selftext == "[deleted]"),]
 
@@ -99,19 +99,25 @@ data <- data[!(is.na(data$id)) &
 index <- data$upvote_ratio == as.numeric(0)
 data$upvote_ratio[index] <- NA
 
-# remaining NAs in upvote_ratio and author columns
-# rescrape  to get authors, authors should exist if the post exist ._.
-# last try to scrape for upvote ratio
+# remaining NAs in upvote_ratio and author columns 
+# insight found: 
+# most NA are found in entries scraped using unofficial API
+# so try re-scrape using official API for those entries
+
+# filter entries with NA for author or upvote_ratio
 index <- is.na(data$author) | is.na(data$upvote_ratio)
 rescrape <- data[index,]
 write.csv(rescrape, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\rescrape.csv")
+
+# filter for remaining entries
 remaining <- data[!index,]
-rescrape <- read.csv("C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\done_rescrape.csv") %>%
+rescrape <- read.csv("C:\\Users\\20jam\\Documents\\github\\my-code\\data cleaning\\done_rescrape.csv") %>%
   select("subreddit", "subreddit_subscribers", "title", "id", "author", 
                 "created_utc", "num_comments", "score", "selftext", "url", "upvote_ratio", "comments")
-data <- rbind(remaining, rescrape)
 
-# check NAs remaining for author and upvote_ratio
+# bind re-scraped entries with remaining entries
+data <- rbind(remaining, rescrape)
+# check num of NAs remaining for author or upvote_ratio
 index <- is.na(data$author) | is.na(data$upvote_ratio)
 # filter out rows with NA columns still
 data <- filter(data, !is.na(data$author))
@@ -120,7 +126,7 @@ data <- filter(data, !is.na(data$author))
 
 # Multiple imputation on upvote_ratio
 ```{r imputation on upvote_ratio NAs}
-# will not proceed with imputation since upvote_ratio == NA < 0.04%
+# will not proceed with imputation since upvote_ratio == NA < 0.6%
 # delete entries with upvote_ratio == NA
 data <- filter(data, !is.na(data$upvote_ratio))
 
@@ -171,47 +177,20 @@ data <- filter(data, !is.na(data$upvote_ratio))
 ```
 
 
-## Text Cleaning for Posts and Comments
-```{r text cleaning for posts and comments TO MAKE CHANGES}
-# package to correct mojibake
-library(reticulate)
-conda_install(envname = "r-reticulate", packages = "ftfy")
-ftfy <- import("ftfy")
-
-# clean text in post
-# clean whitespaces, format for quotation marks, mojibake, remove unicode
-data$selftext <- sapply(data$selftext, replace_non_ascii) %>%
-                  sapply(ftfy$fix_text) %>%
-                  sapply(str_replace_all, "\\s+", " ") %>%
-                  sapply(str_replace_all, "\\p{quotation mark}", "'")
-
-# Clean text in comments 
-# clean whitespace, quotation marks format, deleted entries, mojibake, remove unicode
-data$comments <- data$comments %>%
-                  sapply(replace_non_ascii) %>%
-                  sapply(ftfy$fix_text) %>%
-                  sapply(str_replace_all, "\\\\n", " ") %>%
-                  sapply(str_replace_all, "\\p{quotation mark}", "'") %>%
-                  gsub("\'\\[removed\\]\', ", "", .) %>%
-                  gsub("\'\\[removed\\]\'", "", .) %>%
-                  gsub("\'\\[deleted\\]\', ", "", .) %>%
-                  gsub("\'\\[deleted\\]\'", "", .)
-```
-
-
-## Split Dataset into Pre & Mid Covid
-```{r split dataset up into pre and mid covid}
-preCOVID_data <- subset(data, data$created_utc < as.Date("2020-01-01"))
-midCOVID_data <- subset(data, data$created_utc > as.Date("2020-01-01"))
+## Filter empty selftext
+```{r others}
+# most post with empty selftext bring news or other external links into reddit for discussion
+# these contents should be covered in other areas scrapped by other teams
+# also it doesn't represent the user's mental state well
+# so we filter it out
+data <- data[!(data$selftext == ""),]
 ```
 
 
 ## Convert Dataframes into CSV
 ```{r convert dataframes into csv}
 # replace the paths respectively
-write.csv(data, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\full_data.csv")
-write.csv(preCOVID_data, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\preCOVID_data.csv")
-write.csv(midCOVID_data, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\midCOVID_data.csv")
+write.csv(data, "C:\\Users\\20jam\\Documents\\github\\my-code\\full_data.csv")
 ```
 
 
