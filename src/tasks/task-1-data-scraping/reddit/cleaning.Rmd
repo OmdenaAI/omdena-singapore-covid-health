@@ -12,6 +12,9 @@ output: html_document
 # ensure no other files are in the same folder
 library(tidyverse)
 library(dplyr)
+library(config)
+library(DBI)
+library(RPostgres)
 library(stringr)
 library(stringi)
 library(reprex)
@@ -48,9 +51,7 @@ data_utc$created_utc <- data_utc$created_utc %>%
                     as.integer() %>%
                     as.POSIXct(., origin = "1970-01-01") %>%
                     as.Date()
-
-# insight found later: 
-# coersion here happened because there were completely empty or NA rows
+data_utc <- filter(data_utc, !is.na(data_utc$created_utc))
 ```
 
 
@@ -81,9 +82,6 @@ data$num_comments <- as.integer(num_comments)
 data$score <- as.integer(score)
 # convert ratio to numeric data type
 data$upvote_ratio <- as.numeric(upvote_ratio)
-
-# insight found: 
-# coersion here happened because there were completely empty or NA rows
 ```
 
 
@@ -107,16 +105,16 @@ data$upvote_ratio[index] <- NA
 # filter entries with NA for author or upvote_ratio
 index <- is.na(data$author) | is.na(data$upvote_ratio)
 rescrape <- data[index,]
-write.csv(rescrape, "C:\\Users\\20jam\\Documents\\a teabag of joy\\data cleaning\\rescrape.csv")
+write.csv(rescrape, "C:\\Users\\20jam\\Documents\\github\\my-code\\data cleaning\\rescrape.csv")
 
 # filter for remaining entries
 remaining <- data[!index,]
-rescrape <- read.csv("C:\\Users\\20jam\\Documents\\github\\my-code\\data cleaning\\done_rescrape.csv") %>%
+done_rescrape <- read.csv("C:\\Users\\20jam\\Documents\\github\\my-code\\data cleaning\\done_rescrape.csv") %>%
   select("subreddit", "subreddit_subscribers", "title", "id", "author", 
                 "created_utc", "num_comments", "score", "selftext", "url", "upvote_ratio", "comments")
 
 # bind re-scraped entries with remaining entries
-data <- rbind(remaining, rescrape)
+data <- rbind(remaining, done_rescrape)
 # check num of NAs remaining for author or upvote_ratio
 index <- is.na(data$author) | is.na(data$upvote_ratio)
 # filter out rows with NA columns still
@@ -190,6 +188,10 @@ data <- data[!(data$selftext == ""),]
 ## Convert Dataframes into CSV
 ```{r convert dataframes into csv}
 # replace the paths respectively
+# note that excel has 32k character limit in each cell, so this file will inevitably
+# have some content spillovered to other cells from comments and selftext displayed
+# but through reading it into r again, error seem to only show in excel
+# crossed check with others - reading in again will not cause formating problem
 write.csv(data, "C:\\Users\\20jam\\Documents\\github\\my-code\\full_data.csv")
 ```
 
