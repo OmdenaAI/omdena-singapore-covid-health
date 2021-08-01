@@ -1,0 +1,11 @@
+build:
+  docker:
+    web: voila.Dockerfile
+    backend: tensorflow.Dockerfile
+run:
+  web: npm run start
+  backend: npm run start
+release:
+  image: web
+  command:
+    - npm run migrate up
