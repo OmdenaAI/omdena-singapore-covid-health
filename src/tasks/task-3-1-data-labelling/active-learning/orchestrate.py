@@ -1,6 +1,7 @@
 import time
 import os
-import numpy as pd
+import pandas as pd
+import pickle
 import sqlalchemy
 from sklearn.model_selection import cross_val_score
 import tensorflow as tf
@@ -21,7 +22,17 @@ WE NEED CSV WITH:
 
 # useful functions
 def evaluate_model(model, x, y):
-    return cross_val_score(model, x, y, scoring = "accuracy", cv = 3)
+    score = cross_val_score(model, x, y, scoring = "accuracy", cv = 3)
+    print(score)
+    if not os.path.isdir("/app/models/"):
+        os.mkdir("/app/models")
+    save_time = time.asctime(time.time())
+    filepath = "/app/models/{}".format(save_time)
+    pickle.dump(model, open(filepath, "wb"))
+    return score
+
+def preprocessor(x, y):
+    return x["title"] + " " + x["clean_selftext"], y
 
 def wait_for_db(db_string):
     database_up = False
@@ -41,7 +52,7 @@ def wait_for_db(db_string):
 # baseline logistic regression model
 model_baseline = Pipeline([
     # encode to utf8, decode, strip accent, lowercase, rm punct, rm stopwords (should I do this?), analyze by words, vectorize, tokenize
-    ("tfidf_vectorizer", TfidfVectorizer(strip_accents = "unicode", lowercase = True, stop_words = "english", max_df = 0.95, min_df = 0.05)), 
+    ("tfidf_vectorizer", TfidfVectorizer(strip_accents = "unicode", lowercase = True, stop_words = "english")), # max_df = 0.95, min_df = 0.05
     ("logistic_regression", LogisticRegression(solver = 'lbfgs', multi_class = "multinomial", max_iter = 5000)) # prob output
 ])
 # nn model
@@ -58,9 +69,10 @@ def modelling(): # change this model according to suitability for text data
     model.compile(keras.optimizers.Adam(), keras.losses.CategoricalCrossentropy())
     return model
 model_nn = Pipeline([
-    ("tfidf_vectorizer", TfidfVectorizer(strip_accents = True, lowercase = True, stop_words = "english")), 
+    ("tfidf_vectorizer", TfidfVectorizer(strip_accents = "unicode", lowercase = True, stop_words = "english")), 
     ("keras_classifier", keras.wrappers.scikit_learn.KerasClassifier(modelling, epochs = 5))
 ])
+# use transfer learning!
 # bert -- to try/ linear SVM -- try?
 
 
@@ -79,15 +91,16 @@ widget = ClassLabeller(
     eval_method = evaluate_model,
     acquisition_function = "entropy", # experiment with this - take note of imabalanced data, output of model
     shuffle_prop = 0.1,
-    model_preprocess = lambda x, y: (x[["title", "clean_selftext"]], y),
+    model_preprocess = preprocessor, # model_preprocess = lambda x, y: (str(x["title"]) + " " + str(x["clean_selftext"]), y),
 )
 
 
 # add data where db is empty
 if len(widget.queue) == 0:
-    clean_data = pd.read_csv("C:\\Users\\20jam\\Documents\\github\\my-code\\fulldata_cleantext.csv")
-    unclean_data = pd.read_csv("C:\\Users\\20jam\\Documents\\github\\my-code\\full_data.csv") # read in dataframe
-    data = pd.concat([unclean_data[["title", "selftext"]], clean_data[["clean_selftext"]]], axis = 1)
+    data = pd.read_csv("/app/clean_fulldata.csv")
+    data = data[["title", "selftext", "clean_selftext"]]
+    # there are some cases with NAN but not all columns NAN, so here we replace NAN with ""
+    data.fillna(value = "", inplace = True)
     widget.add_features(data)
 # retrain model every 30 sec and when we have 10 labels
 if __name__ == "__main__": 

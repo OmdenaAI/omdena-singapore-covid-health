@@ -9,7 +9,7 @@ services:
         POSTGRES_USER: superintendent # randomly set these
         POSTGRES_PASSWORD: superintendent
         POSTGRES_DB: labelling
-        - "POSTGRES_HOST_AUTH_METHOD=trust"
+        POSTGRES_HOST_AUTH_METHOD: trust
       volumes:
         - ./postgres-data:/var/lib/postgresql/data # ensure data persist in ./postgres-data
       ports:
@@ -31,7 +31,9 @@ services:
         environment: *environment 
         entrypoint: python /app/orchestrate.py 
         volumes:
-            - ./orchestrate.py:/app/orchestrate.py        
+            - ./orchestrate.py:/app/orchestrate.py 
+            - ./clean_fulldata.csv:/app/clean_fulldata.csv 
+            - ./models:/app/models      
 
     notebook:
         build:
