@@ -14,7 +14,7 @@
 ## Information Table
 
 | Code Files | Description |
-|-|-|-|
+|-|-|
 | aldata | Sample data for testing (from Reddit) |
 | docker-compose.yml | yml to pull and configure images |
 | orchestrate.py | Set up database connection, model for training and training configurations |
