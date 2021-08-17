@@ -3,12 +3,12 @@
 ## Task Goals
 - Experimentation for Data Labelling using Active Learning
 - Steps:
-  1) Write code to set up backend, frontend and database
+  1) Write code to set up backend, frontend and database (code files above)
   2) Deploy code on AWS EC2
   3) Proceed with labelling by multiple collaborators
   4) When satisfied with performance of labelling model, retrieve labelled datapoints and their labels by exporting csv from "Adminer" port
   5) Copy volume containing trained models into local machine
-  6) Write code to load trained models and test models
+  6) Write code to load trained models and apply model on remaining unlabelled datapoints
   7) Terminate code on AWS
 
 ## Information Table
