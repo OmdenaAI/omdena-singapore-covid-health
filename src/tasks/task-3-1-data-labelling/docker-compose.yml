@@ -1,0 +1,52 @@
+version: "3.1"
+
+services:
+
+    db:
+      image: postgres
+      restart: always
+      environment: &environment
+        POSTGRES_USER: superintendent # randomly set these
+        POSTGRES_PASSWORD: superintendent
+        POSTGRES_DB: labelling
+        POSTGRES_HOST_AUTH_METHOD: trust
+      volumes:
+        - ./postgres-data:/var/lib/postgresql/data # ensure data persist in ./postgres-data
+      ports:
+        - "5432:5432"
+
+    adminer: # to have graphical interface to db
+        image: adminer
+        restart: always
+        ports:
+            - "8080:8080"
+    
+    orchestrator: # mainly for retraining and reordering data in db
+        build:
+            context: .
+            dockerfile: tensorflow.Dockerfile
+        restart: always
+        depends_on:
+            - "db"
+        environment: *environment 
+        entrypoint: python /app/orchestrate.py 
+        volumes:
+            - ./orchestrate.py:/app/orchestrate.py 
+            - ./aldata.csv:/app/aldata.csv 
+            - ./models:/app/models      
+
+    notebook:
+        build:
+            context: .
+            dockerfile: voila.Dockerfile
+        restart: always
+        depends_on:
+            - "db"
+        environment: *environment # same environment as db
+        volumes:
+            - ./voila-interface.ipynb:/home/anaconda/app/app.ipynb # place notebook into home folder
+        ports:
+            - "8866:8866"
+
+
+     
