@@ -1,4 +1,4 @@
-# Task Folder Details
+# Folder Details
 
 ## Information Table
 
