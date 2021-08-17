@@ -12,5 +12,7 @@ Note : Please Follow the below guidelines to create task folders
 | Task No| Task Name | Details |
 |-|-|-|
 |1| Data Scraping | Contains code to collate data and do data quality check |
-|2|         |         |
-|3|         |         |
+|2| Data Labelling | Experimentation code for Active Learning using Docker Compose |
+|3| Data Exploration and Analysis | EDA output visualizations and code to obtain them |
+|4.1| Model Topic Classification | |
+|1.2 | Risk Prediction Models | |
