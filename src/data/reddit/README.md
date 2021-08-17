@@ -1,4 +1,4 @@
-# Folder Details
+# Data Folder Details
 
 ## Information Table
 
