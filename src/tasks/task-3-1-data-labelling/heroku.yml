@@ -1,7 +1,0 @@
-build:
-  docker:
-    web: voila.Dockerfile
-    backend: tensorflow.Dockerfile
-run:
-  web: bundle exec puma -C config/puma.rb
-  backend: python orchestrate.py
