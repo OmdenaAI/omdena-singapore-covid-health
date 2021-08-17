@@ -2,7 +2,7 @@
 
 ## Information Table
 
-| Subfolders | Description |
+| Code Files | Description |
 |-|-|
 | rhey-PRAW.ipynb | Reddit scraper using praw lib |
 | rhey-Pushshift.ipynb | Reddit scraper using pushshift lib |
