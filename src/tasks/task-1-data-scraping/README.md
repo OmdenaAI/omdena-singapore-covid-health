@@ -10,7 +10,7 @@
 
 | Platform | Link | Details |
 |-|-|-|
-| Reddit |  |  |
+| Reddit |  | Scrapers using PMAW, PRAW & Pushshift |
 | Twitter | |  |
 | Instagram | | |
 | Youtube | | |
